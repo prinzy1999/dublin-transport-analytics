@@ -1,0 +1,5 @@
+time_period,total_journeys,total_fare_value,average_fare,compliant_journeys,non_compliant_journeys,validation_issue_journeys,compliance_rate_pct
+Morning Peak,189,490.85,2.6,169,15,5,89.42
+Daytime,318,795.45,2.5,288,17,13,90.57
+Off Peak,223,565.77,2.54,208,7,8,93.27
+Evening Peak,270,700.69,2.6,249,15,6,92.22

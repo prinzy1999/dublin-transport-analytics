@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dublin-transport-analytics"
+version = "0.1.0"
+description = "Dublin public transport journey and fare compliance analytics using NTA GTFS and synthetic passenger data"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+namespaces = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-ra"
+
+# Exclude large GTFS datasets
+/data/gtfs/stop_times.txt
+/data/gtfs/shapes.txt
+/data/processed/dublin/stop_times.csv
+
+# Large GTFS datasets - keep locally, exclude from GitHub
+/data/gtfs/stop_times.txt
+/data/gtfs/shapes.txt
+/data/processed/dublin/stop_times.csv
+
+# Large GTFS files excluded from GitHub
+/data/gtfs/stop_times.txt
+/data/gtfs/shapes.txt
+/data/processed/dublin/stop_times.csv

@@ -1,0 +1,5 @@
+payment_method,total_journeys,total_fare_value,average_fare,compliant_journeys,non_compliant_journeys,validation_issue_journeys,compliance_rate_pct
+Other Ticket,78,200.85,2.58,69,5,4,88.46
+Leap Card,703,1784.56,2.54,645,38,20,91.75
+Contactless,146,377.97,2.59,133,8,5,91.10
+Cash,73,189.38,2.59,67,3,3,91.78

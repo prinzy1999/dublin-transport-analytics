@@ -1,0 +1,38 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.log
+*.tmp
+
+# Large GTFS files
+/data/gtfs/stop_times.txt
+/data/gtfs/shapes.txt
+/data/processed/dublin/stop_times.csv

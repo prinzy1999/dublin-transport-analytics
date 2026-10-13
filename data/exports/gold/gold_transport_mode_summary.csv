@@ -1,0 +1,4 @@
+transport_mode,total_journeys,routes_used,total_fare_value,average_fare,compliant_journeys,non_compliant_journeys,validation_issue_journeys,compliance_rate_pct
+Rail,21,3,78.81,3.75,20,1,0,95.24
+Bus,955,126,2414.1,2.53,870,53,32,91.10
+Luas,24,2,59.85,2.49,24,0,0,100.00

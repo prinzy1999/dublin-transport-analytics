@@ -1,0 +1,6 @@
+passenger_category,total_journeys,total_fare_value,average_fare,compliant_journeys,non_compliant_journeys,validation_issue_journeys,compliance_rate_pct
+Young Adult,107,238.44,2.23,100,5,2,93.46
+Senior,109,160.16,1.47,97,8,4,88.99
+Child,62,98.16,1.58,57,3,2,91.94
+Student,165,370.76,2.25,150,10,5,90.91
+Adult,557,1685.24,3.03,510,28,19,91.56

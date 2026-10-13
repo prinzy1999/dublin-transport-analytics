@@ -1,0 +1,1001 @@
+journey_id,journey_date,journey_year,journey_month,journey_day,day_of_week,day_type,trip_id,route_id,transport_mode,origin_stop_id,origin_stop_name,destination_stop_id,destination_stop_name,departure_hour,time_period,passenger_category,payment_method,fare_amount,validation_status,compliance_status,compliant_flag,non_compliant_flag,validation_issue_flag
+JNY0000001,2026-10-19,2026,10,19,Monday,Weekday,5935_4928,1 15 c a,Bus,8220DB001159,Bushy Park Hse,8220DB001161,Lakelands Pk,10,Daytime,Adult,Leap Card,2.54,Validated,Compliant,1,0,0
+JNY0000002,2026-10-02,2026,10,2,Friday,Weekday,5901_1967,1 13 c a,Bus,8230DB002150,Lindisfarne Lawns,8230DB001965,Woodford Grove,10,Daytime,Adult,Leap Card,2.16,Validated,Compliant,1,0,0
+JNY0000003,2026-10-24,2026,10,24,Saturday,Weekend,5828_27407,3 S8 a,Bus,8230DB002574,De Selby Estate,8230DB004929,Verschoyle Avenue,13,Daytime,Child,Leap Card,1.07,Validated,Compliant,1,0,0
+JNY0000004,2026-10-08,2026,10,8,Thursday,Weekday,5828_17421,3 L55 a,Bus,8230DB004359,Hollyville Lawn,8230DB002202,Kennelsfort Road,13,Daytime,Adult,Leap Card,2.57,Validated,Compliant,1,0,0
+JNY0000005,2026-10-03,2026,10,3,Saturday,Weekend,5901_13481,1 44 c a,Bus,8250DB003474,Stepaside Lane,8250DB003475,Cairnfort,16,Evening Peak,Adult,Leap Card,2.62,Validated,Compliant,1,0,0
+JNY0000006,2026-10-16,2026,10,16,Friday,Weekday,5935_6161,1 151 c a,Bus,8220DB000297,Eden Quay,8220DB002508,Merchants Rd,18,Evening Peak,Adult,Leap Card,2.07,Validated,Compliant,1,0,0
+JNY0000007,2026-10-08,2026,10,8,Thursday,Weekday,5935_14249,1 4 c a,Bus,8220DB000417,Merrion Road,8220DB000418,British Embassy,7,Morning Peak,Adult,Leap Card,2.27,Validated,Compliant,1,0,0
+JNY0000008,2026-10-11,2026,10,11,Sunday,Weekend,5935_11110,1 27B c a,Bus,8220DB001228,Cromcastle Ave,8220DB001233,Castletimon Drive,23,Off Peak,Adult,Contactless,3.47,Validated,Compliant,1,0,0
+JNY0000009,2026-10-02,2026,10,2,Friday,Weekday,5901_110,1 1 e a,Bus,8220DB000119,Whitehall Village,8220DB007603,St Patrick's Campus,14,Daytime,Adult,Leap Card,3.7,Validated,Compliant,1,0,0
+JNY0000010,2026-10-13,2026,10,13,Tuesday,Weekday,5913_1183,2 101 d a,Bus,8240DB001623,Omni Park SC,8240B100411,Bremore,16,Evening Peak,Adult,Leap Card,2.15,Validated,Compliant,1,0,0
+JNY0000011,2026-10-04,2026,10,4,Sunday,Weekend,5935_33181,1 L53 c,Bus,8230DB007803,Tor an Rí,8230DB006289,Adamstown Station,10,Daytime,Senior,Leap Card,1.7,Not Validated,Non-Compliant,0,1,0
+JNY0000012,2026-10-20,2026,10,20,Tuesday,Weekday,5935_15454,1 40E c a,Bus,8220DB001585,Finglas West,8220DB001600,Deanstown Avenue,7,Morning Peak,Student,Leap Card,1.76,Validated,Compliant,1,0,0
+JNY0000013,2026-10-16,2026,10,16,Friday,Weekday,5828_24077,3 S4 a,Bus,8220DB002726,Slievebloom Pk,8220DB002655,Ballyfermot Parade,19,Evening Peak,Adult,Leap Card,3.55,Not Validated,Non-Compliant,0,1,0
+JNY0000014,2026-10-10,2026,10,10,Saturday,Weekend,5935_29374,1 G1,Bus,8220DB006021,Cherry Orchard Ave,8220DB002666,Clifden Drive,19,Evening Peak,Adult,Leap Card,2.19,Validated,Compliant,1,0,0
+JNY0000015,2026-10-05,2026,10,5,Monday,Weekday,5935_7504,1 16 c a,Bus,8220DB000048,Drumcondra Stn,8220DB001294,Tivoli Avenue,16,Evening Peak,Student,Other Ticket,2.63,Validated,Compliant,1,0,0
+JNY0000016,2026-10-02,2026,10,2,Friday,Weekday,5901_1350,1 122 c a,Bus,8220DB000073,Killala Road,8220DB001362,National Stadium,17,Evening Peak,Adult,Leap Card,2.77,Validated,Compliant,1,0,0
+JNY0000017,2026-10-18,2026,10,18,Sunday,Weekend,5935_14745,1 4 c a,Bus,8220DB000485,RDS Ballsbridge,8220DB000492,Mount Street Lower,14,Daytime,Adult,Leap Card,3.49,Validated,Compliant,1,0,0
+JNY0000018,2026-10-03,2026,10,3,Saturday,Weekend,5901_6615,1 19 a,Bus,8220DB008245,Gallaun Road,8220DB000048,Drumcondra Stn,11,Daytime,Child,Leap Card,1.87,Validated,Compliant,1,0,0
+JNY0000019,2026-10-28,2026,10,28,Wednesday,Weekday,5936_10576,DUB-MAYNOOTH-O,Rail,8220IR0027,Drumcondra,8220IR0007,Connolly,23,Off Peak,Student,Leap Card,4.31,Validated,Compliant,1,0,0
+JNY0000020,2026-10-24,2026,10,24,Saturday,Weekend,5935_4402,1 15 c a,Bus,8220DB000666,Mt Temple School,8230DB001140,Woodbrook Pk,9,Morning Peak,Adult,Leap Card,3.19,Validated,Compliant,1,0,0
+JNY0000021,2026-10-02,2026,10,2,Friday,Weekday,5901_15268,1 70 c a,Bus,8220DB001443,Wood Quay,8310DB003329,Loughsallagh,16,Evening Peak,Adult,Leap Card,3.82,Not Validated,Non-Compliant,0,1,0
+JNY0000022,2026-10-02,2026,10,2,Friday,Weekday,5901_18965,1 E1 a,Bus,8350DB004173,The Nurseries,8350DB007574,Southern Cross,8,Morning Peak,Adult,Leap Card,2.7,Validated,Compliant,1,0,0
+JNY0000023,2026-10-26,2026,10,26,Monday,Weekday,5936_11093,DUB-MAYNOOTH-O,Rail,8240IR0030,Hansfield,8310IR0084,Dunboyne,17,Evening Peak,Senior,Leap Card,1.28,Validated,Compliant,1,0,0
+JNY0000024,2026-10-26,2026,10,26,Monday,Weekday,5828_17470,3 L55 a,Bus,8220DB002688,Cleggan Park,8220DB004414,Convent Lawns,16,Evening Peak,Adult,Other Ticket,3.25,Validated,Compliant,1,0,0
+JNY0000025,2026-10-19,2026,10,19,Monday,Weekday,5828_22301,3 S4 a,Bus,8220DB002701,Ballyfermot Cr,8250DB002819,Millmount Trce,14,Daytime,Student,Contactless,2.12,Validated,Compliant,1,0,0
+JNY0000026,2026-10-03,2026,10,3,Saturday,Weekend,5901_25942,1 L54 b,Bus,8230DB007757,Clondalkin Fonthill,8230DB007187,Kew Park,19,Evening Peak,Senior,Leap Card,1.14,Validated,Compliant,1,0,0
+JNY0000027,2026-10-27,2026,10,27,Tuesday,Weekday,5913_3691,2 105 c a,Bus,8310B1010001,Rath,8310B1372401,Emerald Park,19,Evening Peak,Adult,Leap Card,2.17,Validated,Compliant,1,0,0
+JNY0000028,2026-10-01,2026,10,1,Thursday,Weekday,5901_18194,1 C2 c,Bus,8230DB007137,Griffeen Avenue,8230DB002242,The Oval,20,Off Peak,Adult,Leap Card,3.77,Validated,Compliant,1,0,0
+JNY0000029,2026-10-12,2026,10,12,Monday,Weekday,5935_30226,1 H1 c a,Bus,8220DB000727,Ardara Avenue,8240DB000925,Admiral Court,8,Morning Peak,Adult,Leap Card,2.06,Validated,Compliant,1,0,0
+JNY0000030,2026-10-02,2026,10,2,Friday,Weekday,5901_7591,1 27 c a,Bus,8220DB000665,Donnycarney Rd,8220DB000302,Eden Quay,7,Morning Peak,Senior,Contactless,1.66,Validated,Compliant,1,0,0
+JNY0000031,2026-10-06,2026,10,6,Tuesday,Weekday,5828_2578,3 161 d a,Bus,8230DB002937,Edmondstown NS,8250DB007715,Dundrum North,13,Daytime,Adult,Leap Card,2.58,Validated,Compliant,1,0,0
+JNY0000032,2026-10-19,2026,10,19,Monday,Weekday,5828_5831,3 33B d a,Bus,8240DB003728,Healy's Lane,8240DB003729,Burrow Road,15,Daytime,Adult,Leap Card,2.37,Validated,Compliant,1,0,0
+JNY0000033,2026-10-30,2026,10,30,Friday,Weekday,5935_11058,1 27B c a,Bus,8240DB001626,Furry Park,8240DB001627,Turnapin Lane,19,Evening Peak,Adult,Cash,2.1,Not Validated,Non-Compliant,0,1,0
+JNY0000034,2026-10-19,2026,10,19,Monday,Weekday,5913_1443,2 101 d a,Bus,8220DB000048,Drumcondra Stn,8220B134961,Dublin Busáras,5,Off Peak,Adult,Leap Card,2.21,Validated,Compliant,1,0,0
+JNY0000035,2026-10-02,2026,10,2,Friday,Weekday,5901_16229,1 7A c a,Bus,8220DB000005,Parnell Square West,8220DB004962,Mountjoy Square,12,Daytime,Student,Leap Card,2.36,Validated,Compliant,1,0,0
+JNY0000036,2026-10-23,2026,10,23,Friday,Weekday,5935_9917,1 27 c a,Bus,8230DB004446,Airton Road,8230DB002621,Kilclare Dr,13,Daytime,Young Adult,Leap Card,1.92,Validated,Compliant,1,0,0
+JNY0000037,2026-10-07,2026,10,7,Wednesday,Weekday,5828_2870,3 197,Bus,8240DB003682,Glasmore Pk,8310B1012201,Bourne Avenue,17,Evening Peak,Adult,Leap Card,2.66,Validation Error,Validation Issue,0,0,1
+JNY0000038,2026-10-22,2026,10,22,Thursday,Weekday,5935_14782,1 4 c a,Bus,8250DB007330,Bluepool Pitches,8220DB000478,St Vincent's Hosp,15,Daytime,Adult,Contactless,3.29,Validated,Compliant,1,0,0
+JNY0000039,2026-10-27,2026,10,27,Tuesday,Weekday,5828_9505,3 73 a,Bus,8220DB001415,Sperrin Rd,8220DB001418,Mourne Rd W,9,Morning Peak,Young Adult,Leap Card,2.49,Validated,Compliant,1,0,0
+JNY0000040,2026-10-16,2026,10,16,Friday,Weekday,5935_4872,1 15 c a,Bus,8220DB007245,Clongriffin Stn,8220DB006317,Clongriffin Stn,9,Morning Peak,Young Adult,Contactless,1.72,Validated,Compliant,1,0,0
+JNY0000041,2026-10-02,2026,10,2,Friday,Weekday,5901_928,1 120 c a,Bus,8220DB007396,Crescent Park,8220DB005145,Rathbourne Avenue,8,Morning Peak,Student,Contactless,2.96,Validated,Compliant,1,0,0
+JNY0000042,2026-10-10,2026,10,10,Saturday,Weekend,5935_32617,1 L25,Bus,8250DB002878,Kilmacud Avenue,8250DB002032,York Road,21,Off Peak,Adult,Leap Card,2.19,Validated,Compliant,1,0,0
+JNY0000043,2026-10-10,2026,10,10,Saturday,Weekend,5828_28743,3 W2 a,Bus,8230DB002130,Station Road,8230DB002619,Belgard Road,22,Off Peak,Child,Leap Card,1.79,Validated,Compliant,1,0,0
+JNY0000044,2026-10-30,2026,10,30,Friday,Weekday,5828_21134,3 N6,Bus,8220DB001228,Cromcastle Ave,8220DB006078,Cromcastle Rd,16,Evening Peak,Student,Leap Card,1.6,Validated,Compliant,1,0,0
+JNY0000045,2026-10-10,2026,10,10,Saturday,Weekend,5935_18589,1 60,Bus,8230DB001970,Floraville Avenue,8220DB007856,Inns Quay,20,Off Peak,Student,Other Ticket,2.09,Validated,Compliant,1,0,0
+JNY0000046,2026-10-30,2026,10,30,Friday,Weekday,5828_31095,3 W6 a,Bus,8230DB003457,Garters Lane,8230DB002629,Fettercairn Cr,11,Daytime,Adult,Leap Card,2.17,Validated,Compliant,1,0,0
+JNY0000047,2026-10-03,2026,10,3,Saturday,Weekend,5901_18220,1 C2 c,Bus,8220DB000340,Townsend Street,8220DB007739,Park Avenue,2,Off Peak,Adult,Other Ticket,3.51,Validated,Compliant,1,0,0
+JNY0000048,2026-10-03,2026,10,3,Saturday,Weekend,5901_10486,1 39A c a,Bus,8240DB007700,Willian's Drive,8240DB007162,Hansfield Road,19,Evening Peak,Adult,Leap Card,3.7,Validated,Compliant,1,0,0
+JNY0000049,2026-10-02,2026,10,2,Friday,Weekday,5901_25502,1 L25,Bus,8250DB002885,Eden Park Avenue,8250DB002866,Dundrum Luas,18,Evening Peak,Young Adult,Contactless,2.75,Validated,Compliant,1,0,0
+JNY0000050,2026-10-05,2026,10,5,Monday,Weekday,5935_12939,1 39 c a,Bus,8240DB007700,Willian's Drive,8240DB007161,Delhurst,19,Evening Peak,Student,Leap Card,2.1,Validated,Compliant,1,0,0
+JNY0000051,2026-10-01,2026,10,1,Thursday,Weekday,5901_1572,1 122 c a,Bus,8220DB007439,Herberton Drive,8220DB001383,Dolphin Avenue,18,Evening Peak,Adult,Leap Card,3.42,Validated,Compliant,1,0,0
+JNY0000052,2026-10-30,2026,10,30,Friday,Weekday,5828_14903,3 L27 a,Bus,8250DB002024,Rory O'Connor Park,8250DB002033,Knapton Court,13,Daytime,Young Adult,Leap Card,1.61,Validated,Compliant,1,0,0
+JNY0000053,2026-10-09,2026,10,9,Friday,Weekday,5935_30682,1 H1 c a,Bus,8220DB000741,St Donagh's Road,8220DB000742,Raheny Road,13,Daytime,Child,Contactless,1.84,Validated,Compliant,1,0,0
+JNY0000054,2026-10-09,2026,10,9,Friday,Weekday,5935_3946,1 14 c a,Bus,8250DB002845,Wesley College,8220DB001070,Rathmines,8,Morning Peak,Adult,Leap Card,2.47,Validated,Compliant,1,0,0
+JNY0000055,2026-10-27,2026,10,27,Tuesday,Weekday,5828_17369,3 L55 a,Bus,8220DB002688,Cleggan Park,8220DB002689,Blackditch Drive,10,Daytime,Adult,Leap Card,3.77,Validated,Compliant,1,0,0
+JNY0000056,2026-10-02,2026,10,2,Friday,Weekday,5901_20156,1 E2 a,Bus,8250DB002019,Foxrock Avenue,8250DB004565,Kill Avenue,21,Off Peak,Adult,Leap Card,3.91,Validated,Compliant,1,0,0
+JNY0000057,2026-10-17,2026,10,17,Saturday,Weekend,5935_2863,1 130 c a,Bus,8220DB001761,Seapark Rd,8220DB001763,Seafield Rd W,8,Morning Peak,Adult,Cash,3.04,Validated,Compliant,1,0,0
+JNY0000058,2026-10-03,2026,10,3,Saturday,Weekend,5932_3,026 783 a,Bus,8220DB007397,Samuel Beckett Br,8220DB002385,Patrick Street,3,Off Peak,Young Adult,Leap Card,2.52,Validated,Compliant,1,0,0
+JNY0000059,2026-10-17,2026,10,17,Saturday,Weekend,5935_7235,1 15B c a,Bus,8220DB001168,Leicester Avenue,8220DB007582,College Green,20,Off Peak,Student,Leap Card,2.8,Validated,Compliant,1,0,0
+JNY0000060,2026-10-30,2026,10,30,Friday,Weekday,5932_776,1178 785 a,Bus,8220DB000339,Burgh Quay,8220B100111,Westland Row,17,Evening Peak,Adult,Leap Card,3.83,Validated,Compliant,1,0,0
+JNY0000061,2026-10-12,2026,10,12,Monday,Weekday,5935_6583,1 15A c a,Bus,8230DB001112,Perrystown,8230DB001114,Priory Wk,15,Daytime,Senior,Contactless,1.59,Validated,Compliant,1,0,0
+JNY0000062,2026-10-02,2026,10,2,Friday,Weekday,5901_4295,1 150 c a,Bus,8230DB002323,Millgate Dr,8220DB002330,Somerville Avenue,8,Morning Peak,Adult,Leap Card,3.82,Validated,Compliant,1,0,0
+JNY0000063,2026-10-11,2026,10,11,Sunday,Weekend,5858_2680,10000 RED g a,Luas,8220GA00366,Drimnagh,8230GA00341,Hospital,12,Daytime,Adult,Contactless,2.45,Validated,Compliant,1,0,0
+JNY0000064,2026-10-21,2026,10,21,Wednesday,Weekday,5935_11024,1 27B c a,Bus,8220DB004382,Donnycarney,8220DB001227,Kilmore Ave,16,Evening Peak,Adult,Contactless,3.24,Validated,Compliant,1,0,0
+JNY0000065,2026-09-30,2026,9,30,Wednesday,Weekday,5901_15994,1 77A c a,Bus,8230DB002566,Knockmore Gdns,8230DB002371,Temple Wds,16,Evening Peak,Adult,Leap Card,3.31,Validated,Compliant,1,0,0
+JNY0000066,2026-09-30,2026,9,30,Wednesday,Weekday,5828_20098,3 N6,Bus,8220DB001006,Millwood Villas,8220GD007837,Howth Junction,19,Evening Peak,Child,Leap Card,1.94,Validated,Compliant,1,0,0
+JNY0000067,2026-10-05,2026,10,5,Monday,Weekday,5828_26115,3 S6 a,Bus,8230DB002533,Parkwood Lwn,8230DB002616,St Maelruan's Park,20,Off Peak,Student,Leap Card,2.76,Validated,Compliant,1,0,0
+JNY0000068,2026-10-08,2026,10,8,Thursday,Weekday,5932_222,1178 782,Bus,8220DB004425,Heuston Station,8220B1352701,Custom Hse Quay,13,Daytime,Adult,Leap Card,2.11,Validated,Compliant,1,0,0
+JNY0000069,2026-10-23,2026,10,23,Friday,Weekday,5913_69021,2 B1 c a,Bus,8240B1347701,Hastings,8240B1371301,Balbriggan Garda,17,Evening Peak,Adult,Leap Card,3.99,Validated,Compliant,1,0,0
+JNY0000070,2026-10-29,2026,10,29,Thursday,Weekday,5660_89,999 787 a,Bus,8240DB001628,Collinstown B Pk,8240000549,Airport Zone 16,16,Evening Peak,Adult,Leap Card,3.8,Validated,Compliant,1,0,0
+JNY0000071,2026-10-30,2026,10,30,Friday,Weekday,5935_14933,1 40D c a,Bus,8220DB001514,Finglas,8240DB007124,Ballycoolin Bus Pk,7,Morning Peak,Student,Leap Card,2.08,Validated,Compliant,1,0,0
+JNY0000072,2026-10-29,2026,10,29,Thursday,Weekday,5828_6107,3 33B d a,Bus,8240DB003741,Donabate NS,8240DB003745,Newbridge Demesne,10,Daytime,Adult,Leap Card,2.12,Validated,Compliant,1,0,0
+JNY0000073,2026-10-04,2026,10,4,Sunday,Weekend,5828_21212,3 N6,Bus,8220DB004365,Poppintree Park,8220DB007845,Finglas Village,17,Evening Peak,Adult,Leap Card,3.39,Validated,Compliant,1,0,0
+JNY0000074,2026-10-03,2026,10,3,Saturday,Weekend,5901_25780,1 L53 c,Bus,8230DB07755,Clayton Hotel,8230DB004689,Fonthill Retail Pk,15,Daytime,Student,Leap Card,2.33,Validated,Compliant,1,0,0
+JNY0000075,2026-10-10,2026,10,10,Saturday,Weekend,5935_20585,1 77A c a,Bus,8220DB000353,Grnd Canal Quay,8220DB000354,Ringsend Road,15,Daytime,Child,Leap Card,1.22,Validated,Compliant,1,0,0
+JNY0000076,2026-10-10,2026,10,10,Saturday,Weekend,5935_21172,1 80 a,Bus,8230DB002207,Palmers Crescent,8220DB002249,Garda Boat Club,9,Morning Peak,Student,Contactless,2.62,Validated,Compliant,1,0,0
+JNY0000077,2026-10-16,2026,10,16,Friday,Weekday,5935_3146,1 130 c a,Bus,8220DB000516,Newcomen Bridge,8220DB001769,Park Lawn,22,Off Peak,Adult,Leap Card,3.18,Validated,Compliant,1,0,0
+JNY0000078,2026-10-02,2026,10,2,Friday,Weekday,5913_69447,2 B1 c a,Bus,8240B109311,Westbrook Drive,8240B1347401,Balbriggan Station,19,Evening Peak,Student,Leap Card,2.11,Validated,Compliant,1,0,0
+JNY0000079,2026-10-19,2026,10,19,Monday,Weekday,5935_35028,1 N4,Bus,8240DB001842,Old Navan Road,8240DB001645,Collins Avenue Ext,15,Daytime,Adult,Leap Card,2.2,Validated,Compliant,1,0,0
+JNY0000080,2026-10-23,2026,10,23,Friday,Weekday,5935_30119,1 G2 a,Bus,8220DB001996,James's Street,8220DB002499,S O'Casey Br,20,Off Peak,Adult,Leap Card,3.33,Validated,Compliant,1,0,0
+JNY0000081,2026-10-03,2026,10,3,Saturday,Weekend,5901_17588,1 C1 c,Bus,8220DB000398,Erne Street,8230DB005058,Ballyowen Road,19,Evening Peak,Adult,Leap Card,3.6,Validation Error,Validation Issue,0,0,1
+JNY0000082,2026-10-03,2026,10,3,Saturday,Weekend,5901_18306,1 C3 c,Bus,8230DB002219,St Andrews NS,8230DB003887,Ardeevin Avenue,14,Daytime,Student,Cash,2.58,Validation Error,Validation Issue,0,0,1
+JNY0000083,2026-10-04,2026,10,4,Sunday,Weekend,5935_15195,1 40D c a,Bus,8240DB001581,Cappagh Cross,8220DB004725,O'Connell St Upper,14,Daytime,Student,Leap Card,2.48,Validated,Compliant,1,0,0
+JNY0000084,2026-10-01,2026,10,1,Thursday,Weekday,5828_13201,3 L26 a,Bus,8250DB003154,Meadow Vale,8250DB003200,UCD Smurfit,7,Morning Peak,Adult,Contactless,3.73,Validated,Compliant,1,0,0
+JNY0000085,2026-10-27,2026,10,27,Tuesday,Weekday,5828_23294,3 S4 a,Bus,8220DB002102,Balfe Road,8220DB002783,Kylemore Way,10,Daytime,Child,Cash,1.63,Validated,Compliant,1,0,0
+JNY0000086,2026-10-06,2026,10,6,Tuesday,Weekday,5828_31686,3 W6 a,Bus,8230DB003400,Newcastle M,8230DB003405,Cornerpark,13,Daytime,Child,Leap Card,1.57,Validated,Compliant,1,0,0
+JNY0000087,2026-10-02,2026,10,2,Friday,Weekday,5901_8667,1 27B c a,Bus,8220DB000247,Maryfield Drive,8220DB001220,Artane Cottages,10,Daytime,Adult,Leap Card,3.15,Not Validated,Non-Compliant,0,1,0
+JNY0000088,2026-10-19,2026,10,19,Monday,Weekday,5935_25347,1 E1 a,Bus,8250DB004727,Laurence Park,8220DB004680,DCU,16,Evening Peak,Senior,Other Ticket,1.38,Validated,Compliant,1,0,0
+JNY0000089,2026-10-24,2026,10,24,Saturday,Weekend,5935_23663,1 C3 c,Bus,8220DB000395,Ringsend Road,8260DB003963,Intel East,17,Evening Peak,Adult,Leap Card,2.24,Validated,Compliant,1,0,0
+JNY0000090,2026-09-30,2026,9,30,Wednesday,Weekday,5901_23146,1 G2 a,Bus,8220DB007359,Eden Quay,8220DB000407,Custom House,8,Morning Peak,Adult,Leap Card,3.69,Validated,Compliant,1,0,0
+JNY0000091,2026-10-02,2026,10,2,Friday,Weekday,5901_18130,1 C2 c,Bus,8230DB007762,Haydens Lane,8230DB004630,Earlsfort,13,Daytime,Adult,Cash,2.82,Validated,Compliant,1,0,0
+JNY0000092,2026-10-03,2026,10,3,Saturday,Weekend,5901_19297,1 E1 a,Bus,8220DB000758,Victoria Avenue,8350DB004130,Castle Street,20,Off Peak,Child,Leap Card,1.44,Validated,Compliant,1,0,0
+JNY0000093,2026-10-03,2026,10,3,Saturday,Weekend,5901_4815,1 15A c a,Bus,8220DB001020,Rathmines,8230DB001102,Limekiln Park,6,Morning Peak,Student,Leap Card,2.25,Validated,Compliant,1,0,0
+JNY0000094,2026-10-05,2026,10,5,Monday,Weekday,5935_20887,1 7A c a,Bus,8250DB003038,Belgrave Square,8250DB003203,Traverslea Close,23,Off Peak,Adult,Contactless,3.74,Validated,Compliant,1,0,0
+JNY0000095,2026-10-13,2026,10,13,Tuesday,Weekday,5828_25978,3 S6 a,Bus,8230DB002517,Green Acre Ct,8230DB002557,Tallaght Village,17,Evening Peak,Adult,Leap Card,3.79,Validated,Compliant,1,0,0
+JNY0000096,2026-10-05,2026,10,5,Monday,Weekday,5828_19171,3 N2 a,Bus,8220DB004319,Heuston Train Stn,8220DB004378,Cremore Crescent,22,Off Peak,Adult,Cash,3.07,Validated,Compliant,1,0,0
+JNY0000097,2026-10-19,2026,10,19,Monday,Weekday,5935_4655,1 15 c a,Bus,8220DB007579,Redmond's Hill,8220DB001080,Garville Avenue,19,Evening Peak,Adult,Leap Card,2.19,Not Validated,Non-Compliant,0,1,0
+JNY0000098,2026-10-26,2026,10,26,Monday,Weekday,5935_1338,1 120 c a,Bus,8220DB000827,Ventry Park,8220DB007396,Crescent Park,19,Evening Peak,Adult,Leap Card,3.32,Validated,Compliant,1,0,0
+JNY0000099,2026-10-11,2026,10,11,Sunday,Weekend,5828_1325,3 104 d a,Bus,8220DB001773,Blackheath Pk,8220DB004784,Remedial Clinic,21,Off Peak,Adult,Leap Card,3.53,Validated,Compliant,1,0,0
+JNY0000100,2026-10-26,2026,10,26,Monday,Weekday,5935_25627,1 E2 a,Bus,8220DB007277,Baile na Laochra,8250DB000435,Sycamore Crescent,7,Morning Peak,Senior,Contactless,1.47,Validated,Compliant,1,0,0
+JNY0000101,2026-10-16,2026,10,16,Friday,Weekday,5935_26445,1 E2 a,Bus,8250DB002063,Galloping Green,8220DB000005,Parnell Square West,17,Evening Peak,Adult,Leap Card,3.8,Validated,Compliant,1,0,0
+JNY0000102,2026-10-30,2026,10,30,Friday,Weekday,5828_1885,3 111 e a,Bus,8250DB007553,Park Pointe SC,8250DB003214,Churchview Road,11,Daytime,Adult,Leap Card,2.84,Validated,Compliant,1,0,0
+JNY0000103,2026-10-02,2026,10,2,Friday,Weekday,5901_6987,1 23 a,Bus,8220DB001567,Griffith Drive,8220DB000184,Fairfield Rd,8,Morning Peak,Senior,Leap Card,1.52,Validated,Compliant,1,0,0
+JNY0000104,2026-10-02,2026,10,2,Friday,Weekday,5901_6375,1 19 a,Bus,8220DB004683,Balbutcher Drive,8240DB008275,Dardistown,13,Daytime,Student,Contactless,2.9,Validated,Compliant,1,0,0
+JNY0000105,2026-10-01,2026,10,1,Thursday,Weekday,5901_1408,1 122 c a,Bus,8220DB000833,Carnlough Rd South,8220DB001278,College Green,22,Off Peak,Adult,Other Ticket,2.24,Validation Error,Validation Issue,0,0,1
+JNY0000106,2026-10-30,2026,10,30,Friday,Weekday,5828_16400,3 L51 c,Bus,8230DB007807,St Andrews Drive,8230DB007775,Lucan Main Street,14,Daytime,Adult,Other Ticket,3.05,Validated,Compliant,1,0,0
+JNY0000107,2026-10-05,2026,10,5,Monday,Weekday,5935_8524,1 19 a,Bus,8220DB000127,Nursing Home,8220DB000038,Hampstead Avenue,11,Daytime,Student,Contactless,2.54,Validated,Compliant,1,0,0
+JNY0000108,2026-10-05,2026,10,5,Monday,Weekday,5828_28208,3 W2 a,Bus,8230DB007875,M Collins Pk,8230DB004347,Tallaght Luas,12,Daytime,Senior,Contactless,1.39,Validated,Compliant,1,0,0
+JNY0000109,2026-10-12,2026,10,12,Monday,Weekday,5935_16784,1 42 c a,Bus,8220DB001198,Artane Rnbt,8240DB001210,Posie Row,14,Daytime,Adult,Leap Card,3.25,Validated,Compliant,1,0,0
+JNY0000110,2026-10-03,2026,10,3,Saturday,Weekend,5901_5777,1 16 c a,Bus,8220DB001284,Redmond's Hill,8220DB001300,Westbourne Road,15,Daytime,Senior,Leap Card,1.04,Validated,Compliant,1,0,0
+JNY0000111,2026-10-23,2026,10,23,Friday,Weekday,5828_1587,3 111 e a,Bus,8250DB003054,Ulverton Road,8250DB003055,South Winds,10,Daytime,Young Adult,Leap Card,2.39,Validated,Compliant,1,0,0
+JNY0000112,2026-10-01,2026,10,1,Thursday,Weekday,5901_27955,1 X25 c,Bus,8230DB002242,The Oval,8220DB004413,Heuston Station,8,Morning Peak,Adult,Other Ticket,3.0,Validated,Compliant,1,0,0
+JNY0000113,2026-10-02,2026,10,2,Friday,Weekday,5901_5996,1 16 c a,Bus,8240DB001627,Turnapin Lane,8240DB007347,Airport Zone 15,10,Daytime,Adult,Contactless,2.69,Validated,Compliant,1,0,0
+JNY0000114,2026-10-06,2026,10,6,Tuesday,Weekday,5828_16809,3 L52 b a,Bus,8240DB004903,Lohunda Road,8230GD10335,Rokeby Park,6,Morning Peak,Young Adult,Leap Card,2.01,Validated,Compliant,1,0,0
+JNY0000115,2026-10-07,2026,10,7,Wednesday,Weekday,5935_29757,1 G2 a,Bus,8220DB001943,Mount Brown,8220DB001946,Emmet Road,20,Off Peak,Adult,Leap Card,3.9,Validated,Compliant,1,0,0
+JNY0000116,2026-10-23,2026,10,23,Friday,Weekday,5935_32337,1 L25,Bus,8250DB000453,Kilmacud Park,8250DB006100,Monkstown Park,6,Morning Peak,Student,Cash,2.32,Validated,Compliant,1,0,0
+JNY0000117,2026-10-25,2026,10,25,Sunday,Weekend,5935_12738,1 38A c a,Bus,8220DB000080,Phibsborough Church,8220DB000819,Blessington Street,20,Off Peak,Student,Cash,2.89,Validated,Compliant,1,0,0
+JNY0000118,2026-10-09,2026,10,9,Friday,Weekday,5935_29284,1 G1,Bus,8220DB006021,Cherry Orchard Ave,8220DB001992,Inchicore Library,14,Daytime,Adult,Other Ticket,3.28,Not Validated,Non-Compliant,0,1,0
+JNY0000119,2026-10-16,2026,10,16,Friday,Weekday,5935_12698,1 38A c a,Bus,8240DB004745,Damastown IBM,8220DB001701,St Mary's Convent,16,Evening Peak,Adult,Leap Card,3.51,Validated,Compliant,1,0,0
+JNY0000120,2026-10-03,2026,10,3,Saturday,Weekend,5901_791,1 11 c a,Bus,8220DB000884,Norwood Park,8220DB000903,Chelmsford Road,21,Off Peak,Adult,Leap Card,2.68,Validated,Compliant,1,0,0
+JNY0000121,2026-10-07,2026,10,7,Wednesday,Weekday,5935_35474,1 S2,Bus,8220DB002473,Clareville Road,8220DB002800,Sandymount Avenue,15,Daytime,Adult,Contactless,2.84,Validated,Compliant,1,0,0
+JNY0000122,2026-10-03,2026,10,3,Saturday,Weekend,5901_23281,1 G2 a,Bus,8220DB001992,Inchicore Library,8220DB007359,Eden Quay,17,Evening Peak,Senior,Leap Card,1.16,Validated,Compliant,1,0,0
+JNY0000123,2026-10-01,2026,10,1,Thursday,Weekday,5901_27630,1 S2,Bus,8220DB002478,Grosvenor Road,8220DB007931,Beach Road,21,Off Peak,Adult,Leap Card,3.37,Validated,Compliant,1,0,0
+JNY0000124,2026-10-17,2026,10,17,Saturday,Weekend,5935_26668,1 F1 a,Bus,8220DB001532,Prospect Hill N,8220DB007993,Dorset Street Upr,6,Morning Peak,Adult,Leap Card,3.98,Not Validated,Non-Compliant,0,1,0
+JNY0000125,2026-10-27,2026,10,27,Tuesday,Weekday,5935_7937,1 16 c a,Bus,8220DB000021,Drumcondra Village,8220DB000215,Whitehall Cross,17,Evening Peak,Student,Leap Card,1.93,Validated,Compliant,1,0,0
+JNY0000126,2026-10-19,2026,10,19,Monday,Weekday,5935_28400,1 F3 a,Bus,8220DB007999,Cuffe Street,8220DB002394,Kimmage Cross Roads,22,Off Peak,Adult,Leap Card,3.66,Validated,Compliant,1,0,0
+JNY0000127,2026-10-07,2026,10,7,Wednesday,Weekday,5499_13,1179 KL04 a,Bus,8240DB004747,Blanchardstown SC,8240000026,FoodCentral,7,Morning Peak,Adult,Contactless,2.74,Validated,Compliant,1,0,0
+JNY0000128,2026-10-27,2026,10,27,Tuesday,Weekday,5935_11970,1 37 c a,Bus,8220DB000315,Bachelors Walk,8220DB000846,Adelaide Road,14,Daytime,Adult,Leap Card,3.88,Validated,Compliant,1,0,0
+JNY0000129,2026-10-17,2026,10,17,Saturday,Weekend,5935_6730,1 15B c a,Bus,8220DB002914,Orwell Road,8230DB002925,Ballyboden Road,9,Morning Peak,Adult,Leap Card,2.89,Validated,Compliant,1,0,0
+JNY0000130,2026-10-30,2026,10,30,Friday,Weekday,5935_13417,1 39A c a,Bus,8220DB001647,Blackhall Place,8240DB006108,Clonsilla Link Road,15,Daytime,Senior,Leap Card,1.85,Validated,Compliant,1,0,0
+JNY0000131,2026-10-28,2026,10,28,Wednesday,Weekday,5828_825,3 102 d a,Bus,8240DB003702,River Vlly Dr,8240DB003704,River Vlly Rd,17,Evening Peak,Adult,Leap Card,3.98,Validated,Compliant,1,0,0
+JNY0000132,2026-10-05,2026,10,5,Monday,Weekday,5935_22071,1 82 a,Bus,8230DB006163,Greentrees Pk,8230DB001097,Willington Green,20,Off Peak,Senior,Cash,1.09,Validated,Compliant,1,0,0
+JNY0000133,2026-10-13,2026,10,13,Tuesday,Weekday,5935_8865,1 23 a,Bus,8220DB000202,Fairfield Rd,8220DB000159,Griffith Parade,16,Evening Peak,Senior,Other Ticket,1.94,Validated,Compliant,1,0,0
+JNY0000134,2026-10-26,2026,10,26,Monday,Weekday,5828_5041,3 33A d a,Bus,8240DB003674,Equestrian Centre,8240DB003677,Colaiste Choilm,15,Daytime,Student,Leap Card,1.61,Validated,Compliant,1,0,0
+JNY0000135,2026-10-09,2026,10,9,Friday,Weekday,5935_17308,1 43 c a,Bus,8220DB000666,Mt Temple School,8220DB001184,Talbot St East,16,Evening Peak,Young Adult,Leap Card,1.53,Validated,Compliant,1,0,0
+JNY0000136,2026-10-19,2026,10,19,Monday,Weekday,5935_14982,1 40D c a,Bus,8240DB001580,Cappagh Cross,8240DB007559,The Oaks,11,Daytime,Adult,Leap Card,3.27,Validated,Compliant,1,0,0
+JNY0000137,2026-10-16,2026,10,16,Friday,Weekday,5858_3209,10000 RED g a,Luas,8230GA00412,Citywest,8230GA00418,Saggart,21,Off Peak,Senior,Leap Card,1.02,Validated,Compliant,1,0,0
+JNY0000138,2026-09-30,2026,9,30,Wednesday,Weekday,5901_15145,1 7 c a,Bus,8250DB007644,Sallyglen Road,8220DB000495,Pearse Stn,12,Daytime,Young Adult,Leap Card,2.53,Validated,Compliant,1,0,0
+JNY0000139,2026-10-07,2026,10,7,Wednesday,Weekday,5828_27991,3 W2 a,Bus,8230DB005008,Belgard Square N,8230DB004347,Tallaght Luas,9,Morning Peak,Student,Leap Card,1.86,Validated,Compliant,1,0,0
+JNY0000140,2026-10-29,2026,10,29,Thursday,Weekday,5828_9119,3 73 a,Bus,8220DB000501,Clonliffe Ave,8220DB001490,Griffith Ave E,20,Off Peak,Adult,Leap Card,2.82,Not Validated,Non-Compliant,0,1,0
+JNY0000141,2026-10-17,2026,10,17,Saturday,Weekend,5935_27020,1 F1 a,Bus,8220DB000270,O'Connell St Upr,8220DB002386,New Street South,4,Off Peak,Adult,Leap Card,3.87,Validated,Compliant,1,0,0
+JNY0000142,2026-10-28,2026,10,28,Wednesday,Weekday,5828_31817,3 W6 a,Bus,8260DB003917,Maynooth Station,8260DB008082,Community College,18,Evening Peak,Student,Leap Card,2.42,Validated,Compliant,1,0,0
+JNY0000143,2026-10-30,2026,10,30,Friday,Weekday,5935_13466,1 39A c a,Bus,8240DB007029,Ravenwood Road,8240DB007161,Delhurst,18,Evening Peak,Young Adult,Cash,2.46,Validated,Compliant,1,0,0
+JNY0000144,2026-10-21,2026,10,21,Wednesday,Weekday,5828_6732,3 45A d a,Bus,8250DB003246,Johnstown Road,8250DB003239,Crosthwaite Park,15,Daytime,Adult,Other Ticket,2.38,Validated,Compliant,1,0,0
+JNY0000145,2026-10-03,2026,10,3,Saturday,Weekend,5901_17352,1 82 a,Bus,8220DB001074,Harcourt Street,8220DB008513,Westland Row,23,Off Peak,Adult,Cash,2.92,Validated,Compliant,1,0,0
+JNY0000146,2026-10-14,2026,10,14,Wednesday,Weekday,5935_22761,1 C1 c,Bus,8220DB007854,Arran Quay,8220DB000353,Grnd Canal Quay,6,Morning Peak,Adult,Leap Card,3.67,Validated,Compliant,1,0,0
+JNY0000147,2026-10-11,2026,10,11,Sunday,Weekend,5935_13147,1 39 c a,Bus,8240DB007163,Allendale Square,8220DB001847,Old Racecourse,19,Evening Peak,Adult,Cash,2.34,Validated,Compliant,1,0,0
+JNY0000148,2026-10-02,2026,10,2,Friday,Weekday,5901_1921,1 13 c a,Bus,8230DB004671,Cherrywood Ave,8220DB001986,Tyrconnell Rd S,7,Morning Peak,Adult,Leap Card,3.71,Validated,Compliant,1,0,0
+JNY0000149,2026-10-21,2026,10,21,Wednesday,Weekday,5828_3750,3 236 d a,Bus,8240DB004992,Damastown Ind Park,8240DB001546,Tyrrelstown,18,Evening Peak,Adult,Leap Card,3.9,Validated,Compliant,1,0,0
+JNY0000150,2026-10-02,2026,10,2,Friday,Weekday,5936_7273,DUB-DRO/DUN-O,Rail,8310IR0019,Gormanston Stn,8240IR0016,Donabate,18,Evening Peak,Adult,Contactless,4.08,Validated,Compliant,1,0,0
+JNY0000151,2026-10-24,2026,10,24,Saturday,Weekend,5935_10198,1 27 c a,Bus,8220DB000519,North Strand FS,8220DB004699,Stardust Park,6,Morning Peak,Adult,Leap Card,2.56,Validated,Compliant,1,0,0
+JNY0000152,2026-10-05,2026,10,5,Monday,Weekday,5935_16220,1 41B c a,Bus,8240DB001630,ALSAA Sports Club,8240DB003671,Airport Rnbt,23,Off Peak,Adult,Contactless,3.31,Validated,Compliant,1,0,0
+JNY0000153,2026-10-29,2026,10,29,Thursday,Weekday,5935_10820,1 27A c a,Bus,8220DB001221,Elm Mt Rd,8220DB000620,Talbot St East,16,Evening Peak,Adult,Leap Card,3.75,Validated,Compliant,1,0,0
+JNY0000154,2026-09-30,2026,9,30,Wednesday,Weekday,5828_14688,3 L27 a,Bus,8250DB003309,Kerrymount Green,8250DB004775,Leopardstown Valley,23,Off Peak,Student,Other Ticket,2.99,Validated,Compliant,1,0,0
+JNY0000155,2026-10-02,2026,10,2,Friday,Weekday,5901_6084,1 16 c a,Bus,8220DB001359,College Green,8240DB001625,Morton Stadium,13,Daytime,Adult,Leap Card,2.54,Validated,Compliant,1,0,0
+JNY0000156,2026-10-21,2026,10,21,Wednesday,Weekday,5935_10688,1 27A c a,Bus,8220DB001789,Clonrosse Drive,8220DB007199,Blunden Drive,16,Evening Peak,Adult,Leap Card,3.23,Validated,Compliant,1,0,0
+JNY0000157,2026-10-02,2026,10,2,Friday,Weekday,5901_1159,1 120 c a,Bus,8220DB000828,Broombridge Station,8220DB000819,Blessington Street,17,Evening Peak,Senior,Leap Card,1.27,Validated,Compliant,1,0,0
+JNY0000158,2026-10-23,2026,10,23,Friday,Weekday,5828_17019,3 L52 b a,Bus,8230GD10335,Rokeby Park,8230DB003888,Old Cornmill Road,20,Off Peak,Student,Leap Card,1.82,Validated,Compliant,1,0,0
+JNY0000159,2026-10-09,2026,10,9,Friday,Weekday,5828_7570,3 45A d a,Bus,8350DB004175,St Fergal's Church,8350DB005092,Cemetery,20,Off Peak,Student,Contactless,2.06,Validated,Compliant,1,0,0
+JNY0000160,2026-10-12,2026,10,12,Monday,Weekday,5935_35368,1 S2,Bus,8220DB000780,Burlington Road,8220DB000781,Baggot Street,10,Daytime,Student,Other Ticket,2.17,Validated,Compliant,1,0,0
+JNY0000161,2026-10-04,2026,10,4,Sunday,Weekend,5935_31089,1 H2 c a,Bus,8220DB000598,Avondale Park,8220DB007591,Abbey St Lower,12,Daytime,Adult,Contactless,2.86,Validated,Compliant,1,0,0
+JNY0000162,2026-10-05,2026,10,5,Monday,Weekday,5828_24802,3 S6 a,Bus,8250GD10093,Deerpark Road,8250DB003032,Blackrock Park,13,Daytime,Student,Leap Card,2.14,Validated,Compliant,1,0,0
+JNY0000163,2026-10-17,2026,10,17,Saturday,Weekend,5935_15722,1 41 c a,Bus,8220DB007602,St Patrick's Campus,8220DB000205,Iveragh Road,13,Daytime,Adult,Leap Card,2.26,Validated,Compliant,1,0,0
+JNY0000164,2026-10-13,2026,10,13,Tuesday,Weekday,5913_1056,2 101 d a,Bus,8240B1333201,Balrothery,8240B1003001,Drogheda Street,12,Daytime,Student,Leap Card,1.97,Validated,Compliant,1,0,0
+JNY0000165,2026-10-01,2026,10,1,Thursday,Weekday,5901_27721,1 S2,Bus,8220DB002794,Castlewood Avenue,8220DB004407,Victoria Quay,11,Daytime,Young Adult,Other Ticket,2.89,Not Validated,Non-Compliant,0,1,0
+JNY0000166,2026-10-02,2026,10,2,Friday,Weekday,5901_20124,1 E2 a,Bus,8250DB007353,Priory Grove,8250DB002019,Foxrock Avenue,19,Evening Peak,Adult,Cash,3.67,Validated,Compliant,1,0,0
+JNY0000167,2026-10-09,2026,10,9,Friday,Weekday,5935_16739,1 42 c a,Bus,8220DB000497,Connolly Stn,8240DB003615,Wendell Avenue,9,Morning Peak,Young Adult,Leap Card,2.27,Validated,Compliant,1,0,0
+JNY0000168,2026-10-02,2026,10,2,Friday,Weekday,5901_5822,1 16 c a,Bus,8220DB000047,Archbishop's House,8250DB002970,Marlay Park,17,Evening Peak,Adult,Leap Card,3.35,Validated,Compliant,1,0,0
+JNY0000169,2026-10-05,2026,10,5,Monday,Weekday,5935_6382,1 15A c a,Bus,8220DB000494,Clare Street,8220DB000400,Shaw Street,17,Evening Peak,Adult,Leap Card,2.68,Validated,Compliant,1,0,0
+JNY0000170,2026-10-06,2026,10,6,Tuesday,Weekday,5858_3827,10000 RED g a,Luas,8230GA00345,Tallaght,8220GA00409,Abbey St.,15,Daytime,Adult,Cash,3.5,Validated,Compliant,1,0,0
+JNY0000171,2026-09-30,2026,9,30,Wednesday,Weekday,5901_1435,1 122 c a,Bus,8220DB001469,Goldenbridge,8220DB000059,Cabra Road,8,Morning Peak,Student,Leap Card,2.01,Validated,Compliant,1,0,0
+JNY0000172,2026-10-19,2026,10,19,Monday,Weekday,5935_27796,1 F2 a,Bus,8220DB007995,Kevin Street,8220DB001520,Barry Road,9,Morning Peak,Child,Contactless,1.78,Validated,Compliant,1,0,0
+JNY0000173,2026-10-02,2026,10,2,Friday,Weekday,5901_16908,1 80 a,Bus,8220DB001449,Conyngham Road,8220DB002194,Chapelizod Rd,23,Off Peak,Senior,Cash,1.49,Validated,Compliant,1,0,0
+JNY0000174,2026-09-30,2026,9,30,Wednesday,Weekday,5828_739,3 102 d a,Bus,8240DB003619,Robswall,8240DB003635,Hanlon's Lane,13,Daytime,Adult,Leap Card,3.13,Validated,Compliant,1,0,0
+JNY0000175,2026-10-03,2026,10,3,Saturday,Weekend,5901_25537,1 L25,Bus,8250DB002883,Sweet Briar Lane,8250DB002866,Dundrum Luas,20,Off Peak,Adult,Leap Card,3.74,Validated,Compliant,1,0,0
+JNY0000176,2026-10-29,2026,10,29,Thursday,Weekday,5828_2368,3 114 d a,Bus,8250DB003182,Heather Road,8250DB006199,Rockview,14,Daytime,Senior,Leap Card,1.17,Validated,Compliant,1,0,0
+JNY0000177,2026-09-30,2026,9,30,Wednesday,Weekday,5828_27324,3 S8 a,Bus,8230DB002984,Moyville Lawns,8230DB006022,Kingswood Avenue,10,Daytime,Child,Leap Card,1.86,Validated,Compliant,1,0,0
+JNY0000178,2026-10-30,2026,10,30,Friday,Weekday,5935_28026,1 F2 a,Bus,8230DB001100,Willington Lawn,8220DB008044,Cuffe Street,21,Off Peak,Young Adult,Leap Card,1.75,Validated,Compliant,1,0,0
+JNY0000179,2026-10-22,2026,10,22,Thursday,Weekday,5935_7534,1 16 c a,Bus,8220DB001293,Harold's Cross Vlge,8220DB001296,Mount Tallant Ave,18,Evening Peak,Adult,Leap Card,2.28,Validated,Compliant,1,0,0
+JNY0000180,2026-10-12,2026,10,12,Monday,Weekday,5935_5886,1 151 c a,Bus,8220DB002097,Raphoe Road,8220DB002099,Crumlin Hospl,15,Daytime,Adult,Leap Card,3.22,Validated,Compliant,1,0,0
+JNY0000181,2026-10-23,2026,10,23,Friday,Weekday,5935_19093,1 68 c a,Bus,8230DB003409,Peamount,8230DB001980,John F. Kennedy Dr,19,Evening Peak,Adult,Leap Card,2.91,Validation Error,Validation Issue,0,0,1
+JNY0000182,2026-10-12,2026,10,12,Monday,Weekday,5935_4475,1 15 c a,Bus,8230DB001142,Knockcullen Rise,8230DB001145,Knocklyon Shop Cntr,13,Daytime,Adult,Other Ticket,2.61,Validated,Compliant,1,0,0
+JNY0000183,2026-10-26,2026,10,26,Monday,Weekday,5828_9153,3 73 a,Bus,8220DB000501,Clonliffe Ave,8220DB001487,Marino Institute,20,Off Peak,Adult,Leap Card,2.86,Not Validated,Non-Compliant,0,1,0
+JNY0000184,2026-10-27,2026,10,27,Tuesday,Weekday,5935_16097,1 41 c a,Bus,8240DB001633,Dardistown,8220DB000277,O'Connell St Upper,19,Evening Peak,Young Adult,Leap Card,2.07,Validated,Compliant,1,0,0
+JNY0000185,2026-09-30,2026,9,30,Wednesday,Weekday,5901_1873,1 13 c a,Bus,8230DB004666,Saint John's Avenue,8230DB002139,Lindisfarne Lawns,22,Off Peak,Student,Leap Card,2.17,Validated,Compliant,1,0,0
+JNY0000186,2026-10-01,2026,10,1,Thursday,Weekday,5901_20221,1 E2 a,Bus,8250DB004636,Galloping Green,8250DB002022,Kill Abbey,2,Off Peak,Adult,Leap Card,3.5,Validated,Compliant,1,0,0
+JNY0000187,2026-10-06,2026,10,6,Tuesday,Weekday,5935_2849,1 130 c a,Bus,8220DB001758,Baymount Pk,8220DB001761,Seapark Rd,8,Morning Peak,Adult,Leap Card,3.77,Validated,Compliant,1,0,0
+JNY0000188,2026-10-16,2026,10,16,Friday,Weekday,5935_19578,1 7 c a,Bus,8220DB000005,Parnell Square West,8220DB004962,Mountjoy Square,17,Evening Peak,Adult,Contactless,3.27,Validated,Compliant,1,0,0
+JNY0000189,2026-10-18,2026,10,18,Sunday,Weekend,5935_18781,1 65B c a,Bus,8220DB001078,Rathmines Park,8230DB004873,Old Court Farm,9,Morning Peak,Child,Leap Card,1.89,Validated,Compliant,1,0,0
+JNY0000190,2026-10-02,2026,10,2,Friday,Weekday,5901_4446,1 150 c a,Bus,8220DB001398,Windmill Rd,8220DB004857,Rutledge Terrace,22,Off Peak,Adult,Leap Card,3.32,Validated,Compliant,1,0,0
+JNY0000191,2026-10-13,2026,10,13,Tuesday,Weekday,5935_2221,1 13 c a,Bus,8220DB001955,Concorde B Park,8230DB004379,Red Cow Luas,12,Daytime,Young Adult,Contactless,2.88,Validated,Compliant,1,0,0
+JNY0000192,2026-10-25,2026,10,25,Sunday,Weekend,5932_224,1178 782,Bus,8220DB004425,Heuston Station,8220DB001479,Ormond Quay Upr,13,Daytime,Student,Leap Card,2.15,Not Validated,Non-Compliant,0,1,0
+JNY0000193,2026-10-06,2026,10,6,Tuesday,Weekday,5935_5692,1 150 c a,Bus,8220DB007413,Dean Street,8220DB004494,Hawkins Street,17,Evening Peak,Child,Other Ticket,1.88,Validation Error,Validation Issue,0,0,1
+JNY0000194,2026-10-28,2026,10,28,Wednesday,Weekday,5828_26086,3 S6 a,Bus,8250GD10159,Stoney Road,8230DB005130,Charleville Square,19,Evening Peak,Adult,Leap Card,3.9,Not Validated,Non-Compliant,0,1,0
+JNY0000195,2026-10-25,2026,10,25,Sunday,Weekend,5936_4622,BRAY-HOWTH-I,Rail,8220IR0007,Connolly,8220IR0141,Kilbarrack,19,Evening Peak,Adult,Leap Card,4.16,Validated,Compliant,1,0,0
+JNY0000196,2026-10-18,2026,10,18,Sunday,Weekend,5935_17087,1 42 c a,Bus,8220DB001218,Belcamp Lane,8220DB000616,North Strand FS,23,Off Peak,Adult,Leap Card,3.95,Validated,Compliant,1,0,0
+JNY0000197,2026-10-23,2026,10,23,Friday,Weekday,5935_11452,1 33 c a,Bus,8240DB003808,Craoibhin Park,8240DB007174,Peter & Paul Church,20,Off Peak,Young Adult,Other Ticket,2.92,Validated,Compliant,1,0,0
+JNY0000198,2026-10-18,2026,10,18,Sunday,Weekend,5935_14785,1 4 c a,Bus,8220DB000478,St Vincent's Hosp,8220DB000490,Haddington Road,16,Evening Peak,Adult,Leap Card,2.38,Validated,Compliant,1,0,0
+JNY0000199,2026-10-03,2026,10,3,Saturday,Weekend,5901_13177,1 42 c a,Bus,8240DB003630,Malahide Com School,8220DB000619,Five Lamps,16,Evening Peak,Adult,Leap Card,2.76,Validated,Compliant,1,0,0
+JNY0000200,2026-10-02,2026,10,2,Friday,Weekday,5901_26071,1 L54 b,Bus,8230DB004001,Liffey Valley Golf,8230DB004550,Watery Lane,18,Evening Peak,Child,Leap Card,1.92,Validated,Compliant,1,0,0
+JNY0000201,2026-10-26,2026,10,26,Monday,Weekday,5858_2846,10000 RED g a,Luas,8230GA00392,Fettercairn,8230GA00418,Saggart,14,Daytime,Adult,Leap Card,3.68,Validated,Compliant,1,0,0
+JNY0000202,2026-10-05,2026,10,5,Monday,Weekday,5935_30817,1 H1 c a,Bus,8220DB000611,Hollybrook Park,8220DB000618,Newcomen Bridge,21,Off Peak,Student,Leap Card,2.25,Validated,Compliant,1,0,0
+JNY0000203,2026-10-15,2026,10,15,Thursday,Weekday,5858_3168,10000 RED g a,Luas,8220GA00398,Smithfield,8220GA00366,Drimnagh,20,Off Peak,Adult,Leap Card,3.88,Validated,Compliant,1,0,0
+JNY0000204,2026-10-08,2026,10,8,Thursday,Weekday,5828_9615,3 73 a,Bus,8220DB007888,Winetavern Street,8220DB001937,High Street,10,Daytime,Adult,Leap Card,3.44,Validated,Compliant,1,0,0
+JNY0000205,2026-10-01,2026,10,1,Thursday,Weekday,5901_19569,1 E1 a,Bus,8350DB004180,Killarney Road,8350DB004416,Roseville Court,12,Daytime,Adult,Leap Card,2.7,Not Validated,Non-Compliant,0,1,0
+JNY0000206,2026-10-05,2026,10,5,Monday,Weekday,5828_30792,3 W4 a,Bus,8230DB007761,Glen Vale,8230DB002239,Liffey Valley SC,18,Evening Peak,Adult,Leap Card,3.8,Validated,Compliant,1,0,0
+JNY0000207,2026-10-30,2026,10,30,Friday,Weekday,5828_13629,3 L26 a,Bus,8250DB003159,Cemetery,8250DB003199,Proby Square,22,Off Peak,Adult,Leap Card,2.65,Validated,Compliant,1,0,0
+JNY0000208,2026-10-05,2026,10,5,Monday,Weekday,5935_17730,1 47 c a,Bus,8220DB002085,RTE,8220DB000391,St Brendan's Ctgs,19,Evening Peak,Adult,Leap Card,2.26,Validated,Compliant,1,0,0
+JNY0000209,2026-10-27,2026,10,27,Tuesday,Weekday,5828_20214,3 N6,Bus,8220DB000126,Nursing Home,8220DB001012,Naomh Barróg GAA,20,Off Peak,Senior,Leap Card,1.12,Validated,Compliant,1,0,0
+JNY0000210,2026-10-12,2026,10,12,Monday,Weekday,5828_29053,3 W2 a,Bus,8230DB004646,Tallaght Hospl,8230DB002116,Michael Collins Pk,10,Daytime,Adult,Leap Card,2.98,Validated,Compliant,1,0,0
+JNY0000211,2026-10-07,2026,10,7,Wednesday,Weekday,5828_23408,3 S4 a,Bus,8220DB002727,Drimnagh Cstl,8220DB002780,Walkinstown Ave,11,Daytime,Adult,Contactless,3.67,Validated,Compliant,1,0,0
+JNY0000212,2026-10-30,2026,10,30,Friday,Weekday,5828_5307,3 33A d a,Bus,8240DB003751,North Street,8240DB007348,Airport Zone 15,11,Daytime,Young Adult,Leap Card,2.49,Validated,Compliant,1,0,0
+JNY0000213,2026-10-29,2026,10,29,Thursday,Weekday,5828_24979,3 S6 a,Bus,8230DB002544,Woodlawn,8230DB001134,Rathfarnham SC,16,Evening Peak,Adult,Leap Card,3.36,Validated,Compliant,1,0,0
+JNY0000214,2026-10-30,2026,10,30,Friday,Weekday,5935_33488,1 L54 b,Bus,8230DB002232,Ballydowd Grove,8230DB004550,Watery Lane,7,Morning Peak,Adult,Leap Card,3.96,Validated,Compliant,1,0,0
+JNY0000215,2026-10-19,2026,10,19,Monday,Weekday,5935_14402,1 4 c a,Bus,8250DB000428,Blackrock College,8250DB003115,Stradbrook Road,14,Daytime,Student,Leap Card,1.57,Validated,Compliant,1,0,0
+JNY0000216,2026-10-26,2026,10,26,Monday,Weekday,5935_11845,1 37 c a,Bus,8220DB001656,McKee Park,8240DB002959,Blanchardstown Ctr,23,Off Peak,Student,Leap Card,1.7,Validated,Compliant,1,0,0
+JNY0000217,2026-10-26,2026,10,26,Monday,Weekday,5828_21462,3 N6,Bus,8240DB006219,Melville Rd,8240DB006364,Century Business Pk,21,Off Peak,Adult,Cash,3.51,Validated,Compliant,1,0,0
+JNY0000218,2026-10-09,2026,10,9,Friday,Weekday,5935_35752,1 S2,Bus,8220DB000754,Burlington Road,8220DB002485,Kimmage,13,Daytime,Young Adult,Leap Card,2.54,Validated,Compliant,1,0,0
+JNY0000219,2026-10-02,2026,10,2,Friday,Weekday,5828_6435,3 33T d a,Bus,8240DB003725,Middlefield Lane,8240DB003729,Burrow Road,8,Morning Peak,Child,Contactless,1.64,Validated,Compliant,1,0,0
+JNY0000220,2026-10-22,2026,10,22,Thursday,Weekday,5828_6360,3 33B d a,Bus,8240DB003732,Marsh Lane,8240DB007723,Semple Woods,19,Evening Peak,Adult,Contactless,2.17,Validated,Compliant,1,0,0
+JNY0000221,2026-10-24,2026,10,24,Saturday,Weekend,5936_3360,BRAY-HOWTH-I,Rail,8220IR0035,Raheny,8240IR0025,Howth Junction and Donaghmede,12,Daytime,Adult,Leap Card,4.34,Validated,Compliant,1,0,0
+JNY0000222,2026-10-01,2026,10,1,Thursday,Weekday,5901_13309,1 43 c a,Bus,8220DB001201,Dunree Pk,8240DB004330,Swords Pavilions,17,Evening Peak,Adult,Leap Card,3.69,Validated,Compliant,1,0,0
+JNY0000223,2026-10-23,2026,10,23,Friday,Weekday,5935_14818,1 4 c a,Bus,8250DB003162,Rowan Park,8220DB000480,Netherlands Embassy,17,Evening Peak,Student,Leap Card,2.2,Validated,Compliant,1,0,0
+JNY0000224,2026-10-12,2026,10,12,Monday,Weekday,5935_35699,1 S2,Bus,8220DB004514,St James's Hospital,8220DB001997,Watling Street,11,Daytime,Adult,Cash,2.33,Validated,Compliant,1,0,0
+JNY0000225,2026-10-08,2026,10,8,Thursday,Weekday,5828_29153,3 W2 a,Bus,8230DB007879,Cappaghmore,8230DB002121,Rowlagh,12,Daytime,Student,Leap Card,1.91,Validated,Compliant,1,0,0
+JNY0000226,2026-10-02,2026,10,2,Friday,Weekday,5901_18309,1 C3 c,Bus,8220DB007857,Merchant's Quay,8220DB007012,Memorial Gardens,14,Daytime,Young Adult,Contactless,1.75,Validated,Compliant,1,0,0
+JNY0000227,2026-10-17,2026,10,17,Saturday,Weekend,5828_77,3 102 d a,Bus,8240DB000950,Baldoyle Ch,8240DB000952,Strand Road,9,Morning Peak,Adult,Leap Card,3.01,Validated,Compliant,1,0,0
+JNY0000228,2026-10-18,2026,10,18,Sunday,Weekend,5935_13062,1 39 c a,Bus,8240DB001897,Castlefield Woods,8240DB007166,Navan Rd Stn,11,Daytime,Student,Other Ticket,2.32,Validated,Compliant,1,0,0
+JNY0000229,2026-10-27,2026,10,27,Tuesday,Weekday,5913_69249,2 B1 c a,Bus,8240B1007101,Balbriggan Comm Sch,8240B109261,Hamlet Lane,11,Daytime,Senior,Leap Card,2.0,Validated,Compliant,1,0,0
+JNY0000230,2026-10-04,2026,10,4,Sunday,Weekend,5935_12899,1 39 c a,Bus,8220DB001443,Wood Quay,8240DB001877,St Ciaran's Church,14,Daytime,Adult,Leap Card,3.54,Validated,Compliant,1,0,0
+JNY0000231,2026-10-27,2026,10,27,Tuesday,Weekday,5935_12221,1 38 c a,Bus,8240DB007382,Damastown Close,8240DB004743,Damastown Drive,19,Evening Peak,Young Adult,Leap Card,2.71,Validated,Compliant,1,0,0
+JNY0000232,2026-10-03,2026,10,3,Saturday,Weekend,5901_16074,1 7A c a,Bus,8220DB004725,O'Connell St Upper,8220DB000411,Mount Street Br,7,Morning Peak,Adult,Contactless,3.72,Not Validated,Non-Compliant,0,1,0
+JNY0000233,2026-10-27,2026,10,27,Tuesday,Weekday,5935_9041,1 23 a,Bus,8240DB006366,Century Business Pk,8220DB000182,Met Éireann,10,Daytime,Senior,Other Ticket,1.2,Validated,Compliant,1,0,0
+JNY0000234,2026-10-23,2026,10,23,Friday,Weekday,5828_18619,3 N2 a,Bus,8220DB004458,Military Cemetery,8220DB000118,Clare Road,8,Morning Peak,Adult,Leap Card,3.27,Validated,Compliant,1,0,0
+JNY0000235,2026-10-01,2026,10,1,Thursday,Weekday,5901_20110,1 E2 a,Bus,8220DB000187,Munster Street,8250DB002018,Kill Lane,18,Evening Peak,Adult,Leap Card,2.09,Validated,Compliant,1,0,0
+JNY0000236,2026-10-12,2026,10,12,Monday,Weekday,5935_4380,1 15 c a,Bus,8230DB004869,St Colmcilles Way,8230DB004870,Woodstown Crescent,9,Morning Peak,Adult,Leap Card,3.49,Validated,Compliant,1,0,0
+JNY0000237,2026-10-02,2026,10,2,Friday,Weekday,5901_5528,1 15B c a,Bus,8220DB001167,Garville Avenue,8220DB001354,Redmond's Hill,15,Daytime,Adult,Leap Card,2.57,Validated,Compliant,1,0,0
+JNY0000238,2026-10-12,2026,10,12,Monday,Weekday,5935_8550,1 19 a,Bus,8240DB000327,Silloge Golf Club,8220DB000113,Trinity Comp School,12,Daytime,Child,Leap Card,1.65,Validated,Compliant,1,0,0
+JNY0000239,2026-10-13,2026,10,13,Tuesday,Weekday,5933_125,135 500 c,Bus,8240DB004912,Lioscian,8240DB004914,Valley View,17,Evening Peak,Adult,Cash,3.09,Validated,Compliant,1,0,0
+JNY0000240,2026-10-09,2026,10,9,Friday,Weekday,5935_7660,1 16 c a,Bus,8220DB001297,Whitton Road,8250DB002969,Highfield Ave,23,Off Peak,Adult,Cash,2.75,Validation Error,Validation Issue,0,0,1
+JNY0000241,2026-10-14,2026,10,14,Wednesday,Weekday,5935_14911,1 4 c a,Bus,8250DB003163,Stradbrook Road,8220DB000489,St Mary's Rd South,22,Off Peak,Senior,Leap Card,1.89,Validated,Compliant,1,0,0
+JNY0000242,2026-10-02,2026,10,2,Friday,Weekday,5901_2722,1 130 c a,Bus,8220DB001755,Seapark Aparts,8220DB000620,Talbot St East,23,Off Peak,Adult,Other Ticket,3.71,Validated,Compliant,1,0,0
+JNY0000243,2026-10-20,2026,10,20,Tuesday,Weekday,5935_21971,1 82 a,Bus,8220DB000369,Sean Moore Rd,8230DB002351,Maplewood,13,Daytime,Adult,Cash,3.25,Validated,Compliant,1,0,0
+JNY0000244,2026-10-14,2026,10,14,Wednesday,Weekday,5828_20604,3 N6,Bus,8220DB000967,Coolock Drive,8220DB007845,Finglas Village,8,Morning Peak,Young Adult,Leap Card,2.01,Validated,Compliant,1,0,0
+JNY0000245,2026-10-19,2026,10,19,Monday,Weekday,5935_35411,1 S2,Bus,8220DB007931,Beach Road,8220DB000369,Sean Moore Rd,13,Daytime,Student,Leap Card,1.65,Validated,Compliant,1,0,0
+JNY0000246,2026-10-12,2026,10,12,Monday,Weekday,5935_13403,1 39A c a,Bus,8220DB000773,Donnybrook Stdm,8220DB001805,Dunard,14,Daytime,Child,Leap Card,1.22,Validation Error,Validation Issue,0,0,1
+JNY0000247,2026-10-12,2026,10,12,Monday,Weekday,5935_26055,1 E2 a,Bus,8220DB000039,The Rise,8220DB000845,Leeson Street Lwr,22,Off Peak,Adult,Leap Card,3.22,Validated,Compliant,1,0,0
+JNY0000248,2026-10-26,2026,10,26,Monday,Weekday,5935_18438,1 60,Bus,8220DB001444,Merchant's Quay,8220DB004407,Victoria Quay,10,Daytime,Senior,Leap Card,1.53,Validated,Compliant,1,0,0
+JNY0000249,2026-10-02,2026,10,2,Friday,Weekday,5901_14462,1 65 e,Bus,8220DB001121,Terenure Lbry,8230DB004445,Killinarden W,20,Off Peak,Adult,Leap Card,2.65,Validated,Compliant,1,0,0
+JNY0000250,2026-10-05,2026,10,5,Monday,Weekday,5935_26412,1 E2 a,Bus,8220DB000199,Munster Street,8220DB000148,Mobhi Road,17,Evening Peak,Adult,Contactless,2.17,Validated,Compliant,1,0,0
+JNY0000251,2026-10-27,2026,10,27,Tuesday,Weekday,5828_28967,3 W2 a,Bus,8230DB002115,Oakfield,8230DB002117,Station Road,9,Morning Peak,Child,Cash,1.69,Validated,Compliant,1,0,0
+JNY0000252,2026-10-18,2026,10,18,Sunday,Weekend,5935_20057,1 74,Bus,8230DB002919,Willbrook Road,8250DB002969,Highfield Ave,0,Off Peak,Adult,Leap Card,2.65,Validated,Compliant,1,0,0
+JNY0000253,2026-10-16,2026,10,16,Friday,Weekday,5935_10271,1 27 c a,Bus,8220DB001197,Artane Cottages,8220DB001266,Clonshaugh Drive,10,Daytime,Adult,Leap Card,3.06,Validated,Compliant,1,0,0
+JNY0000254,2026-10-30,2026,10,30,Friday,Weekday,5935_15142,1 40D c a,Bus,8220DB001536,Glasnevin Cemetery,8220DB000838,Charleville Lawn,9,Morning Peak,Adult,Leap Card,3.89,Validated,Compliant,1,0,0
+JNY0000255,2026-10-26,2026,10,26,Monday,Weekday,5858_2730,10000 RED g a,Luas,8220GA00360,Bluebell,8230GA00338,Cookstown,13,Daytime,Adult,Leap Card,3.49,Validated,Compliant,1,0,0
+JNY0000256,2026-10-16,2026,10,16,Friday,Weekday,5828_22816,3 S4 a,Bus,8220DB002786,Kylemore Luas,8220DB001027,South Hill,20,Off Peak,Young Adult,Cash,1.85,Validated,Compliant,1,0,0
+JNY0000257,2026-10-09,2026,10,9,Friday,Weekday,5935_21161,1 80 a,Bus,8220DB002249,Garda Boat Club,8220DB001024,Frankfort Avenue,8,Morning Peak,Student,Other Ticket,2.9,Validated,Compliant,1,0,0
+JNY0000258,2026-10-01,2026,10,1,Thursday,Weekday,5901_20776,1 F1 a,Bus,8220DB002311,Kevin Street,8230DB007180,Kiltipper Wy,14,Daytime,Adult,Contactless,2.11,Validated,Compliant,1,0,0
+JNY0000259,2026-10-14,2026,10,14,Wednesday,Weekday,5828_5222,3 33A d a,Bus,8240DB003844,Healy's Lane,8240DB003699,Stockhole Lane,4,Off Peak,Young Adult,Contactless,2.78,Validated,Compliant,1,0,0
+JNY0000260,2026-10-01,2026,10,1,Thursday,Weekday,5901_3302,1 14 c a,Bus,8220DB000246,Artaine Castle,8220DB000248,Maryfield Drive,0,Off Peak,Young Adult,Contactless,2.53,Validated,Compliant,1,0,0
+JNY0000261,2026-09-30,2026,9,30,Wednesday,Weekday,5901_27000,1 N4,Bus,8240DB000661,Westend Office Park,8240DB007025,Blanchardstown SC,3,Off Peak,Student,Leap Card,2.51,Validated,Compliant,1,0,0
+JNY0000262,2026-10-20,2026,10,20,Tuesday,Weekday,5935_28719,1 F3 a,Bus,8220DB001511,Tolka Vale,8220DB001599,Glenties Pk,22,Off Peak,Student,Leap Card,2.7,Validated,Compliant,1,0,0
+JNY0000263,2026-10-27,2026,10,27,Tuesday,Weekday,5828_19107,3 N2 a,Bus,8220DB008302,Glasnevin Downs,8220DB001489,Marino Church,21,Off Peak,Adult,Leap Card,2.89,Validated,Compliant,1,0,0
+JNY0000264,2026-10-22,2026,10,22,Thursday,Weekday,5913_1382,2 101 d a,Bus,8240DB006048,Peter & Paul Church,8240B100411,Bremore,1,Off Peak,Student,Contactless,2.83,Validation Error,Validation Issue,0,0,1
+JNY0000265,2026-10-15,2026,10,15,Thursday,Weekday,5828_18168,3 N2 a,Bus,8220DB000087,Clare Road,8220DB001708,Mc Kee Park,16,Evening Peak,Adult,Contactless,3.05,Validated,Compliant,1,0,0
+JNY0000266,2026-10-20,2026,10,20,Tuesday,Weekday,5828_27109,3 S8 a,Bus,8230DB002616,St Maelruan's Park,8230DB002363,Belgard Rd South,5,Off Peak,Senior,Contactless,1.73,Validated,Compliant,1,0,0
+JNY0000267,2026-10-05,2026,10,5,Monday,Weekday,5935_1516,1 120 c a,Bus,8220DB000284,Rathbourne Avenue,8220DB006071,Parnell Street,18,Evening Peak,Student,Leap Card,2.83,Validated,Compliant,1,0,0
+JNY0000268,2026-10-24,2026,10,24,Saturday,Weekend,5932_643,1178 784,Bus,8240B111911,Terminal 2 Zone 19,8220DB007399,The Point,19,Evening Peak,Student,Leap Card,2.1,Not Validated,Non-Compliant,0,1,0
+JNY0000269,2026-10-01,2026,10,1,Thursday,Weekday,5901_18217,1 C2 c,Bus,8230DB005056,Hermitage Clinic,8220DB000357,Irishtown Rd,0,Off Peak,Senior,Leap Card,1.04,Validated,Compliant,1,0,0
+JNY0000270,2026-10-26,2026,10,26,Monday,Weekday,5935_6156,1 151 c a,Bus,8230DB004555,Pfizer,8220DB007043,Drimnagh Rd,17,Evening Peak,Senior,Leap Card,1.6,Validated,Compliant,1,0,0
+JNY0000271,2026-10-01,2026,10,1,Thursday,Weekday,5913_1195,2 101 d a,Bus,8240B1333201,Balrothery,8310B1003601,Painestown,17,Evening Peak,Adult,Leap Card,2.13,Validated,Compliant,1,0,0
+JNY0000272,2026-10-28,2026,10,28,Wednesday,Weekday,5935_34801,1 N4,Bus,8220DB007827,Eastpoint,8220DB000237,Whitehall Cross,4,Off Peak,Adult,Contactless,3.89,Validated,Compliant,1,0,0
+JNY0000273,2026-10-04,2026,10,4,Sunday,Weekend,5936_10988,DUB-MAYNOOTH-O,Rail,8220IR0013,Ashtown,8240IR0031,Castleknock,16,Evening Peak,Adult,Leap Card,3.43,Validated,Compliant,1,0,0
+JNY0000274,2026-10-24,2026,10,24,Saturday,Weekend,5935_12451,1 38 c a,Bus,8240DB001828,Lady's Well Road,8220DB000819,Blessington Street,23,Off Peak,Senior,Leap Card,1.8,Validated,Compliant,1,0,0
+JNY0000275,2026-10-30,2026,10,30,Friday,Weekday,5828_27129,3 S8 a,Bus,8230DB002616,St Maelruan's Park,8230DB004640,Tallaght Hospl,6,Morning Peak,Adult,Contactless,3.88,Validated,Compliant,1,0,0
+JNY0000276,2026-10-26,2026,10,26,Monday,Weekday,5828_17007,3 L52 b a,Bus,8240DB001882,Millennium Park,8230GD10335,Rokeby Park,20,Off Peak,Adult,Leap Card,2.46,Validated,Compliant,1,0,0
+JNY0000277,2026-10-03,2026,10,3,Saturday,Weekend,5901_22289,1 G1,Bus,8220DB002643,Sarsfield Road,8220DB002661,Cherry Orchard Drive,7,Morning Peak,Adult,Leap Card,2.59,Validated,Compliant,1,0,0
+JNY0000278,2026-10-23,2026,10,23,Friday,Weekday,5828_4789,3 270 d b,Bus,8240DB004767,The Grove,8310DB003333,Dunboyne Village,19,Evening Peak,Adult,Leap Card,2.55,Validated,Compliant,1,0,0
+JNY0000279,2026-10-16,2026,10,16,Friday,Weekday,5935_28026,1 F2 a,Bus,8220DB002634,Leonard's Corner,8220DB000007,Parnell Sq West,21,Off Peak,Young Adult,Leap Card,1.8,Validated,Compliant,1,0,0
+JNY0000280,2026-10-30,2026,10,30,Friday,Weekday,5828_24102,3 S4 a,Bus,8220DB002781,Kylemore Road,8230DB002674,Coldcut Rd,19,Evening Peak,Adult,Other Ticket,2.89,Validated,Compliant,1,0,0
+JNY0000281,2026-10-21,2026,10,21,Wednesday,Weekday,5935_19975,1 74,Bus,8220DB001400,Bangor Circle,8220DB001300,Westbourne Road,14,Daytime,Adult,Leap Card,3.89,Validated,Compliant,1,0,0
+JNY0000282,2026-10-17,2026,10,17,Saturday,Weekend,5935_4749,1 15 c a,Bus,8220DB001283,S Great George's St,8230DB004869,St Colmcilles Way,0,Off Peak,Adult,Leap Card,2.52,Validated,Compliant,1,0,0
+JNY0000283,2026-10-12,2026,10,12,Monday,Weekday,5935_8162,1 19 a,Bus,8220DB007391,Merrion Sq South,8220DB000094,Civic Centre,8,Morning Peak,Student,Cash,2.03,Not Validated,Non-Compliant,0,1,0
+JNY0000284,2026-10-04,2026,10,4,Sunday,Weekend,5935_9432,1 24 a,Bus,8220DB004369,Oakwood Rd,8240DB006364,Century Business Pk,22,Off Peak,Adult,Contactless,3.63,Validated,Compliant,1,0,0
+JNY0000285,2026-10-18,2026,10,18,Sunday,Weekend,5935_13367,1 39A c a,Bus,8240DB007389,Junction 6,8240DB007020,Manorfields Drive,14,Daytime,Adult,Leap Card,2.96,Validated,Compliant,1,0,0
+JNY0000286,2026-10-30,2026,10,30,Friday,Weekday,5935_4870,1 15 c a,Bus,8220DB001201,Dunree Pk,8220DB007516,Temple Vw Ave,9,Morning Peak,Adult,Leap Card,2.51,Validated,Compliant,1,0,0
+JNY0000287,2026-10-02,2026,10,2,Friday,Weekday,5901_23548,1 H1 c a,Bus,8220DB000530,Killester Village,8220DB000725,Ardscoil La Salle,16,Evening Peak,Student,Leap Card,1.57,Validated,Compliant,1,0,0
+JNY0000288,2026-10-27,2026,10,27,Tuesday,Weekday,5828_28000,3 W2 a,Bus,8230DB002127,Collinstown College,8230DB002763,Newlands Golf Club,8,Morning Peak,Adult,Leap Card,2.52,Validated,Compliant,1,0,0
+JNY0000289,2026-10-14,2026,10,14,Wednesday,Weekday,5935_29074,1 G1,Bus,8220DB001945,Inchicore Library,8220DB006029,Park West Hotel,23,Off Peak,Adult,Contactless,2.08,Validated,Compliant,1,0,0
+JNY0000290,2026-10-28,2026,10,28,Wednesday,Weekday,5828_15036,3 L27 a,Bus,8250DB002032,York Road,8250DB002036,Crofton Avenue,18,Evening Peak,Adult,Leap Card,3.96,Validated,Compliant,1,0,0
+JNY0000291,2026-10-16,2026,10,16,Friday,Weekday,5828_1173,3 104 d a,Bus,8220DB001743,Seaview Ave,8220DB007571,DCU Helix,11,Daytime,Adult,Contactless,3.41,Validated,Compliant,1,0,0
+JNY0000292,2026-10-02,2026,10,2,Friday,Weekday,5901_13113,1 42 c a,Bus,8220DB001273,Dunree Pk,8220DB000668,Marino Mart,9,Morning Peak,Student,Leap Card,2.0,Validated,Compliant,1,0,0
+JNY0000293,2026-10-14,2026,10,14,Wednesday,Weekday,5935_4597,1 15 c a,Bus,8220DB000614,Fairview,8230DB003007,Woodstown SC,17,Evening Peak,Adult,Leap Card,2.93,Validated,Compliant,1,0,0
+JNY0000294,2026-10-04,2026,10,4,Sunday,Weekend,5935_9450,1 24 a,Bus,8240DB001552,Airport Logis Pk,8240DB001630,ALSAA Sports Club,23,Off Peak,Adult,Leap Card,3.86,Validated,Compliant,1,0,0
+JNY0000295,2026-10-21,2026,10,21,Wednesday,Weekday,5935_3603,1 14 c a,Bus,8220DB000255,Coolgreena Rd,8220DB002990,Orwell Gardens,10,Daytime,Adult,Leap Card,3.66,Validated,Compliant,1,0,0
+JNY0000296,2026-09-30,2026,9,30,Wednesday,Weekday,5828_17656,3 L55 a,Bus,8230DB002208,Palmerstown SC,8230DB002211,Kennelsfort Road,15,Daytime,Adult,Leap Card,3.67,Validated,Compliant,1,0,0
+JNY0000297,2026-10-02,2026,10,2,Friday,Weekday,5901_22536,1 G1,Bus,8220DB001947,Inchicore Village,8230DB004551,Woodford Walk,1,Off Peak,Adult,Leap Card,3.73,Validated,Compliant,1,0,0
+JNY0000298,2026-10-14,2026,10,14,Wednesday,Weekday,5828_9086,3 73 a,Bus,8220DB001432,Mourne Rd E,8220DB004514,St James's Hospital,19,Evening Peak,Student,Other Ticket,2.02,Validated,Compliant,1,0,0
+JNY0000299,2026-10-08,2026,10,8,Thursday,Weekday,5935_23889,1 C3 c,Bus,8220DB002722,South Circular Road,8220DB007883,Ormond Quay Upr,20,Off Peak,Adult,Contactless,3.73,Validated,Compliant,1,0,0
+JNY0000300,2026-10-01,2026,10,1,Thursday,Weekday,5901_17015,1 82 a,Bus,8230DB002558,Killinarden Est,8230DB005023,Kiltipper Wy,14,Daytime,Student,Leap Card,2.03,Validated,Compliant,1,0,0
+JNY0000301,2026-10-09,2026,10,9,Friday,Weekday,5828_29210,3 W2 a,Bus,8230DB002115,Oakfield,8230DB002117,Station Road,13,Daytime,Adult,Contactless,2.55,Validated,Compliant,1,0,0
+JNY0000302,2026-10-01,2026,10,1,Thursday,Weekday,5901_12472,1 41 c a,Bus,8220DB007603,St Patrick's Campus,8220DB000052,Dorset Street Upr,20,Off Peak,Adult,Leap Card,3.24,Validation Error,Validation Issue,0,0,1
+JNY0000303,2026-10-29,2026,10,29,Thursday,Weekday,5828_25695,3 S6 a,Bus,8230DB002535,Old Bawn Rd,8230DB004640,Tallaght Hospl,12,Daytime,Young Adult,Contactless,2.37,Validated,Compliant,1,0,0
+JNY0000304,2026-10-03,2026,10,3,Saturday,Weekend,5901_1813,1 13 c a,Bus,8220DB001946,Emmet Road,8230DB002136,Bawnogue Road,18,Evening Peak,Young Adult,Leap Card,1.88,Validated,Compliant,1,0,0
+JNY0000305,2026-10-20,2026,10,20,Tuesday,Weekday,5935_8869,1 23 a,Bus,8220DB000199,Munster Street,8220DB004377,McKee Rd N,16,Evening Peak,Student,Leap Card,1.65,Validated,Compliant,1,0,0
+JNY0000306,2026-10-16,2026,10,16,Friday,Weekday,5935_4824,1 15 c a,Bus,8220DB004382,Donnycarney,8220DB001199,Mask Avenue,7,Morning Peak,Senior,Leap Card,1.98,Validated,Compliant,1,0,0
+JNY0000307,2026-10-22,2026,10,22,Thursday,Weekday,5935_16877,1 42 c a,Bus,8220DB000497,Connolly Stn,8240DB003584,Hanlon's Lane,21,Off Peak,Adult,Leap Card,2.03,Validated,Compliant,1,0,0
+JNY0000308,2026-09-30,2026,9,30,Wednesday,Weekday,5901_27890,1 S2,Bus,8220DB001995,James's Luas,8220DB001999,Cornmarket,23,Off Peak,Young Adult,Cash,2.92,Validated,Compliant,1,0,0
+JNY0000309,2026-10-18,2026,10,18,Sunday,Weekend,5935_4453,1 15 c a,Bus,8230DB001143,Knockaire,8230DB006283,Dalriada Court,12,Daytime,Adult,Contactless,2.48,Validated,Compliant,1,0,0
+JNY0000310,2026-10-05,2026,10,5,Monday,Weekday,5935_6086,1 151 c a,Bus,8220DB002185,Balfe Road,8220DB002187,Iveagh Gnds,12,Daytime,Student,Leap Card,2.12,Validated,Compliant,1,0,0
+JNY0000311,2026-10-22,2026,10,22,Thursday,Weekday,5828_19342,3 N6,Bus,8220DB004937,Clearstream Court,8220DB007044,Aulden Grange,7,Morning Peak,Senior,Leap Card,1.83,Validated,Compliant,1,0,0
+JNY0000312,2026-10-08,2026,10,8,Thursday,Weekday,5828_29347,3 W2 a,Bus,8230DB004647,Belgard Square N,8230DB002111,Clondalkin Church,16,Evening Peak,Adult,Leap Card,2.24,Validated,Compliant,1,0,0
+JNY0000313,2026-10-30,2026,10,30,Friday,Weekday,5913_2613,2 103 c a,Bus,8310B106521,Hickey's Lane,8310B100971,Ballybin Road,20,Off Peak,Student,Leap Card,2.8,Validated,Compliant,1,0,0
+JNY0000314,2026-10-28,2026,10,28,Wednesday,Weekday,5935_30551,1 H1 c a,Bus,8220DB005154,Grange Abbey Drive,8220DB000614,Fairview,6,Morning Peak,Senior,Leap Card,1.3,Validated,Compliant,1,0,0
+JNY0000315,2026-10-29,2026,10,29,Thursday,Weekday,5828_26916,3 S8 a,Bus,8250DB003194,Holly Park Avenue,8250DB002035,Crofton Road,19,Evening Peak,Adult,Cash,3.7,Validation Error,Validation Issue,0,0,1
+JNY0000316,2026-10-27,2026,10,27,Tuesday,Weekday,5828_17560,3 L55 a,Bus,8230DB002208,Palmerstown SC,8230DB002211,Kennelsfort Road,9,Morning Peak,Adult,Other Ticket,2.82,Validated,Compliant,1,0,0
+JNY0000317,2026-10-04,2026,10,4,Sunday,Weekend,5935_13717,1 39A c a,Bus,8220DB001696,Ashtown Roundabout,8220DB000749,Baggot St Lower,6,Morning Peak,Senior,Contactless,1.81,Not Validated,Non-Compliant,0,1,0
+JNY0000318,2026-10-24,2026,10,24,Saturday,Weekend,5936_1423,BRAY-HOWTH-I,Rail,8220IR0035,Raheny,8220IR0025,Tara Street,16,Evening Peak,Student,Leap Card,2.19,Validated,Compliant,1,0,0
+JNY0000319,2026-10-07,2026,10,7,Wednesday,Weekday,5828_21508,3 N6,Bus,8240GD007848,Santry Villas,8220DB000104,Poppintree Parade,21,Off Peak,Adult,Contactless,2.68,Validated,Compliant,1,0,0
+JNY0000320,2026-10-03,2026,10,3,Saturday,Weekend,5828_302,3 102 d a,Bus,8240DB000953,Burrowfield Rd,8240DB004381,Sutton Stn,17,Evening Peak,Adult,Other Ticket,3.89,Validated,Compliant,1,0,0
+JNY0000321,2026-10-24,2026,10,24,Saturday,Weekend,5935_7682,1 16 c a,Bus,8220DB001343,Harold's Cross Vlge,8240DB007347,Airport Zone 15,5,Off Peak,Adult,Leap Card,2.76,Validated,Compliant,1,0,0
+JNY0000322,2026-10-23,2026,10,23,Friday,Weekday,5935_32405,1 L25,Bus,8250DB007981,Dundrum Luas,8250DB007716,Dundrum Town Centre,10,Daytime,Adult,Leap Card,3.56,Validated,Compliant,1,0,0
+JNY0000323,2026-10-02,2026,10,2,Friday,Weekday,5901_15088,1 7 c a,Bus,8220DB000412,Haddington Road,8250DB007643,Sallyglen Road,22,Off Peak,Senior,Leap Card,1.37,Validated,Compliant,1,0,0
+JNY0000324,2026-10-10,2026,10,10,Saturday,Weekend,5828_22645,3 S4 a,Bus,8250DB000878,Clonskeagh Road,8250DB000765,UCD,19,Evening Peak,Student,Leap Card,2.65,Validated,Compliant,1,0,0
+JNY0000325,2026-10-23,2026,10,23,Friday,Weekday,5935_30439,1 H1 c a,Bus,8220DB000531,The Demesne,8220DB000653,Raheny,18,Evening Peak,Young Adult,Leap Card,2.84,Validated,Compliant,1,0,0
+JNY0000326,2026-10-29,2026,10,29,Thursday,Weekday,5828_5072,3 33A d a,Bus,8240DB007348,Airport Zone 15,8240DB007172,Old Road,17,Evening Peak,Adult,Leap Card,3.88,Validated,Compliant,1,0,0
+JNY0000327,2026-10-27,2026,10,27,Tuesday,Weekday,5828_31332,3 W6 a,Bus,8230DB008090,Greenogue Rdbt,8230DB003438,Bianconi Ave East,19,Evening Peak,Child,Contactless,1.89,Validated,Compliant,1,0,0
+JNY0000328,2026-10-29,2026,10,29,Thursday,Weekday,5828_28471,3 W2 a,Bus,8230DB002619,Belgard Road,8230DB002620,Belgard,17,Evening Peak,Student,Leap Card,1.54,Not Validated,Non-Compliant,0,1,0
+JNY0000329,2026-10-28,2026,10,28,Wednesday,Weekday,5828_14005,3 L26 a,Bus,8250DB003120,Clonkeen Road,8250DB003306,Sycamore Drive,17,Evening Peak,Child,Leap Card,1.57,Validated,Compliant,1,0,0
+JNY0000330,2026-10-30,2026,10,30,Friday,Weekday,5828_14142,3 L26 a,Bus,8250DB003168,Proby Square,8250DB003124,South Park,22,Off Peak,Adult,Leap Card,2.28,Validated,Compliant,1,0,0
+JNY0000331,2026-10-29,2026,10,29,Thursday,Weekday,5828_30865,3 W4 a,Bus,8230DB005164,Fforster Green,8230DB005056,Hermitage Clinic,20,Off Peak,Senior,Leap Card,1.49,Validated,Compliant,1,0,0
+JNY0000332,2026-10-27,2026,10,27,Tuesday,Weekday,5828_21928,3 S4 a,Bus,8220DB002435,Westbrook,8220DB001028,Chuchtown Rd Lwr,10,Daytime,Student,Other Ticket,1.82,Validated,Compliant,1,0,0
+JNY0000333,2026-10-30,2026,10,30,Friday,Weekday,5935_21810,1 80 a,Bus,8230DB004401,Palmerstown R148,8230DB002203,Woodfarm,22,Off Peak,Adult,Leap Card,3.09,Validated,Compliant,1,0,0
+JNY0000334,2026-10-06,2026,10,6,Tuesday,Weekday,5935_20701,1 77A c a,Bus,8230DB002608,Homelawn,8220DB000354,Ringsend Road,22,Off Peak,Senior,Leap Card,1.86,Validated,Compliant,1,0,0
+JNY0000335,2026-10-17,2026,10,17,Saturday,Weekend,5935_7225,1 15B c a,Bus,8220DB004528,Grove Park,8220DB007578,S Great George's St,19,Evening Peak,Adult,Leap Card,2.18,Validated,Compliant,1,0,0
+JNY0000336,2026-10-12,2026,10,12,Monday,Weekday,5935_539,1 1 e a,Bus,8220DB000400,Shaw Street,8220DB000278,O'Connell St Upr,16,Evening Peak,Senior,Cash,1.9,Validated,Compliant,1,0,0
+JNY0000337,2026-10-02,2026,10,2,Friday,Weekday,5913_69110,2 B1 c a,Bus,8240B1347401,Balbriggan Station,8240B109301,Clonard Rd,22,Off Peak,Adult,Leap Card,2.49,Validated,Compliant,1,0,0
+JNY0000338,2026-10-09,2026,10,9,Friday,Weekday,5935_19100,1 68 c a,Bus,8220DB001383,Dolphin Avenue,8220DB001385,Griffith College,22,Off Peak,Adult,Leap Card,2.24,Validated,Compliant,1,0,0
+JNY0000339,2026-10-03,2026,10,3,Saturday,Weekend,5901_27049,1 N4,Bus,8220DB001190,Collinswood,8220DB001195,Oak Road,7,Morning Peak,Adult,Leap Card,3.38,Validated,Compliant,1,0,0
+JNY0000340,2026-10-30,2026,10,30,Friday,Weekday,5828_30781,3 W4 a,Bus,8230DB008065,Kingswood Road,8230DB002239,Liffey Valley SC,17,Evening Peak,Adult,Leap Card,2.39,Not Validated,Non-Compliant,0,1,0
+JNY0000341,2026-10-27,2026,10,27,Tuesday,Weekday,5913_1331,2 101 d a,Bus,8300B100381,Drogheda Stn,8300B1359501,Drogheda Bus,22,Off Peak,Adult,Cash,3.64,Validated,Compliant,1,0,0
+JNY0000342,2026-10-05,2026,10,5,Monday,Weekday,5935_20903,1 7A c a,Bus,8250DB000472,Booterstown Station,8220DB000488,Lansdowne Park,8,Morning Peak,Adult,Leap Card,2.98,Validated,Compliant,1,0,0
+JNY0000343,2026-10-26,2026,10,26,Monday,Weekday,5828_29101,3 W2 a,Bus,8230DB002120,Collinstown College,8230DB008029,Liffey Valley SC,12,Daytime,Adult,Leap Card,2.28,Validated,Compliant,1,0,0
+JNY0000344,2026-10-20,2026,10,20,Tuesday,Weekday,5935_11992,1 37 c a,Bus,8220DB001697,Kempton,8220DB001705,Ardpatrick Road,15,Daytime,Senior,Leap Card,1.08,Validated,Compliant,1,0,0
+JNY0000345,2026-10-03,2026,10,3,Saturday,Weekend,5901_4241,1 150 c a,Bus,8230DB001096,Wellington Road,8230DB001104,Limekiln Rd W,19,Evening Peak,Adult,Leap Card,3.94,Validated,Compliant,1,0,0
+JNY0000346,2026-10-15,2026,10,15,Thursday,Weekday,5828_26369,3 S8 a,Bus,8230DB007448,Grange Golf Club,8250DB003164,Temple Hill,6,Morning Peak,Adult,Cash,2.16,Validated,Compliant,1,0,0
+JNY0000347,2026-10-08,2026,10,8,Thursday,Weekday,5935_7959,1 16 c a,Bus,8220DB001349,Victoria Street,8220DB000217,Grace Park Ct,17,Evening Peak,Adult,Other Ticket,2.43,Validated,Compliant,1,0,0
+JNY0000348,2026-10-24,2026,10,24,Saturday,Weekend,5936_203,BRAY-HOWTH-I,Rail,8220IR3881,Killester,8220IR0032,Clontarf Road,8,Morning Peak,Student,Contactless,2.63,Not Validated,Non-Compliant,0,1,0
+JNY0000349,2026-10-27,2026,10,27,Tuesday,Weekday,5828_25007,3 S6 a,Bus,8230DB004435,Tallaght Village,8250DB001312,Good Shepherd Ch,16,Evening Peak,Student,Leap Card,2.88,Validated,Compliant,1,0,0
+JNY0000350,2026-10-03,2026,10,3,Saturday,Weekend,5901_9103,1 37 c a,Bus,8240DB007217,The Courtyard,8240DB006172,Lohunda Close,17,Evening Peak,Senior,Cash,1.14,Validated,Compliant,1,0,0
+JNY0000351,2026-10-24,2026,10,24,Saturday,Weekend,5935_30449,1 H1 c a,Bus,8240DB007552,Grange Park,8240DB000927,St. Michael's House,19,Evening Peak,Adult,Cash,2.63,Validated,Compliant,1,0,0
+JNY0000352,2026-10-20,2026,10,20,Tuesday,Weekday,5828_30210,3 W4 a,Bus,8230DB007015,Lynche's Lane,8230DB007062,Tallaght L Centre,18,Evening Peak,Senior,Leap Card,1.37,Validated,Compliant,1,0,0
+JNY0000353,2026-10-14,2026,10,14,Wednesday,Weekday,5935_1115,1 11B a,Bus,8220DB000757,Donnybrook Village,8220DB000758,Victoria Avenue,15,Daytime,Adult,Leap Card,2.35,Validated,Compliant,1,0,0
+JNY0000354,2026-10-10,2026,10,10,Saturday,Weekend,5935_32790,1 L25,Bus,8250DB000444,Kilmacud Park,8250DB002885,Eden Park Avenue,13,Daytime,Adult,Leap Card,2.53,Validated,Compliant,1,0,0
+JNY0000355,2026-10-05,2026,10,5,Monday,Weekday,5935_29440,1 G1,Bus,8220DB001995,James's Luas,8220DB001999,Cornmarket,23,Off Peak,Adult,Leap Card,3.14,Validated,Compliant,1,0,0
+JNY0000356,2026-10-04,2026,10,4,Sunday,Weekend,5935_6970,1 15B c a,Bus,8230DB005130,Charleville Square,8230DB007070,Boden Park,23,Off Peak,Student,Contactless,1.91,Validated,Compliant,1,0,0
+JNY0000357,2026-09-30,2026,9,30,Wednesday,Weekday,5901_5844,1 16 c a,Bus,8250DB002971,Heather Lawn,8250DB005052,Grange Hall,19,Evening Peak,Adult,Leap Card,2.04,Validated,Compliant,1,0,0
+JNY0000358,2026-10-02,2026,10,2,Friday,Weekday,5901_20169,1 E2 a,Bus,8250DB002035,Crofton Road,8250DB002036,Crofton Avenue,22,Off Peak,Young Adult,Cash,1.75,Validated,Compliant,1,0,0
+JNY0000359,2026-10-19,2026,10,19,Monday,Weekday,5935_27440,1 F2 a,Bus,8220DB001090,Kimmage Road West,8230DB006132,Wellington Lane,9,Morning Peak,Adult,Leap Card,3.91,Validated,Compliant,1,0,0
+JNY0000360,2026-10-05,2026,10,5,Monday,Weekday,5935_9121,1 23 a,Bus,8240DB006366,Century Business Pk,8220DB000182,Met Éireann,16,Evening Peak,Adult,Leap Card,2.39,Validated,Compliant,1,0,0
+JNY0000361,2026-10-28,2026,10,28,Wednesday,Weekday,5828_9754,3 73 a,Bus,8220DB004720,Aston Quay,8220DB007154,Walkinstown Grn,12,Daytime,Adult,Leap Card,2.57,Validated,Compliant,1,0,0
+JNY0000362,2026-09-30,2026,9,30,Wednesday,Weekday,5901_4370,1 150 c a,Bus,8220DB001403,Clogher Road,8220DB001404,Aughavannagh Rd,15,Daytime,Student,Other Ticket,2.11,Validated,Compliant,1,0,0
+JNY0000363,2026-10-08,2026,10,8,Thursday,Weekday,5828_4448,3 270 d b,Bus,8240DB004765,Huntstown Wood,8240DB004766,Deerhaven,12,Daytime,Adult,Leap Card,3.84,Validated,Compliant,1,0,0
+JNY0000364,2026-10-16,2026,10,16,Friday,Weekday,5935_4190,1 14 c a,Bus,8250DB007718,Dundrum TC N,8250DB002852,Ballinteer Sch,19,Evening Peak,Adult,Leap Card,3.39,Validated,Compliant,1,0,0
+JNY0000365,2026-10-01,2026,10,1,Thursday,Weekday,5901_9618,1 38 c a,Bus,8240DB001845,Morgan Place,8220DB000752,Baggot St Upper,19,Evening Peak,Student,Leap Card,1.68,Validated,Compliant,1,0,0
+JNY0000366,2026-10-28,2026,10,28,Wednesday,Weekday,5828_6481,3 45A d a,Bus,8250DB004202,Woodbrook Coll,8250DB003228,Church Road,8,Morning Peak,Adult,Leap Card,3.61,Validated,Compliant,1,0,0
+JNY0000367,2026-10-10,2026,10,10,Saturday,Weekend,5935_28222,1 F3 a,Bus,8220DB001587,Wellmount Dr,8230DB004392,Greenhills Coll,12,Daytime,Senior,Leap Card,1.7,Validated,Compliant,1,0,0
+JNY0000368,2026-10-28,2026,10,28,Wednesday,Weekday,5828_6222,3 33B d a,Bus,8240DB003740,Rahillion,8240DB003689,Swords Castle,14,Daytime,Senior,Contactless,1.72,Validated,Compliant,1,0,0
+JNY0000369,2026-10-12,2026,10,12,Monday,Weekday,5935_9002,1 23 a,Bus,8220DB006273,Sycamore Rd,8220DB000173,Glasnamana Pl,7,Morning Peak,Adult,Leap Card,3.06,Validated,Compliant,1,0,0
+JNY0000370,2026-10-30,2026,10,30,Friday,Weekday,5935_7584,1 16 c a,Bus,8220DB001300,Westbourne Road,8250DB002970,Marlay Park,20,Off Peak,Adult,Contactless,3.94,Validated,Compliant,1,0,0
+JNY0000371,2026-10-22,2026,10,22,Thursday,Weekday,5935_10116,1 27 c a,Bus,8220DB000618,Newcomen Bridge,8220DB001406,Dolphin's Barn,19,Evening Peak,Adult,Contactless,3.78,Validated,Compliant,1,0,0
+JNY0000372,2026-10-03,2026,10,3,Saturday,Weekend,5828_29013,3 W2 a,Bus,8230DB002111,Clondalkin Church,8230DB002118,Neilstown Road,10,Daytime,Adult,Leap Card,2.26,Not Validated,Non-Compliant,0,1,0
+JNY0000373,2026-10-02,2026,10,2,Friday,Weekday,5901_20835,1 F1 a,Bus,8230DB004878,Aylesbury Shop Cntr,8230DB004340,Tallaght Square,19,Evening Peak,Adult,Leap Card,3.57,Not Validated,Non-Compliant,0,1,0
+JNY0000374,2026-10-30,2026,10,30,Friday,Weekday,5828_19353,3 N6,Bus,8220DB000110,Ard na Meala,8220DB001005,Limewood Pk,8,Morning Peak,Adult,Leap Card,2.91,Validated,Compliant,1,0,0
+JNY0000375,2026-10-30,2026,10,30,Friday,Weekday,5828_1116,3 104 d a,Bus,8220DB004792,Clanawley Rd,8220DB000218,Shantalla Road,6,Morning Peak,Adult,Contactless,3.34,Validated,Compliant,1,0,0
+JNY0000376,2026-10-13,2026,10,13,Tuesday,Weekday,5828_3594,3 220 d a,Bus,8240DB001818,Aquatic Centre,8220DB001601,Deanstown Drive,18,Evening Peak,Adult,Contactless,2.59,Validated,Compliant,1,0,0
+JNY0000377,2026-10-27,2026,10,27,Tuesday,Weekday,5828_29890,3 W4 a,Bus,8240DB004747,Blanchardstown SC,8230DB004576,Grange Cstl Gt,10,Daytime,Adult,Leap Card,2.62,Validated,Compliant,1,0,0
+JNY0000378,2026-10-29,2026,10,29,Thursday,Weekday,5828_9093,3 73 a,Bus,8220DB001427,Mourne Rd W,8220DB000501,Clonliffe Ave,19,Evening Peak,Young Adult,Leap Card,1.65,Validated,Compliant,1,0,0
+JNY0000379,2026-10-07,2026,10,7,Wednesday,Weekday,5935_2028,1 122 c a,Bus,8220DB000054,The Mater Hospital,8220DB004498,John Paul Park,18,Evening Peak,Adult,Leap Card,2.35,Validated,Compliant,1,0,0
+JNY0000380,2026-10-01,2026,10,1,Thursday,Weekday,5913_3915,2 105 c a,Bus,8310B1328301,Duleek,8310DB003338,Clonee Village,10,Daytime,Student,Leap Card,2.8,Validated,Compliant,1,0,0
+JNY0000381,2026-10-26,2026,10,26,Monday,Weekday,5935_15493,1 40E c a,Bus,8240DB007098,Mount Eustace,8220DB001582,Heathfield Avenue,11,Daytime,Adult,Leap Card,2.07,Validated,Compliant,1,0,0
+JNY0000382,2026-10-30,2026,10,30,Friday,Weekday,5935_119,1 1 e a,Bus,8220DB000051,Eccles Place,8220DB000340,Townsend Street,12,Daytime,Young Adult,Other Ticket,1.74,Validated,Compliant,1,0,0
+JNY0000383,2026-10-02,2026,10,2,Friday,Weekday,5901_21742,1 F2 a,Bus,8220DB002439,Ravensdale Pk,8220DB000836,Claude Road,23,Off Peak,Student,Leap Card,2.93,Validated,Compliant,1,0,0
+JNY0000384,2026-10-01,2026,10,1,Thursday,Weekday,5901_2743,1 14 c a,Bus,8220DB000616,North Strand FS,8250DB002825,Dundrum Luas,7,Morning Peak,Adult,Leap Card,2.2,Validated,Compliant,1,0,0
+JNY0000385,2026-10-18,2026,10,18,Sunday,Weekend,5936_3475,BRAY-HOWTH-I,Rail,8250IR0039,Booterstown,8220IR0133,Lansdowne Road,13,Daytime,Student,Leap Card,4.77,Validated,Compliant,1,0,0
+JNY0000386,2026-10-19,2026,10,19,Monday,Weekday,5828_27895,3 W2 a,Bus,8230DB002127,Collinstown College,8230DB002619,Belgard Road,6,Morning Peak,Adult,Cash,3.56,Validated,Compliant,1,0,0
+JNY0000387,2026-10-30,2026,10,30,Friday,Weekday,5913_68928,2 B1 c a,Bus,8240DB007174,Peter & Paul Church,8240B1348501,Castleland Rdbt,13,Daytime,Child,Leap Card,1.59,Validated,Compliant,1,0,0
+JNY0000388,2026-10-02,2026,10,2,Friday,Weekday,5901_25299,1 L25,Bus,8250DB002026,Monkstown Avenue,8250DB002035,Crofton Road,21,Off Peak,Adult,Leap Card,3.41,Validated,Compliant,1,0,0
+JNY0000389,2026-10-02,2026,10,2,Friday,Weekday,5901_3386,1 15 c a,Bus,8220DB000666,Mt Temple School,8220DB000618,Newcomen Bridge,8,Morning Peak,Adult,Leap Card,3.59,Validated,Compliant,1,0,0
+JNY0000390,2026-10-12,2026,10,12,Monday,Weekday,5935_2386,1 13 c a,Bus,8220DB001955,Concorde B Park,8230DB007201,Lindisfarne Walk,20,Off Peak,Adult,Leap Card,2.61,Validated,Compliant,1,0,0
+JNY0000391,2026-10-10,2026,10,10,Saturday,Weekend,5935_5638,1 150 c a,Bus,8230DB002326,Quarry Drive,8220DB001398,Windmill Rd,13,Daytime,Adult,Leap Card,3.23,Validated,Compliant,1,0,0
+JNY0000392,2026-10-28,2026,10,28,Wednesday,Weekday,5828_4910,3 33A d a,Bus,8240DB003777,St Maur's Church,8240DB003791,Hacketstown Cotts,9,Morning Peak,Adult,Leap Card,3.46,Validated,Compliant,1,0,0
+JNY0000393,2026-10-08,2026,10,8,Thursday,Weekday,5935_33024,1 L53 c,Bus,8230DB007143,Castlegate Way,8230DB007762,Haydens Lane,11,Daytime,Student,Contactless,2.22,Validation Error,Validation Issue,0,0,1
+JNY0000394,2026-10-19,2026,10,19,Monday,Weekday,5935_36088,1 X30 d,Bus,8220DB002811,Merrion Street,8220DB000758,Victoria Avenue,8,Morning Peak,Adult,Cash,2.86,Validated,Compliant,1,0,0
+JNY0000395,2026-10-23,2026,10,23,Friday,Weekday,5935_29624,1 G2 a,Bus,8220DB002655,Ballyfermot Parade,8230DB004411,Shancastle Park,14,Daytime,Child,Leap Card,1.57,Validated,Compliant,1,0,0
+JNY0000396,2026-10-30,2026,10,30,Friday,Weekday,5935_36000,1 X25 c,Bus,8220DB007857,Merchant's Quay,8230DB002215,St Loman's Hospital,17,Evening Peak,Adult,Other Ticket,3.49,Validated,Compliant,1,0,0
+JNY0000397,2026-10-16,2026,10,16,Friday,Weekday,5828_226,3 102 d a,Bus,8240DB003586,Malahide Village,8240DB000944,Portmarnock Br,14,Daytime,Student,Leap Card,1.76,Validated,Compliant,1,0,0
+JNY0000398,2026-10-03,2026,10,3,Saturday,Weekend,5901_1962,1 13 c a,Bus,8220DB001981,Robinhood Road,8220DB004406,Concorde B Park,10,Daytime,Senior,Cash,1.27,Validated,Compliant,1,0,0
+JNY0000399,2026-10-21,2026,10,21,Wednesday,Weekday,5935_21113,1 80 a,Bus,8230DB007510,Coldcut Cres,8220DB001476,Sarsfield Quay,6,Morning Peak,Adult,Leap Card,3.11,Validated,Compliant,1,0,0
+JNY0000400,2026-10-15,2026,10,15,Thursday,Weekday,5935_14569,1 4 c a,Bus,8220DB007453,Arran Quay,8220DB000273,O'Connell Br,22,Off Peak,Child,Other Ticket,1.01,Validated,Compliant,1,0,0
+JNY0000401,2026-10-03,2026,10,3,Saturday,Weekend,5901_21389,1 F2 a,Bus,8220DB001523,Plunkett Avenue,8220DB002392,Kimmage,16,Evening Peak,Adult,Cash,3.67,Validated,Compliant,1,0,0
+JNY0000402,2026-10-25,2026,10,25,Sunday,Weekend,5935_34512,1 N4,Bus,8220DB001577,Abbottstown Road,8240DB000661,Westend Office Park,13,Daytime,Adult,Leap Card,3.9,Validated,Compliant,1,0,0
+JNY0000403,2026-10-24,2026,10,24,Saturday,Weekend,5935_15842,1 41 c a,Bus,8240DB004330,Swords Pavilions,8240DB004912,Lioscian,23,Off Peak,Adult,Leap Card,3.5,Validated,Compliant,1,0,0
+JNY0000404,2026-10-19,2026,10,19,Monday,Weekday,5828_18731,3 N2 a,Bus,8220DB008304,Drumcondra Rd,8220DB004794,Clontarf Rd Stn,12,Daytime,Senior,Leap Card,1.9,Validated,Compliant,1,0,0
+JNY0000405,2026-10-30,2026,10,30,Friday,Weekday,5935_6392,1 15A c a,Bus,8220DB001019,Military Road,8220DB001086,Terenure Road West,18,Evening Peak,Adult,Leap Card,2.45,Validated,Compliant,1,0,0
+JNY0000406,2026-10-21,2026,10,21,Wednesday,Weekday,5935_2041,1 122 c a,Bus,8220DB001465,Good Counsel GAA,8220DB001435,Keeper Rd,18,Evening Peak,Adult,Cash,3.74,Validated,Compliant,1,0,0
+JNY0000407,2026-10-10,2026,10,10,Saturday,Weekend,5828_27552,3 S8 a,Bus,8230GD10105,Scholarstown Park,8230DB004873,Old Court Farm,16,Evening Peak,Senior,Leap Card,1.41,Validated,Compliant,1,0,0
+JNY0000408,2026-10-23,2026,10,23,Friday,Weekday,5828_18469,3 N2 a,Bus,8220DB008309,Glasnevin Downs,8220DB001712,Aughrim Court,0,Off Peak,Adult,Leap Card,2.7,Validated,Compliant,1,0,0
+JNY0000409,2026-10-18,2026,10,18,Sunday,Weekend,5935_23088,1 C2 c,Bus,8230DB004601,Ballyowen Park,8230DB004562,Foxborough Road,13,Daytime,Adult,Other Ticket,3.78,Validated,Compliant,1,0,0
+JNY0000410,2026-10-02,2026,10,2,Friday,Weekday,5901_9131,1 37 c a,Bus,8220DB001655,Blackhorse Avenue,8240DB001679,Oaktree Green,18,Evening Peak,Student,Leap Card,1.72,Validated,Compliant,1,0,0
+JNY0000411,2026-10-03,2026,10,3,Saturday,Weekend,5901_4160,1 150 c a,Bus,8220DB002310,Werburgh Street,8230DB001096,Wellington Road,12,Daytime,Adult,Leap Card,2.32,Validated,Compliant,1,0,0
+JNY0000412,2026-10-20,2026,10,20,Tuesday,Weekday,5828_22261,3 S4 a,Bus,8220DB002182,Walkinstown Prd,8220DB002319,Saint Agnes Church,14,Daytime,Adult,Leap Card,3.48,Validated,Compliant,1,0,0
+JNY0000413,2026-10-17,2026,10,17,Saturday,Weekend,5935_9523,1 24 a,Bus,8220DB004372,Ballygall Rd E,8220DB000188,Doyle's Corner,8,Morning Peak,Adult,Leap Card,3.08,Not Validated,Non-Compliant,0,1,0
+JNY0000414,2026-10-12,2026,10,12,Monday,Weekday,5935_6950,1 15B c a,Bus,8230DB007070,Boden Park,8230DB006324,Prospect Estate,22,Off Peak,Adult,Cash,3.2,Validated,Compliant,1,0,0
+JNY0000415,2026-10-14,2026,10,14,Wednesday,Weekday,5828_24456,3 S6 a,Bus,8250DB007719,Taney Park,8250DB002052,Fosters Avenue,7,Morning Peak,Adult,Leap Card,3.03,Validated,Compliant,1,0,0
+JNY0000416,2026-10-03,2026,10,3,Saturday,Weekend,5901_25291,1 L25,Bus,8250DB002036,Crofton Avenue,8250DB002039,Dun Laoghaire Stn,21,Off Peak,Adult,Leap Card,2.49,Validated,Compliant,1,0,0
+JNY0000417,2026-10-12,2026,10,12,Monday,Weekday,5935_31460,1 H3 c a,Bus,8220DB000612,Copeland Avenue,8220DB000614,Fairview,14,Daytime,Senior,Contactless,1.6,Validated,Compliant,1,0,0
+JNY0000418,2026-10-05,2026,10,5,Monday,Weekday,5935_2720,1 13 c a,Bus,8230DB004673,Clondalkin Ch,8220DB001990,Myra Cottages,18,Evening Peak,Adult,Leap Card,3.63,Validated,Compliant,1,0,0
+JNY0000419,2026-10-30,2026,10,30,Friday,Weekday,5935_8549,1 19 a,Bus,8220DB000046,Botanic Ave,8220DB000048,Drumcondra Stn,13,Daytime,Adult,Other Ticket,3.06,Validated,Compliant,1,0,0
+JNY0000420,2026-10-12,2026,10,12,Monday,Weekday,5935_2125,1 13 c a,Bus,8230DB002137,Lindisfarne Avenue,8230DB007201,Lindisfarne Walk,8,Morning Peak,Young Adult,Leap Card,2.16,Validated,Compliant,1,0,0
+JNY0000421,2026-10-02,2026,10,2,Friday,Weekday,5901_25096,1 L25,Bus,8250DB002872,Overend Way,8250DB004460,Whately Place,7,Morning Peak,Adult,Leap Card,3.36,Validated,Compliant,1,0,0
+JNY0000422,2026-10-11,2026,10,11,Sunday,Weekend,5935_18621,1 65 e,Bus,8230DB001125,Bushy Park Hse,8230DB002351,Maplewood,9,Morning Peak,Child,Leap Card,1.97,Validated,Compliant,1,0,0
+JNY0000423,2026-10-01,2026,10,1,Thursday,Weekday,5828_6127,3 33B d a,Bus,8240DB003734,Burrow Road,8240DB003780,Chapel View,10,Daytime,Adult,Leap Card,2.56,Validated,Compliant,1,0,0
+JNY0000424,2026-10-06,2026,10,6,Tuesday,Weekday,5935_21155,1 80 a,Bus,8220DB001285,Camden Street Lwr,8220DB001023,Rathmines Close,9,Morning Peak,Adult,Leap Card,3.07,Validated,Compliant,1,0,0
+JNY0000425,2026-10-19,2026,10,19,Monday,Weekday,5935_7583,1 16 c a,Bus,8220DB001289,Spencer St South,8250DB005051,Pine Valley,19,Evening Peak,Adult,Leap Card,2.25,Validated,Compliant,1,0,0
+JNY0000426,2026-10-05,2026,10,5,Monday,Weekday,5828_31487,3 W6 a,Bus,8260DB003907,Castletown,8260DB003917,Maynooth Station,6,Morning Peak,Young Adult,Leap Card,1.85,Validated,Compliant,1,0,0
+JNY0000427,2026-10-27,2026,10,27,Tuesday,Weekday,5828_7174,3 45A d a,Bus,8250DB003244,Garden Centre,8350DB006000,Kilmacanogue,9,Morning Peak,Senior,Leap Card,1.52,Validated,Compliant,1,0,0
+JNY0000428,2026-10-18,2026,10,18,Sunday,Weekend,5935_12889,1 39 c a,Bus,8220DB000793,Dawson Street,8240DB001891,St Joseph's Centre,13,Daytime,Senior,Contactless,1.48,Validated,Compliant,1,0,0
+JNY0000429,2026-10-26,2026,10,26,Monday,Weekday,5935_9286,1 24 a,Bus,8220DB000198,Doyle's Corner,8220DB000139,Grove Park Road,11,Daytime,Adult,Leap Card,2.75,Validated,Compliant,1,0,0
+JNY0000430,2026-10-03,2026,10,3,Saturday,Weekend,5901_21080,1 F1 a,Bus,8220DB001507,De Courcy Sq,8220DB004543,Finglas Place,16,Evening Peak,Adult,Leap Card,2.34,Validated,Compliant,1,0,0
+JNY0000431,2026-09-30,2026,9,30,Wednesday,Weekday,5901_25180,1 L25,Bus,8250DB002036,Crofton Avenue,8250DB002039,Dun Laoghaire Stn,13,Daytime,Child,Leap Card,1.47,Validated,Compliant,1,0,0
+JNY0000432,2026-10-01,2026,10,1,Thursday,Weekday,5901_8427,1 27A c a,Bus,8220DB000667,Copeland Avenue,8220DB000618,Newcomen Bridge,20,Off Peak,Young Adult,Leap Card,2.49,Validated,Compliant,1,0,0
+JNY0000433,2026-10-06,2026,10,6,Tuesday,Weekday,5913_1482,2 101 d a,Bus,8240DB003696,N1 Business Park,8220DB000277,O'Connell St Upper,6,Morning Peak,Senior,Leap Card,1.26,Validated,Compliant,1,0,0
+JNY0000434,2026-10-12,2026,10,12,Monday,Weekday,5858_3868,10000 RED g a,Luas,8220GA00405,Jervis,8220GA00409,Abbey St.,16,Evening Peak,Adult,Cash,3.25,Validated,Compliant,1,0,0
+JNY0000435,2026-10-15,2026,10,15,Thursday,Weekday,5828_20328,3 N6,Bus,8220DB001006,Millwood Villas,8240DB001010,Saint Donagh's Park,22,Off Peak,Adult,Leap Card,3.33,Validated,Compliant,1,0,0
+JNY0000436,2026-10-09,2026,10,9,Friday,Weekday,5935_26683,1 F1 a,Bus,8220DB006367,Lanesborough Ave,8220DB002387,Long Lane,7,Morning Peak,Adult,Leap Card,3.58,Validated,Compliant,1,0,0
+JNY0000437,2026-10-03,2026,10,3,Saturday,Weekend,5901_21099,1 F1 a,Bus,8230DB008017,Ballycullen Ave,8220DB002442,Mount Argus Park,16,Evening Peak,Child,Leap Card,1.74,Validated,Compliant,1,0,0
+JNY0000438,2026-10-20,2026,10,20,Tuesday,Weekday,5935_14262,1 4 c a,Bus,8250DB003114,Temple Hill,8250DB003116,Rowan Park,8,Morning Peak,Student,Leap Card,1.8,Validated,Compliant,1,0,0
+JNY0000439,2026-10-22,2026,10,22,Thursday,Weekday,5828_25894,3 S6 a,Bus,8230DB004347,Tallaght Luas,8230DB004342,The Square,16,Evening Peak,Adult,Leap Card,3.16,Validated,Compliant,1,0,0
+JNY0000440,2026-10-03,2026,10,3,Saturday,Weekend,5901_5765,1 16 c a,Bus,8240DB001631,ALSAA Sports Club,8230DB001303,Rathfarnham,13,Daytime,Student,Leap Card,2.16,Validated,Compliant,1,0,0
+JNY0000441,2026-10-28,2026,10,28,Wednesday,Weekday,5913_3819,2 105 c a,Bus,8240DB001545,Westend Office Park,8240DB007374,Junction 6,8,Morning Peak,Adult,Leap Card,2.92,Validated,Compliant,1,0,0
+JNY0000442,2026-10-29,2026,10,29,Thursday,Weekday,5913_2229,2 103 c a,Bus,8220DB000198,Doyle's Corner,8310B106521,Hickey's Lane,9,Morning Peak,Child,Leap Card,1.46,Validated,Compliant,1,0,0
+JNY0000443,2026-10-16,2026,10,16,Friday,Weekday,5828_16894,3 L52 b a,Bus,8240DB006126,Marymount Care Ctr,8230DB002223,Main St Lucan,12,Daytime,Adult,Contactless,2.73,Validated,Compliant,1,0,0
+JNY0000444,2026-10-16,2026,10,16,Friday,Weekday,5828_4859,3 270T d a,Bus,8240DB004770,Deerhaven,8240DB004765,Huntstown Wood,8,Morning Peak,Young Adult,Leap Card,1.73,Validated,Compliant,1,0,0
+JNY0000445,2026-10-19,2026,10,19,Monday,Weekday,5935_16992,1 42 c a,Bus,8220DB001220,Artane Cottages,8220DB000665,Donnycarney Rd,16,Evening Peak,Adult,Contactless,2.83,Validated,Compliant,1,0,0
+JNY0000446,2026-10-10,2026,10,10,Saturday,Weekend,5935_16598,1 41C c a,Bus,8240DB003699,Stockhole Lane,8220DB007603,St Patrick's Campus,18,Evening Peak,Student,Leap Card,1.51,Validated,Compliant,1,0,0
+JNY0000447,2026-10-30,2026,10,30,Friday,Weekday,5828_24138,3 S4 a,Bus,8250DB007951,UCD Newman,8220DB001085,Terenure Rd E,19,Evening Peak,Adult,Contactless,2.07,Not Validated,Non-Compliant,0,1,0
+JNY0000448,2026-10-29,2026,10,29,Thursday,Weekday,5828_5356,3 33A d a,Bus,8240DB003842,Millbank Court,8240DB003752,Seatown West,13,Daytime,Adult,Leap Card,2.41,Validated,Compliant,1,0,0
+JNY0000449,2026-10-28,2026,10,28,Wednesday,Weekday,5828_2865,3 197,Bus,8310B1524201,Ashbourne,8310B1009901,Johnswood Court,18,Evening Peak,Adult,Leap Card,3.64,Validated,Compliant,1,0,0
+JNY0000450,2026-09-30,2026,9,30,Wednesday,Weekday,5901_23401,1 H1 c a,Bus,8220DB000525,Howth Road,8220DB000529,Collins Avenue,6,Morning Peak,Adult,Cash,2.58,Validated,Compliant,1,0,0
+JNY0000451,2026-10-09,2026,10,9,Friday,Weekday,5935_10783,1 27A c a,Bus,8220DB000668,Marino Mart,8220DB000614,Fairview,11,Daytime,Adult,Other Ticket,2.98,Validated,Compliant,1,0,0
+JNY0000452,2026-10-26,2026,10,26,Monday,Weekday,5935_20228,1 74,Bus,8250DB007717,Dundrum South,8220DB007905,Cashel Avenue,22,Off Peak,Student,Leap Card,1.78,Validated,Compliant,1,0,0
+JNY0000453,2026-10-18,2026,10,18,Sunday,Weekend,5935_29101,1 G1,Bus,8220DB001942,St James Hospital,8220DB002710,Ballyfermot Road,4,Off Peak,Student,Leap Card,1.58,Validated,Compliant,1,0,0
+JNY0000454,2026-10-23,2026,10,23,Friday,Weekday,5935_11894,1 37 c a,Bus,8240DB004747,Blanchardstown SC,8220DB001528,St David's Terrace,7,Morning Peak,Student,Leap Card,2.63,Validated,Compliant,1,0,0
+JNY0000455,2026-10-03,2026,10,3,Saturday,Weekend,5901_14653,1 65B c a,Bus,8220DB001161,Lakelands Pk,8220DB001072,Richmond St South,17,Evening Peak,Adult,Leap Card,2.05,Validated,Compliant,1,0,0
+JNY0000456,2026-10-17,2026,10,17,Saturday,Weekend,5935_7871,1 16 c a,Bus,8230DB001326,Saint Enda's Drive,8220DB000015,Dorset Street Lwr,13,Daytime,Student,Leap Card,2.03,Validation Error,Validation Issue,0,0,1
+JNY0000457,2026-10-27,2026,10,27,Tuesday,Weekday,5828_22513,3 S4 a,Bus,8220DB001117,Terenure Road West,8250DB003012,Bird Avenue,17,Evening Peak,Young Adult,Leap Card,2.73,Validated,Compliant,1,0,0
+JNY0000458,2026-10-27,2026,10,27,Tuesday,Weekday,5913_2890,2 103 c a,Bus,8220DB000263,Parnell Sq East,8220B1350301,Beresford Place,12,Daytime,Senior,Leap Card,1.27,Validated,Compliant,1,0,0
+JNY0000459,2026-10-12,2026,10,12,Monday,Weekday,5935_4485,1 15 c a,Bus,8220DB001121,Terenure Lbry,8230DB001145,Knocklyon Shop Cntr,13,Daytime,Adult,Leap Card,2.59,Validated,Compliant,1,0,0
+JNY0000460,2026-10-28,2026,10,28,Wednesday,Weekday,5828_14207,3 L27 a,Bus,8250DB003151,Glen Estate,8250DB003309,Kerrymount Green,6,Morning Peak,Young Adult,Leap Card,2.53,Validated,Compliant,1,0,0
+JNY0000461,2026-10-03,2026,10,3,Saturday,Weekend,5901_14734,1 68 c a,Bus,8220DB001365,Dolphin's Barn,8230DB003390,Loughtown Rd,21,Off Peak,Young Adult,Cash,2.98,Validated,Compliant,1,0,0
+JNY0000462,2026-10-17,2026,10,17,Saturday,Weekend,5828_31825,3 W6 a,Bus,8230DB002351,Maplewood,8230DB008088,Main Street,17,Evening Peak,Child,Leap Card,1.86,Validated,Compliant,1,0,0
+JNY0000463,2026-10-12,2026,10,12,Monday,Weekday,5935_5325,1 150 c a,Bus,8220DB001386,Parnell Road,8230DB001104,Limekiln Rd W,7,Morning Peak,Student,Leap Card,1.96,Validated,Compliant,1,0,0
+JNY0000464,2026-10-10,2026,10,10,Saturday,Weekend,5936_9913,DUB-MAYNOOTH-O,Rail,8310IR0084,Dunboyne,8240IR0030,Hansfield,10,Daytime,Adult,Leap Card,4.23,Validated,Compliant,1,0,0
+JNY0000465,2026-10-27,2026,10,27,Tuesday,Weekday,5828_21866,3 S4 a,Bus,8220DB001028,Chuchtown Rd Lwr,8250DB000878,Clonskeagh Road,9,Morning Peak,Young Adult,Leap Card,1.74,Validated,Compliant,1,0,0
+JNY0000466,2026-10-02,2026,10,2,Friday,Weekday,5901_22299,1 G1,Bus,8220DB001939,Thomas Street,8220DB001942,St James Hospital,8,Morning Peak,Student,Leap Card,2.46,Validated,Compliant,1,0,0
+JNY0000467,2026-10-19,2026,10,19,Monday,Weekday,5828_1886,3 111 e a,Bus,8250DB006082,Greythorn Park,8250DB003213,Killiney SC,11,Daytime,Young Adult,Leap Card,1.77,Validated,Compliant,1,0,0
+JNY0000468,2026-10-30,2026,10,30,Friday,Weekday,5913_4096,2 105 c a,Bus,8240DB007297,Connolly Hospital,8240DB007166,Navan Rd Stn,19,Evening Peak,Young Adult,Leap Card,2.75,Validated,Compliant,1,0,0
+JNY0000469,2026-10-27,2026,10,27,Tuesday,Weekday,5828_18111,3 N2 a,Bus,8220DB008308,St Clare's,8220DB008315,Park Crescent,15,Daytime,Adult,Contactless,3.08,Validated,Compliant,1,0,0
+JNY0000470,2026-10-28,2026,10,28,Wednesday,Weekday,5828_19697,3 N6,Bus,8220DB001006,Millwood Villas,8220DB001009,St. Donagh's Road,13,Daytime,Adult,Other Ticket,3.75,Validated,Compliant,1,0,0
+JNY0000471,2026-10-27,2026,10,27,Tuesday,Weekday,5828_30533,3 W4 a,Bus,8230DB002234,Lucan Retail Park,8230DB002239,Liffey Valley SC,11,Daytime,Young Adult,Leap Card,2.14,Validated,Compliant,1,0,0
+JNY0000472,2026-10-27,2026,10,27,Tuesday,Weekday,5913_68861,2 B1 c a,Bus,8240B109291,Balbriggan Cemetery,8240B1348601,Millfield Centre,11,Daytime,Student,Cash,1.73,Validated,Compliant,1,0,0
+JNY0000473,2026-10-03,2026,10,3,Saturday,Weekend,5901_4259,1 150 c a,Bus,8220DB001386,Parnell Road,8230DB006163,Greentrees Pk,21,Off Peak,Adult,Leap Card,2.47,Validated,Compliant,1,0,0
+JNY0000474,2026-10-02,2026,10,2,Friday,Weekday,5901_8352,1 27A c a,Bus,8220DB000619,Five Lamps,8220DB007569,Talbot St West,9,Morning Peak,Adult,Contactless,3.19,Validated,Compliant,1,0,0
+JNY0000475,2026-10-24,2026,10,24,Saturday,Weekend,5935_11334,1 27B c a,Bus,8240DB001638,Morton Stadium,8220DB000664,Donnycarney,20,Off Peak,Adult,Leap Card,3.97,Not Validated,Non-Compliant,0,1,0
+JNY0000476,2026-10-14,2026,10,14,Wednesday,Weekday,5828_9759,3 73 a,Bus,8220DB001418,Mourne Rd W,8220DB002103,Walkinstown SC,13,Daytime,Student,Leap Card,2.96,Validated,Compliant,1,0,0
+JNY0000477,2026-10-18,2026,10,18,Sunday,Weekend,5828_27423,3 S8 a,Bus,8250DB003114,Temple Hill,8230DB002533,Parkwood Lwn,12,Daytime,Adult,Leap Card,3.07,Validated,Compliant,1,0,0
+JNY0000478,2026-10-01,2026,10,1,Thursday,Weekday,5901_24198,1 H3 c a,Bus,8240DB000545,Kilbarrack Cemetery,8240DB000566,Kitestown Road,8,Morning Peak,Student,Leap Card,2.81,Validated,Compliant,1,0,0
+JNY0000479,2026-10-30,2026,10,30,Friday,Weekday,5828_7803,3 59 d a,Bus,8250DB003091,Avondale Road,8250DB003097,Wyvern Estate,13,Daytime,Adult,Leap Card,3.47,Validated,Compliant,1,0,0
+JNY0000480,2026-10-27,2026,10,27,Tuesday,Weekday,5828_18922,3 N2 a,Bus,8220DB004378,Cremore Crescent,8220DB001489,Marino Church,16,Evening Peak,Student,Leap Card,2.97,Validated,Compliant,1,0,0
+JNY0000481,2026-09-30,2026,9,30,Wednesday,Weekday,5901_19603,1 E1 a,Bus,8220DB000092,Ballymun Library,8220DB000093,Gateway Avenue,16,Evening Peak,Adult,Leap Card,2.18,Validated,Compliant,1,0,0
+JNY0000482,2026-10-12,2026,10,12,Monday,Weekday,5935_8675,1 19 a,Bus,8220DB000273,O'Connell Br,8220DB004681,Merrion Square South,21,Off Peak,Adult,Contactless,3.02,Validated,Compliant,1,0,0
+JNY0000483,2026-10-09,2026,10,9,Friday,Weekday,5935_21793,1 80 a,Bus,8230DB007881,Liffey Valley S,8230DB007976,Liffey Valley W,21,Off Peak,Adult,Leap Card,2.0,Validated,Compliant,1,0,0
+JNY0000484,2026-10-26,2026,10,26,Monday,Weekday,5828_4376,3 270 d b,Bus,8240DB004767,The Grove,8240DB004768,Littlepace Park,7,Morning Peak,Student,Leap Card,1.69,Not Validated,Non-Compliant,0,1,0
+JNY0000485,2026-10-12,2026,10,12,Monday,Weekday,5828_22450,3 S4 a,Bus,8220DB002784,Kylemore Way,8220DB001165,Rathgar West,16,Evening Peak,Student,Leap Card,2.15,Validated,Compliant,1,0,0
+JNY0000486,2026-10-29,2026,10,29,Thursday,Weekday,5913_1632,2 101 d a,Bus,8220DB000119,Whitehall Village,8220DB000045,Drumcondra Village,12,Daytime,Adult,Leap Card,3.68,Validated,Compliant,1,0,0
+JNY0000487,2026-10-15,2026,10,15,Thursday,Weekday,5935_9604,1 24 a,Bus,8220DB000182,Met Éireann,8220DB000188,Doyle's Corner,14,Daytime,Adult,Leap Card,3.55,Validation Error,Validation Issue,0,0,1
+JNY0000488,2026-10-16,2026,10,16,Friday,Weekday,5935_13628,1 39A c a,Bus,8220DB000776,Morehampton Terrace,8240DB004464,Sheepmoor Grove,22,Off Peak,Child,Cash,1.19,Validated,Compliant,1,0,0
+JNY0000489,2026-10-23,2026,10,23,Friday,Weekday,5935_23724,1 C3 c,Bus,8230DB002233,Chalet Gardens,8220DB007856,Inns Quay,5,Off Peak,Adult,Leap Card,2.43,Validated,Compliant,1,0,0
+JNY0000490,2026-10-07,2026,10,7,Wednesday,Weekday,5935_6123,1 151 c a,Bus,8230DB006153,Riverview BP,8220DB001436,Crumlin Road,15,Daytime,Senior,Contactless,1.03,Validated,Compliant,1,0,0
+JNY0000491,2026-10-25,2026,10,25,Sunday,Weekend,5828_16563,3 L51 c,Bus,8230DB007754,Clayton Hotel,8230DB008029,Liffey Valley SC,8,Morning Peak,Senior,Leap Card,1.44,Validated,Compliant,1,0,0
+JNY0000492,2026-10-07,2026,10,7,Wednesday,Weekday,5935_22341,1 82 a,Bus,8230DB005150,Ashleaf SC,8220DB000358,Sean Moore Rd,20,Off Peak,Young Adult,Leap Card,1.85,Validated,Compliant,1,0,0
+JNY0000493,2026-10-01,2026,10,1,Thursday,Weekday,5901_17734,1 C1 c,Bus,8220DB007739,Park Avenue,8220DB007000,St. John's Church,14,Daytime,Adult,Leap Card,2.74,Validated,Compliant,1,0,0
+JNY0000494,2026-09-30,2026,9,30,Wednesday,Weekday,5901_10887,1 39A c a,Bus,8220DB001702,Roosevelt Cottages,8220DB000763,Belfield Court,18,Evening Peak,Adult,Other Ticket,3.56,Validated,Compliant,1,0,0
+JNY0000495,2026-10-22,2026,10,22,Thursday,Weekday,5828_30272,3 W4 a,Bus,8230DB002215,St Loman's Hospital,8230DB004601,Ballyowen Park,20,Off Peak,Young Adult,Leap Card,1.66,Validated,Compliant,1,0,0
+JNY0000496,2026-10-18,2026,10,18,Sunday,Weekend,5828_8663,3 73 a,Bus,8220DB001172,Deverell Place,8220DB004509,Summerhill,13,Daytime,Adult,Leap Card,2.03,Validated,Compliant,1,0,0
+JNY0000497,2026-10-09,2026,10,9,Friday,Weekday,5935_8280,1 19 a,Bus,8220DB000029,Albert College Park,8240DB008364,Airport Zone 11,17,Evening Peak,Adult,Leap Card,2.3,Validated,Compliant,1,0,0
+JNY0000498,2026-10-23,2026,10,23,Friday,Weekday,5935_26147,1 E2 a,Bus,8220DB000104,Poppintree Parade,8220DB007698,IKEA Ballymun,8,Morning Peak,Adult,Other Ticket,3.28,Not Validated,Non-Compliant,0,1,0
+JNY0000499,2026-10-30,2026,10,30,Friday,Weekday,5828_6494,3 45A d a,Bus,8250DB007472,Killiney SC,8250DB003248,Sallynoggin Road,9,Morning Peak,Adult,Leap Card,2.14,Validated,Compliant,1,0,0
+JNY0000500,2026-10-05,2026,10,5,Monday,Weekday,5935_21281,1 80 a,Bus,8220DB002246,Chapelizod Village,8220DB002250,Salmon Pool,15,Daytime,Adult,Leap Card,2.1,Validated,Compliant,1,0,0
+JNY0000501,2026-10-23,2026,10,23,Friday,Weekday,5828_3817,3 236T d a,Bus,8240DB004976,Indoor Arena,8240DB006005,Plaza Apartments,16,Evening Peak,Adult,Leap Card,2.21,Validated,Compliant,1,0,0
+JNY0000502,2026-10-15,2026,10,15,Thursday,Weekday,5828_16616,3 L51 c,Bus,8230DB004620,Lucan Comm College,8230DB007768,Larkfield,11,Daytime,Young Adult,Leap Card,2.0,Validated,Compliant,1,0,0
+JNY0000503,2026-10-19,2026,10,19,Monday,Weekday,5935_16396,1 41C c a,Bus,8240DB004919,Applewood,8240DB004911,Cianlea,19,Evening Peak,Adult,Leap Card,3.77,Validated,Compliant,1,0,0
+JNY0000504,2026-10-23,2026,10,23,Friday,Weekday,5828_25127,3 S6 a,Bus,8230DB002346,Belgard Rd South,8230DB005131,Charleville Square,18,Evening Peak,Adult,Leap Card,3.01,Validated,Compliant,1,0,0
+JNY0000505,2026-10-25,2026,10,25,Sunday,Weekend,5935_17724,1 47 c a,Bus,8220DB007741,Gilford Road,8220DB000392,Ringsend Village,18,Evening Peak,Student,Leap Card,1.86,Validated,Compliant,1,0,0
+JNY0000506,2026-10-23,2026,10,23,Friday,Weekday,5935_29085,1 G1,Bus,8220DB007397,Samuel Beckett Br,8220DB001940,Watling Street,1,Off Peak,Young Adult,Leap Card,2.28,Validated,Compliant,1,0,0
+JNY0000507,2026-10-30,2026,10,30,Friday,Weekday,5935_5271,1 15 c a,Bus,8230DB001154,Coolamber Court,8220DB000515,Five Lamps,0,Off Peak,Young Adult,Leap Card,1.93,Validated,Compliant,1,0,0
+JNY0000508,2026-10-10,2026,10,10,Saturday,Weekend,5935_9728,1 24 a,Bus,8220DB000187,Munster Street,8220DB007856,Inns Quay,23,Off Peak,Adult,Cash,3.73,Validated,Compliant,1,0,0
+JNY0000509,2026-10-16,2026,10,16,Friday,Weekday,5935_26300,1 E2 a,Bus,8220DB007275,DCC Depot,8240DB000323,Silloge Golf Club,13,Daytime,Adult,Cash,2.1,Validated,Compliant,1,0,0
+JNY0000510,2026-10-05,2026,10,5,Monday,Weekday,5935_12292,1 38 c a,Bus,8220DB001699,De Paul Pool,8220DB001701,St Mary's Convent,8,Morning Peak,Student,Leap Card,1.58,Validated,Compliant,1,0,0
+JNY0000511,2026-10-10,2026,10,10,Saturday,Weekend,5935_22384,1 82 a,Bus,8230DB004435,Tallaght Village,8220DB002467,Cashel Road,22,Off Peak,Young Adult,Leap Card,2.02,Validated,Compliant,1,0,0
+JNY0000512,2026-10-18,2026,10,18,Sunday,Weekend,5828_7129,3 45A d a,Bus,8250DB003534,Churchview Road,8250DB004127,St James's Church,8,Morning Peak,Young Adult,Leap Card,1.98,Not Validated,Non-Compliant,0,1,0
+JNY0000513,2026-10-14,2026,10,14,Wednesday,Weekday,5935_22478,1 99 a,Bus,8220DB007078,Parkgate St,822008208,Park Gates,16,Evening Peak,Young Adult,Leap Card,2.33,Validated,Compliant,1,0,0
+JNY0000514,2026-10-10,2026,10,10,Saturday,Weekend,5858_3442,10000 RED g a,Luas,8230GA00393,Fettercairn,8230GA00348,Belgard,7,Morning Peak,Adult,Contactless,3.54,Validated,Compliant,1,0,0
+JNY0000515,2026-10-19,2026,10,19,Monday,Weekday,5935_35694,1 S2,Bus,8220DB007668,Charleston Road,8220DB001995,James's Luas,10,Daytime,Young Adult,Leap Card,2.64,Validated,Compliant,1,0,0
+JNY0000516,2026-10-29,2026,10,29,Thursday,Weekday,5828_26139,3 S6 a,Bus,8230DB005129,Butterfield Avenue,8230DB002617,Village Grn,20,Off Peak,Senior,Other Ticket,1.19,Validated,Compliant,1,0,0
+JNY0000517,2026-10-11,2026,10,11,Sunday,Weekend,5935_31079,1 H2 c a,Bus,8220DB000599,Raheny Library,8220DB000604,All Saints Road,11,Daytime,Student,Leap Card,1.75,Validated,Compliant,1,0,0
+JNY0000518,2026-10-12,2026,10,12,Monday,Weekday,5935_7205,1 15B c a,Bus,8220DB007582,College Green,8220DB004681,Merrion Square South,19,Evening Peak,Adult,Leap Card,2.21,Validated,Compliant,1,0,0
+JNY0000519,2026-10-06,2026,10,6,Tuesday,Weekday,5935_27754,1 F2 a,Bus,8230DB001100,Willington Lawn,8220DB007661,Barry Ave,6,Morning Peak,Young Adult,Leap Card,1.63,Validated,Compliant,1,0,0
+JNY0000520,2026-10-29,2026,10,29,Thursday,Weekday,5828_24420,3 S6 a,Bus,8230DB004646,Tallaght Hospl,8250DB000765,UCD,5,Off Peak,Adult,Leap Card,2.11,Validation Error,Validation Issue,0,0,1
+JNY0000521,2026-10-24,2026,10,24,Saturday,Weekend,5935_6308,1 15A c a,Bus,8220DB001020,Rathmines,8230DB001105,Greenhills Coll,12,Daytime,Adult,Leap Card,2.88,Validation Error,Validation Issue,0,0,1
+JNY0000522,2026-10-10,2026,10,10,Saturday,Weekend,5935_1040,1 11 c a,Bus,8220DB000278,O'Connell St Upr,8220DB000803,Oxmantown Road,22,Off Peak,Adult,Other Ticket,2.18,Validated,Compliant,1,0,0
+JNY0000523,2026-10-14,2026,10,14,Wednesday,Weekday,5935_20016,1 74,Bus,8230DB002919,Willbrook Road,8250DB005052,Grange Hall,19,Evening Peak,Adult,Leap Card,3.08,Validated,Compliant,1,0,0
+JNY0000524,2026-10-14,2026,10,14,Wednesday,Weekday,5935_18229,1 6 c a,Bus,8240DB000678,St Fintan's Church,8240DB000569,Thormanby Hill,7,Morning Peak,Senior,Leap Card,1.7,Validated,Compliant,1,0,0
+JNY0000525,2026-10-08,2026,10,8,Thursday,Weekday,5935_14760,1 4 c a,Bus,8250DB003162,Rowan Park,8250DB000469,Rock Road,14,Daytime,Young Adult,Leap Card,1.51,Validated,Compliant,1,0,0
+JNY0000526,2026-10-12,2026,10,12,Monday,Weekday,5935_13115,1 39 c a,Bus,8220DB001702,Roosevelt Cottages,8220DB000747,Kildare Street,16,Evening Peak,Adult,Leap Card,2.07,Validated,Compliant,1,0,0
+JNY0000527,2026-10-06,2026,10,6,Tuesday,Weekday,5858_651,10000 GREEN g a,Luas,8220GA00279,Milltown,8250GA00320,Leopardstown,16,Evening Peak,Student,Leap Card,2.25,Validated,Compliant,1,0,0
+JNY0000528,2026-10-03,2026,10,3,Saturday,Weekend,5901_25626,1 L53 c,Bus,8230DB004623,Balgaddy Road,8230DB008060,Liffey Valley SC,12,Daytime,Adult,Other Ticket,3.43,Validated,Compliant,1,0,0
+JNY0000529,2026-10-20,2026,10,20,Tuesday,Weekday,5913_4173,2 105X c a,Bus,8220B1350301,Beresford Place,8310B134271,Woodlands,17,Evening Peak,Child,Leap Card,1.71,Validated,Compliant,1,0,0
+JNY0000530,2026-10-11,2026,10,11,Sunday,Weekend,5935_27521,1 F2 a,Bus,8220DB001525,Barry Road,8220DB007993,Dorset Street Upr,12,Daytime,Student,Leap Card,1.71,Validated,Compliant,1,0,0
+JNY0000531,2026-10-21,2026,10,21,Wednesday,Weekday,5935_16286,1 41C c a,Bus,8220DB000017,Drumcondra Stn,8240DB001629,Collinstown X,10,Daytime,Adult,Leap Card,2.08,Validated,Compliant,1,0,0
+JNY0000532,2026-10-03,2026,10,3,Saturday,Weekend,5901_15721,1 77A c a,Bus,8220DB002095,Crumlin Coll,8220DB002332,Walkinstown Mal,9,Morning Peak,Senior,Leap Card,1.49,Validated,Compliant,1,0,0
+JNY0000533,2026-10-02,2026,10,2,Friday,Weekday,5901_2184,1 13 c a,Bus,8220DB000007,Parnell Sq West,8220DB008346,Mountjoy Sq South,23,Off Peak,Young Adult,Contactless,2.15,Validated,Compliant,1,0,0
+JNY0000534,2026-10-01,2026,10,1,Thursday,Weekday,5901_15774,1 77A c a,Bus,8220DB002097,Raphoe Road,8230DB002602,Avonmore Grove,14,Daytime,Adult,Leap Card,2.62,Validated,Compliant,1,0,0
+JNY0000535,2026-10-24,2026,10,24,Saturday,Weekend,5858_2632,10000 RED g a,Luas,8220GA00398,Smithfield,8230GA00341,Hospital,11,Daytime,Senior,Leap Card,1.61,Validated,Compliant,1,0,0
+JNY0000536,2026-10-06,2026,10,6,Tuesday,Weekday,5935_20101,1 74,Bus,8220DB001089,Lavarna Grove,8220DB002379,Cork Street,10,Daytime,Adult,Contactless,2.02,Not Validated,Non-Compliant,0,1,0
+JNY0000537,2026-10-23,2026,10,23,Friday,Weekday,5828_25656,3 S6 a,Bus,8250DB007965,Nutgrove Retail Park,8230DB004347,Tallaght Luas,11,Daytime,Child,Leap Card,1.97,Not Validated,Non-Compliant,0,1,0
+JNY0000538,2026-10-02,2026,10,2,Friday,Weekday,5901_14677,1 65B c a,Bus,8230DB007550,Donomore Cres,8220DB001352,Camden Street Lwr,22,Off Peak,Adult,Leap Card,2.27,Validated,Compliant,1,0,0
+JNY0000539,2026-10-24,2026,10,24,Saturday,Weekend,5828_19817,3 N6,Bus,8220DB001547,McKee Avenue,8220DB007044,Aulden Grange,14,Daytime,Adult,Contactless,2.37,Validated,Compliant,1,0,0
+JNY0000540,2026-10-24,2026,10,24,Saturday,Weekend,5935_32449,1 L25,Bus,8250DB002034,Vesey Place,8250DB002039,Dun Laoghaire Stn,12,Daytime,Child,Leap Card,1.64,Validated,Compliant,1,0,0
+JNY0000541,2026-10-09,2026,10,9,Friday,Weekday,5935_16771,1 42 c a,Bus,8220DB001201,Dunree Pk,8220DB001202,Newtown Ctgs,13,Daytime,Adult,Contactless,3.86,Validated,Compliant,1,0,0
+JNY0000542,2026-10-19,2026,10,19,Monday,Weekday,5935_12092,1 37 c a,Bus,8240DB004898,Castleknock College,8220DB001694,Old Race Course,23,Off Peak,Adult,Other Ticket,2.41,Validated,Compliant,1,0,0
+JNY0000543,2026-09-30,2026,9,30,Wednesday,Weekday,5901_8127,1 27 c a,Bus,8220DB000516,Newcomen Bridge,8220DB004388,Glin Avenue,18,Evening Peak,Adult,Leap Card,2.19,Validated,Compliant,1,0,0
+JNY0000544,2026-10-10,2026,10,10,Saturday,Weekend,5913_68949,2 B1 c a,Bus,8240B1347701,Hastings,8240B109281,Stephenstown IE,14,Daytime,Student,Leap Card,1.9,Validated,Compliant,1,0,0
+JNY0000545,2026-10-02,2026,10,2,Friday,Weekday,5901_7662,1 27 c a,Bus,8230DB002557,Tallaght Village,8230DB002624,Rossfield,12,Daytime,Young Adult,Leap Card,2.41,Validated,Compliant,1,0,0
+JNY0000546,2026-10-14,2026,10,14,Wednesday,Weekday,5913_2258,2 103 c a,Bus,8310B1012201,Bourne Avenue,8310B134631,Skryne Road,11,Daytime,Student,Cash,1.81,Validated,Compliant,1,0,0
+JNY0000547,2026-10-10,2026,10,10,Saturday,Weekend,5935_35484,1 S2,Bus,8220DB007929,Sandymount Station,8220DB007931,Beach Road,17,Evening Peak,Adult,Leap Card,3.05,Validated,Compliant,1,0,0
+JNY0000548,2026-10-27,2026,10,27,Tuesday,Weekday,5828_31137,3 W6 a,Bus,8260DB003926,Rail Park,8230DB006187,Ballynakelly,12,Daytime,Child,Leap Card,1.06,Validated,Compliant,1,0,0
+JNY0000549,2026-10-02,2026,10,2,Friday,Weekday,5901_4265,1 150 c a,Bus,8220DB002319,Saint Agnes Church,8230DB002322,Muckross Avenue,22,Off Peak,Adult,Leap Card,2.2,Validated,Compliant,1,0,0
+JNY0000550,2026-10-19,2026,10,19,Monday,Weekday,5935_33032,1 L53 c,Bus,8230DB004691,Rowlagh Crescent,8230DB004411,Shancastle Park,12,Daytime,Adult,Leap Card,2.2,Validated,Compliant,1,0,0
+JNY0000551,2026-10-28,2026,10,28,Wednesday,Weekday,5828_18622,3 N2 a,Bus,8220DB001647,Blackhall Place,8220DB001911,Prussia Street,9,Morning Peak,Adult,Leap Card,3.01,Validated,Compliant,1,0,0
+JNY0000552,2026-10-01,2026,10,1,Thursday,Weekday,5901_3382,1 15 c a,Bus,8230DB001144,Dargle Wood,8230DB006283,Dalriada Court,9,Morning Peak,Adult,Leap Card,2.91,Validated,Compliant,1,0,0
+JNY0000553,2026-10-09,2026,10,9,Friday,Weekday,5828_5267,3 33A d a,Bus,8240DB003845,Whitestown Cemetery,8240DB003863,Turvey Avenue,9,Morning Peak,Adult,Leap Card,3.52,Validated,Compliant,1,0,0
+JNY0000554,2026-10-02,2026,10,2,Friday,Weekday,5901_27885,1 S2,Bus,8220DB001995,James's Luas,8220DB001445,Usher's Quay,22,Off Peak,Adult,Leap Card,2.72,Not Validated,Non-Compliant,0,1,0
+JNY0000555,2026-10-17,2026,10,17,Saturday,Weekend,5913_3278,2 103 c a,Bus,8240B1011101,Broughan,8220B1011501,Glasnevin,22,Off Peak,Young Adult,Leap Card,2.71,Validated,Compliant,1,0,0
+JNY0000556,2026-10-17,2026,10,17,Saturday,Weekend,5935_21110,1 80 a,Bus,8220DB004456,Aungier Street,8220DB001021,Rathmines Rd Upr,6,Morning Peak,Student,Contactless,2.79,Validated,Compliant,1,0,0
+JNY0000557,2026-10-06,2026,10,6,Tuesday,Weekday,5935_27672,1 F2 a,Bus,8220DB001537,De Courcy Sq,8220DB001091,Whitehall Rd E,20,Off Peak,Senior,Leap Card,1.1,Validated,Compliant,1,0,0
+JNY0000558,2026-10-01,2026,10,1,Thursday,Weekday,5901_8499,1 27B c a,Bus,8220DB001228,Cromcastle Ave,8220DB008523,Beaumont Hospital,12,Daytime,Senior,Leap Card,1.18,Validated,Compliant,1,0,0
+JNY0000559,2026-10-29,2026,10,29,Thursday,Weekday,5935_30122,1 G2 a,Bus,8230DB002687,Cherry Orchard IE,8220DB002499,S O'Casey Br,20,Off Peak,Student,Leap Card,2.49,Validated,Compliant,1,0,0
+JNY0000560,2026-10-18,2026,10,18,Sunday,Weekend,5936_2743,BRAY-HOWTH-I,Rail,8240IR0017,Howth,8220IR0032,Clontarf Road,23,Off Peak,Child,Leap Card,2.89,Validated,Compliant,1,0,0
+JNY0000561,2026-10-10,2026,10,10,Saturday,Weekend,5935_6835,1 15B c a,Bus,8230DB007446,Templeroan Estate,8230DB006280,Dalriada,15,Daytime,Senior,Other Ticket,1.19,Validated,Compliant,1,0,0
+JNY0000562,2026-10-11,2026,10,11,Sunday,Weekend,5828_20209,3 N6,Bus,8220DB001002,Tonlegee Road,8240DB001010,Saint Donagh's Park,20,Off Peak,Adult,Leap Card,2.62,Validated,Compliant,1,0,0
+JNY0000563,2026-10-24,2026,10,24,Saturday,Weekend,5935_23107,1 C2 c,Bus,8230DB007386,Foxborough Park,8230DB006289,Adamstown Station,15,Daytime,Child,Leap Card,1.69,Validated,Compliant,1,0,0
+JNY0000564,2026-10-29,2026,10,29,Thursday,Weekday,5913_1223,2 101 d a,Bus,8240DB005074,Swords Pavilions,8310B1003601,Painestown,18,Evening Peak,Student,Leap Card,1.81,Validated,Compliant,1,0,0
+JNY0000565,2026-09-30,2026,9,30,Wednesday,Weekday,5828_17390,3 L55 a,Bus,8230DB002202,Kennelsfort Road,8230DB004799,Ballyfermot Road,11,Daytime,Young Adult,Leap Card,2.58,Validated,Compliant,1,0,0
+JNY0000566,2026-10-11,2026,10,11,Sunday,Weekend,5935_13285,1 39A c a,Bus,8220DB001666,Ashtown Roundabout,8240DB002171,Linnetfields,10,Daytime,Young Adult,Cash,1.78,Not Validated,Non-Compliant,0,1,0
+JNY0000567,2026-10-19,2026,10,19,Monday,Weekday,5933_74,135 500 c,Bus,8240DB006310,Holywell Cres,8220000372,East Wall Rd,20,Off Peak,Senior,Leap Card,1.12,Validated,Compliant,1,0,0
+JNY0000568,2026-10-29,2026,10,29,Thursday,Weekday,5935_20463,1 77A c a,Bus,8230DB002562,Donomore Ave,8230DB007459,Citywest Rd N,0,Off Peak,Adult,Leap Card,3.77,Validated,Compliant,1,0,0
+JNY0000569,2026-10-30,2026,10,30,Friday,Weekday,5828_2175,3 114 d a,Bus,8250DB003195,Meadow Close,8250DB003198,Carysfort Avenue,12,Daytime,Adult,Leap Card,2.57,Validated,Compliant,1,0,0
+JNY0000570,2026-10-30,2026,10,30,Friday,Weekday,5935_27431,1 F2 a,Bus,8220DB000186,Hart's Corner,8230DB001092,Whitehall Gdns,7,Morning Peak,Adult,Other Ticket,2.06,Validated,Compliant,1,0,0
+JNY0000571,2026-10-02,2026,10,2,Friday,Weekday,5901_25805,1 L53 c,Bus,8230DB002678,Rowlagh,8230DB007118,Stratton Grove,19,Evening Peak,Student,Leap Card,1.96,Validated,Compliant,1,0,0
+JNY0000572,2026-10-18,2026,10,18,Sunday,Weekend,5935_25708,1 E2 a,Bus,8220DB000761,Teresian School,8250DB004566,IADT Dun Laoghaire,11,Daytime,Student,Leap Card,2.2,Validation Error,Validation Issue,0,0,1
+JNY0000573,2026-10-13,2026,10,13,Tuesday,Weekday,5935_33930,1 L59 b,Bus,8260DB007079,Ash Grove,8260DB007746,Church Road,16,Evening Peak,Child,Other Ticket,1.14,Validated,Compliant,1,0,0
+JNY0000574,2026-09-30,2026,9,30,Wednesday,Weekday,5901_20234,1 E2 a,Bus,8220DB000105,Belclare Park,8220DB007698,IKEA Ballymun,6,Morning Peak,Adult,Contactless,2.73,Validated,Compliant,1,0,0
+JNY0000575,2026-10-03,2026,10,3,Saturday,Weekend,5901_22895,1 G2 a,Bus,8230DB004690,Fonthill Retail Pk,8230DB007754,Clayton Hotel,10,Daytime,Young Adult,Leap Card,2.04,Validated,Compliant,1,0,0
+JNY0000576,2026-10-17,2026,10,17,Saturday,Weekend,5936_382,BRAY-HOWTH-I,Rail,8250IR0037,Glenageary,8220WBROK,Woodbrook,11,Daytime,Senior,Other Ticket,2.61,Validated,Compliant,1,0,0
+JNY0000577,2026-10-23,2026,10,23,Friday,Weekday,5935_17859,1 52 b,Bus,8220DB002722,South Circular Road,8220DB000351,Erne Street,6,Morning Peak,Adult,Leap Card,2.13,Validated,Compliant,1,0,0
+JNY0000578,2026-10-01,2026,10,1,Thursday,Weekday,5901_21493,1 F2 a,Bus,8220DB001526,Kildonan Park,8220DB002390,Mount Argus Ml,3,Off Peak,Adult,Leap Card,2.94,Validated,Compliant,1,0,0
+JNY0000579,2026-10-28,2026,10,28,Wednesday,Weekday,5913_3519,2 105 c a,Bus,8310B1009901,Johnswood Court,8310B1010001,Rath,12,Daytime,Student,Contactless,2.68,Validated,Compliant,1,0,0
+JNY0000580,2026-10-03,2026,10,3,Saturday,Weekend,5901_21878,1 F3 a,Bus,8220DB007845,Finglas Village,8220DB000838,Charleville Lawn,13,Daytime,Adult,Contactless,2.69,Validated,Compliant,1,0,0
+JNY0000581,2026-10-03,2026,10,3,Saturday,Weekend,5901_5303,1 15B c a,Bus,8230DB001303,Rathfarnham,8230DB007446,Templeroan Estate,16,Evening Peak,Young Adult,Leap Card,1.63,Validated,Compliant,1,0,0
+JNY0000582,2026-10-03,2026,10,3,Saturday,Weekend,5901_10802,1 39A c a,Bus,8240DB004489,Sheepmoor Grove,8220DB000755,Wellington Lane,14,Daytime,Young Adult,Leap Card,1.97,Validated,Compliant,1,0,0
+JNY0000583,2026-10-16,2026,10,16,Friday,Weekday,5935_27565,1 F2 a,Bus,8220DB002390,Mount Argus Ml,8230DB001094,Glendale Park,15,Daytime,Adult,Leap Card,2.92,Validated,Compliant,1,0,0
+JNY0000584,2026-10-30,2026,10,30,Friday,Weekday,5828_2837,3 197,Bus,8310LL12637,Greenogue,8310B1012201,Bourne Avenue,15,Daytime,Senior,Leap Card,1.23,Validated,Compliant,1,0,0
+JNY0000585,2026-10-29,2026,10,29,Thursday,Weekday,5828_20124,3 N6,Bus,8220DB001007,Millbrook Drive,8220DB001012,Naomh Barróg GAA,19,Evening Peak,Adult,Leap Card,2.95,Validated,Compliant,1,0,0
+JNY0000586,2026-10-10,2026,10,10,Saturday,Weekend,5935_4753,1 15 c a,Bus,8220DB000301,Eden Quay,8220DB007579,Redmond's Hill,0,Off Peak,Young Adult,Leap Card,2.25,Validated,Compliant,1,0,0
+JNY0000587,2026-10-04,2026,10,4,Sunday,Weekend,5935_10012,1 27 c a,Bus,8220DB002311,Kevin Street,8230DB004640,Tallaght Hospl,16,Evening Peak,Adult,Leap Card,3.8,Validated,Compliant,1,0,0
+JNY0000588,2026-10-22,2026,10,22,Thursday,Weekday,5935_9856,1 27 c a,Bus,8220DB001247,Greencastle Ave,8220DB001248,Greencastle Prde,10,Daytime,Young Adult,Contactless,2.07,Validated,Compliant,1,0,0
+JNY0000589,2026-10-23,2026,10,23,Friday,Weekday,5828_6555,3 45A d a,Bus,8250DB004205,Crinken Lane,8250DB003068,George's St Upper,10,Daytime,Adult,Other Ticket,2.09,Validated,Compliant,1,0,0
+JNY0000590,2026-10-23,2026,10,23,Friday,Weekday,5935_6239,1 15A c a,Bus,8220DB001019,Military Road,8230DB001104,Limekiln Rd W,7,Morning Peak,Adult,Leap Card,2.75,Validated,Compliant,1,0,0
+JNY0000591,2026-10-02,2026,10,2,Friday,Weekday,5901_26912,1 N4,Bus,8220DB001188,Collinswood,8220DB001643,Falcarragh Rd,19,Evening Peak,Adult,Leap Card,3.64,Validated,Compliant,1,0,0
+JNY0000592,2026-10-26,2026,10,26,Monday,Weekday,5935_6447,1 15A c a,Bus,8230DB001103,Limekiln Mnr,8230DB001104,Limekiln Rd W,23,Off Peak,Child,Leap Card,1.57,Validated,Compliant,1,0,0
+JNY0000593,2026-10-09,2026,10,9,Friday,Weekday,5828_18204,3 N2 a,Bus,8220DB008307,St Mobhi Road,8220DB001708,Mc Kee Park,16,Evening Peak,Young Adult,Leap Card,1.99,Validated,Compliant,1,0,0
+JNY0000594,2026-10-29,2026,10,29,Thursday,Weekday,5828_18073,3 N2 a,Bus,8220DB001708,Mc Kee Park,8220DB001715,Blackhall Place,14,Daytime,Adult,Leap Card,2.05,Validated,Compliant,1,0,0
+JNY0000595,2026-10-02,2026,10,2,Friday,Weekday,5901_21736,1 F2 a,Bus,8230DB004578,Saint Jude's GAA,8230DB001100,Willington Lawn,22,Off Peak,Adult,Leap Card,2.1,Validated,Compliant,1,0,0
+JNY0000596,2026-10-14,2026,10,14,Wednesday,Weekday,5935_28266,1 F3 a,Bus,8220DB001607,Berryfield Rd,8220DB000747,Kildare Street,15,Daytime,Child,Leap Card,1.62,Validated,Compliant,1,0,0
+JNY0000597,2026-10-30,2026,10,30,Friday,Weekday,5935_14856,1 4 c a,Bus,8220DB000325,Aston Quay,8220DB007939,Heuston Station,19,Evening Peak,Senior,Leap Card,1.01,Validated,Compliant,1,0,0
+JNY0000598,2026-10-14,2026,10,14,Wednesday,Weekday,5828_31942,3 W6 a,Bus,8260DB008081,Moyglare Abbey,8260DB008082,Community College,22,Off Peak,Adult,Leap Card,3.56,Validated,Compliant,1,0,0
+JNY0000599,2026-10-11,2026,10,11,Sunday,Weekend,5858_3003,10000 RED g a,Luas,8230GA00347,Belgard,8230GA00412,Citywest,17,Evening Peak,Adult,Other Ticket,2.47,Validated,Compliant,1,0,0
+JNY0000600,2026-10-19,2026,10,19,Monday,Weekday,5935_15394,1 40E c a,Bus,8240DB007107,Ballentree Avenue,8240DB007104,Mount Garrett,18,Evening Peak,Young Adult,Leap Card,2.22,Validated,Compliant,1,0,0
+JNY0000601,2026-10-14,2026,10,14,Wednesday,Weekday,5858_1908,10000 GREEN g a,Luas,8250GA00336,Brides Glen,8220GA00444,O'Connell - GPO,16,Evening Peak,Adult,Leap Card,3.02,Validated,Compliant,1,0,0
+JNY0000602,2026-10-03,2026,10,3,Saturday,Weekend,5901_22523,1 G1,Bus,8220DB002909,Saint Ultans School,8230DB007781,Monastery Gt,23,Off Peak,Student,Cash,2.68,Validated,Compliant,1,0,0
+JNY0000603,2026-10-28,2026,10,28,Wednesday,Weekday,5828_9066,3 73 a,Bus,8220DB001488,Torlogh Parade,8220DB001490,Griffith Ave E,19,Evening Peak,Adult,Cash,3.3,Validated,Compliant,1,0,0
+JNY0000604,2026-10-25,2026,10,25,Sunday,Weekend,5935_22050,1 82 a,Bus,8230DB002322,Muckross Avenue,8230DB001096,Wellington Road,19,Evening Peak,Adult,Leap Card,2.8,Validated,Compliant,1,0,0
+JNY0000605,2026-10-16,2026,10,16,Friday,Weekday,5935_8447,1 19 a,Bus,8220DB000037,DCU Ballymun Road,8220DB000040,Stella Avenue,7,Morning Peak,Adult,Contactless,2.85,Validated,Compliant,1,0,0
+JNY0000606,2026-10-06,2026,10,6,Tuesday,Weekday,5935_17581,1 47 c a,Bus,8220DB002089,RTE,8250DB002012,Stillorgan SC,9,Morning Peak,Adult,Leap Card,2.97,Validated,Compliant,1,0,0
+JNY0000607,2026-10-01,2026,10,1,Thursday,Weekday,5901_1759,1 13 c a,Bus,8230DB002139,Lindisfarne Lawns,8230DB002166,Castlegrange Grn,16,Evening Peak,Adult,Leap Card,2.12,Validated,Compliant,1,0,0
+JNY0000608,2026-10-02,2026,10,2,Friday,Weekday,5901_18516,1 C3 c,Bus,8230DB003373,Lucan Heights,8220DB007435,Memorial Gdns,19,Evening Peak,Student,Other Ticket,2.94,Validated,Compliant,1,0,0
+JNY0000609,2026-09-30,2026,9,30,Wednesday,Weekday,5901_177,1 1 e a,Bus,8220DB000265,Parnell Square East,8220DB000340,Townsend Street,18,Evening Peak,Young Adult,Other Ticket,1.59,Validated,Compliant,1,0,0
+JNY0000610,2026-10-28,2026,10,28,Wednesday,Weekday,5828_21729,3 S4 a,Bus,8220DB001025,Trinity Hall,8220DB001027,South Hill,8,Morning Peak,Young Adult,Leap Card,2.95,Validated,Compliant,1,0,0
+JNY0000611,2026-10-03,2026,10,3,Saturday,Weekend,5901_24243,1 H3 c a,Bus,8220DB000528,Castle Grove,8240DB008146,Offington Park,13,Daytime,Adult,Cash,3.93,Validated,Compliant,1,0,0
+JNY0000612,2026-10-17,2026,10,17,Saturday,Weekend,5936_3842,BRAY-HOWTH-I,Rail,8250IR0021,Killiney,8240IR0025,Howth Junction and Donaghmede,15,Daytime,Student,Leap Card,4.55,Validated,Compliant,1,0,0
+JNY0000613,2026-10-02,2026,10,2,Friday,Weekday,5901_8383,1 27A c a,Bus,8220DB000645,Harmonstown Rd,8220DB001219,Danieli Road,14,Daytime,Child,Leap Card,1.77,Validated,Compliant,1,0,0
+JNY0000614,2026-10-19,2026,10,19,Monday,Weekday,5935_17668,1 47 c a,Bus,8250DB004984,Burton Hall Road,8220DB000391,St Brendan's Ctgs,6,Morning Peak,Adult,Leap Card,3.46,Validated,Compliant,1,0,0
+JNY0000615,2026-10-26,2026,10,26,Monday,Weekday,5935_33419,1 L54 b,Bus,8230DB004633,Ballyowen Park,8260DB003956,Salmon Leap,18,Evening Peak,Student,Leap Card,2.51,Validated,Compliant,1,0,0
+JNY0000616,2026-10-16,2026,10,16,Friday,Weekday,5935_1680,1 122 c a,Bus,8220DB001462,Galtymore Cl,8220DB006094,Errigal Gdns,14,Daytime,Adult,Leap Card,3.56,Validated,Compliant,1,0,0
+JNY0000617,2026-10-02,2026,10,2,Friday,Weekday,5901_15656,1 74,Bus,8250DB002978,Heather Lawn,8220DB002448,Cashel Road,19,Evening Peak,Student,Leap Card,2.56,Validated,Compliant,1,0,0
+JNY0000618,2026-10-04,2026,10,4,Sunday,Weekend,5935_23572,1 C3 c,Bus,8260DB003965,Intel West,8260DB003966,Maynooth SC,10,Daytime,Senior,Leap Card,1.31,Validated,Compliant,1,0,0
+JNY0000619,2026-10-24,2026,10,24,Saturday,Weekend,5935_27819,1 F2 a,Bus,8220DB002439,Ravensdale Pk,8220DB002443,Mount Argus Ml,9,Morning Peak,Adult,Contactless,2.41,Validated,Compliant,1,0,0
+JNY0000620,2026-10-24,2026,10,24,Saturday,Weekend,5935_20897,1 7A c a,Bus,8250DB003234,Sallynoggin College,8220DB000483,British Embassy,6,Morning Peak,Student,Leap Card,2.71,Validated,Compliant,1,0,0
+JNY0000621,2026-10-22,2026,10,22,Thursday,Weekday,5828_5401,3 33A d a,Bus,8240DB003824,Shenick Road,8240DB003848,Beau Hill,15,Daytime,Adult,Leap Card,2.0,Validated,Compliant,1,0,0
+JNY0000622,2026-10-24,2026,10,24,Saturday,Weekend,5828_29364,3 W2 a,Bus,8230DB002121,Rowlagh,8230DB002685,Coldcut Road,16,Evening Peak,Senior,Contactless,1.79,Validated,Compliant,1,0,0
+JNY0000623,2026-10-02,2026,10,2,Friday,Weekday,5828_25783,3 S6 a,Bus,8230DB004640,Tallaght Hospl,8230DB004342,The Square,14,Daytime,Adult,Contactless,2.84,Validated,Compliant,1,0,0
+JNY0000624,2026-10-30,2026,10,30,Friday,Weekday,5935_14748,1 4 c a,Bus,8250DB000469,Rock Road,8220DB000488,Lansdowne Park,14,Daytime,Adult,Contactless,2.39,Validated,Compliant,1,0,0
+JNY0000625,2026-10-22,2026,10,22,Thursday,Weekday,5935_15144,1 40D c a,Bus,8220DB001537,De Courcy Sq,8220DB000186,Hart's Corner,9,Morning Peak,Adult,Cash,3.02,Validated,Compliant,1,0,0
+JNY0000626,2026-10-17,2026,10,17,Saturday,Weekend,5935_15802,1 41 c a,Bus,8240DB003865,Outlands,8240DB004957,Abbeyvale,19,Evening Peak,Young Adult,Leap Card,2.2,Validated,Compliant,1,0,0
+JNY0000627,2026-10-06,2026,10,6,Tuesday,Weekday,5828_15010,3 L27 a,Bus,8250DB003128,Cabinteely PO,8250DB002027,Monkstown Farm,16,Evening Peak,Adult,Leap Card,3.88,Validated,Compliant,1,0,0
+JNY0000628,2026-10-03,2026,10,3,Saturday,Weekend,5901_11367,1 4 c a,Bus,8220DB001445,Usher's Quay,8220DB004407,Victoria Quay,11,Daytime,Adult,Cash,2.82,Validated,Compliant,1,0,0
+JNY0000629,2026-10-09,2026,10,9,Friday,Weekday,5935_11239,1 27B c a,Bus,8220DB001237,Cromcastle Ave,8220DB000247,Maryfield Drive,14,Daytime,Student,Leap Card,1.93,Validated,Compliant,1,0,0
+JNY0000630,2026-10-18,2026,10,18,Sunday,Weekend,5828_22702,3 S4 a,Bus,8220DB002435,Westbrook,8220DB002437,Kimmage Road West,19,Evening Peak,Adult,Leap Card,3.51,Not Validated,Non-Compliant,0,1,0
+JNY0000631,2026-10-25,2026,10,25,Sunday,Weekend,5932_512,1178 782,Bus,8220DB000312,Wellington Quay,8220DB004425,Heuston Station,19,Evening Peak,Adult,Leap Card,2.52,Validated,Compliant,1,0,0
+JNY0000632,2026-10-03,2026,10,3,Saturday,Weekend,5901_9358,1 37 c a,Bus,8240DB001693,Castleknock Gate,8220DB000843,St Stephen's Grn E,22,Off Peak,Senior,Cash,1.83,Validated,Compliant,1,0,0
+JNY0000633,2026-10-02,2026,10,2,Friday,Weekday,5901_9530,1 38 c a,Bus,8240DB001719,Damastown Close,8220DB006059,The Spire of Dublin,8,Morning Peak,Adult,Leap Card,2.45,Validated,Compliant,1,0,0
+JNY0000634,2026-10-08,2026,10,8,Thursday,Weekday,5935_6593,1 15A c a,Bus,8220DB001170,Rathmines Garda,8220DB001070,Rathmines,16,Evening Peak,Adult,Leap Card,3.34,Validated,Compliant,1,0,0
+JNY0000635,2026-10-16,2026,10,16,Friday,Weekday,5935_24644,1 E1 a,Bus,8250DB002014,Brewery Road,8350DB004175,St Fergal's Church,14,Daytime,Adult,Leap Card,2.34,Not Validated,Non-Compliant,0,1,0
+JNY0000636,2026-10-03,2026,10,3,Saturday,Weekend,5901_12046,1 40E c a,Bus,8240DB007073,Carlton Hotel,8240DB007097,Belgree Boulevard,18,Evening Peak,Adult,Cash,3.51,Validated,Compliant,1,0,0
+JNY0000637,2026-10-30,2026,10,30,Friday,Weekday,5935_15877,1 41 c a,Bus,8240DB003865,Outlands,8240DB004915,Ormond Avenue,3,Off Peak,Adult,Leap Card,4.0,Validated,Compliant,1,0,0
+JNY0000638,2026-10-11,2026,10,11,Sunday,Weekend,5935_24015,1 C4 c,Bus,8230DB002218,Roselawn,8260DB003897,Backweston Park,14,Daytime,Young Adult,Leap Card,2.25,Validated,Compliant,1,0,0
+JNY0000639,2026-10-18,2026,10,18,Sunday,Weekend,5935_15597,1 40E c a,Bus,8240DB007681,Millennium,8220DB004793,Avila Park,23,Off Peak,Adult,Contactless,2.14,Validated,Compliant,1,0,0
+JNY0000640,2026-10-24,2026,10,24,Saturday,Weekend,5858_2462,10000 RED g a,Luas,8230GA00350,Kingswood,8230GA00347,Belgard,7,Morning Peak,Student,Contactless,2.3,Validated,Compliant,1,0,0
+JNY0000641,2026-10-05,2026,10,5,Monday,Weekday,5935_34502,1 N4,Bus,8240DB001838,Waterville Road,8240DB007850,Waterville Road,13,Daytime,Student,Leap Card,1.74,Validated,Compliant,1,0,0
+JNY0000642,2026-10-19,2026,10,19,Monday,Weekday,5896_466,LLLMF 192 a,Bus,8240DB003682,Glasmore Pk,8240DB010377,Cronan's Well Ave,18,Evening Peak,Child,Leap Card,1.09,Validated,Compliant,1,0,0
+JNY0000643,2026-10-07,2026,10,7,Wednesday,Weekday,5828_17686,3 L55 a,Bus,8230DB002212,Palmerstown Village,8230DB007165,Robin Villas,17,Evening Peak,Adult,Leap Card,3.3,Validated,Compliant,1,0,0
+JNY0000644,2026-10-11,2026,10,11,Sunday,Weekend,5828_19192,3 N2 a,Bus,8220DB000116,Griffith Lawns,8220DB001490,Griffith Ave E,23,Off Peak,Adult,Leap Card,3.91,Validated,Compliant,1,0,0
+JNY0000645,2026-10-16,2026,10,16,Friday,Weekday,5935_2494,1 13 c a,Bus,8230DB002148,Kilcronan Ct,8230DB002152,Lindisfarne Walk,7,Morning Peak,Student,Cash,2.7,Validated,Compliant,1,0,0
+JNY0000646,2026-10-29,2026,10,29,Thursday,Weekday,5935_20708,1 77A c a,Bus,8230DB002430,Tymonville Gr,8220DB002185,Balfe Road,23,Off Peak,Student,Leap Card,1.79,Validated,Compliant,1,0,0
+JNY0000647,2026-10-19,2026,10,19,Monday,Weekday,5935_29227,1 G1,Bus,8220DB002697,Ballyfermot Parade,8220DB007359,Eden Quay,12,Daytime,Adult,Leap Card,3.49,Validated,Compliant,1,0,0
+JNY0000648,2026-10-18,2026,10,18,Sunday,Weekend,5935_8834,1 23 a,Bus,8220DB000151,Botanic Gardens,8220DB001539,Griffith Drive,13,Daytime,Adult,Leap Card,3.19,Validated,Compliant,1,0,0
+JNY0000649,2026-10-16,2026,10,16,Friday,Weekday,5828_4449,3 270 d b,Bus,8310DB003339,Summerseat Court,8240DB004767,The Grove,12,Daytime,Adult,Contactless,2.3,Validated,Compliant,1,0,0
+JNY0000650,2026-10-02,2026,10,2,Friday,Weekday,5901_19687,1 E1 a,Bus,8350DB004182,Killarney Villas,8220DB000090,Albert College Ct,17,Evening Peak,Senior,Leap Card,1.51,Validated,Compliant,1,0,0
+JNY0000651,2026-10-19,2026,10,19,Monday,Weekday,5935_35809,1 S2,Bus,8220DB001999,Cornmarket,8220DB007939,Heuston Station,17,Evening Peak,Student,Leap Card,1.8,Validated,Compliant,1,0,0
+JNY0000652,2026-10-19,2026,10,19,Monday,Weekday,5935_19733,1 70 c a,Bus,8220DB000785,Pembroke St Lwr,8220DB001666,Ashtown Roundabout,18,Evening Peak,Young Adult,Leap Card,2.29,Validated,Compliant,1,0,0
+JNY0000653,2026-10-23,2026,10,23,Friday,Weekday,5935_8694,1 19 a,Bus,8220DB000038,Hampstead Avenue,8220DB000405,Nassau Street,22,Off Peak,Student,Leap Card,2.17,Validated,Compliant,1,0,0
+JNY0000654,2026-10-18,2026,10,18,Sunday,Weekend,5935_1037,1 11 c a,Bus,8220DB000883,Eglinton Road,8220DB000904,Appian Way,22,Off Peak,Student,Leap Card,2.12,Validated,Compliant,1,0,0
+JNY0000655,2026-10-03,2026,10,3,Saturday,Weekend,5901_966,1 120 c a,Bus,8220DB000056,Phibsborough Church,8220DB004538,Royal Canal Avenue,12,Daytime,Child,Contactless,1.48,Validated,Compliant,1,0,0
+JNY0000656,2026-09-30,2026,9,30,Wednesday,Weekday,5901_14711,1 68 c a,Bus,8220DB001952,Hollybrook House,8230DB002134,Nangor Court,15,Daytime,Adult,Other Ticket,2.12,Validated,Compliant,1,0,0
+JNY0000657,2026-10-20,2026,10,20,Tuesday,Weekday,5935_1588,1 122 c a,Bus,8220DB001701,St Mary's Convent,8220DB001410,Keeper Rd,7,Morning Peak,Adult,Contactless,2.76,Validated,Compliant,1,0,0
+JNY0000658,2026-10-08,2026,10,8,Thursday,Weekday,5935_10391,1 27 c a,Bus,8220DB001250,Bunratty Road,8220DB001269,Marigold Road,15,Daytime,Student,Contactless,2.58,Validated,Compliant,1,0,0
+JNY0000659,2026-10-30,2026,10,30,Friday,Weekday,5913_2578,2 103 c a,Bus,8240B1344501,Kildonan,8310B1012201,Bourne Avenue,19,Evening Peak,Adult,Leap Card,3.05,Validated,Compliant,1,0,0
+JNY0000660,2026-10-03,2026,10,3,Saturday,Weekend,5901_3001,1 14 c a,Bus,8220DB000614,Fairview,8220DB000616,North Strand FS,23,Off Peak,Senior,Leap Card,1.79,Validated,Compliant,1,0,0
+JNY0000661,2026-10-03,2026,10,3,Saturday,Weekend,5901_8885,1 33 c a,Bus,8220DB007602,St Patrick's Campus,8240DB003795,Brookville Lane,19,Evening Peak,Adult,Leap Card,2.33,Validated,Compliant,1,0,0
+JNY0000662,2026-10-04,2026,10,4,Sunday,Weekend,5828_20234,3 N6,Bus,8240DB000989,Santry Avenue,8220DB001237,Cromcastle Ave,20,Off Peak,Young Adult,Leap Card,2.65,Validated,Compliant,1,0,0
+JNY0000663,2026-10-08,2026,10,8,Thursday,Weekday,5828_23225,3 S4 a,Bus,8220DB001064,Dartry Road,8230DB002206,Cherry Orchard Hosp,8,Morning Peak,Adult,Leap Card,4.0,Validated,Compliant,1,0,0
+JNY0000664,2026-10-17,2026,10,17,Saturday,Weekend,5935_17810,1 52 b,Bus,8220DB002721,South Circular Road,8260DB007818,Intel Campus 1,14,Daytime,Adult,Leap Card,2.48,Validated,Compliant,1,0,0
+JNY0000665,2026-09-30,2026,9,30,Wednesday,Weekday,5901_23701,1 H1 c a,Bus,8240DB000950,Baldoyle Ch,8220DB000741,St Donagh's Road,8,Morning Peak,Child,Leap Card,1.2,Validated,Compliant,1,0,0
+JNY0000666,2026-10-11,2026,10,11,Sunday,Weekend,5828_29518,3 W2 a,Bus,8230DB002685,Coldcut Road,8230DB007976,Liffey Valley W,19,Evening Peak,Senior,Leap Card,1.81,Validated,Compliant,1,0,0
+JNY0000667,2026-10-11,2026,10,11,Sunday,Weekend,5935_33261,1 L53 c,Bus,8230DB007784,Foxdene Avenue,8230DB007138,Johnsbridge Avenue,18,Evening Peak,Senior,Leap Card,1.87,Validated,Compliant,1,0,0
+JNY0000668,2026-10-12,2026,10,12,Monday,Weekday,5935_26393,1 E2 a,Bus,8220DB000909,Adelaide Road,8220DB000029,Albert College Park,16,Evening Peak,Adult,Leap Card,3.22,Validated,Compliant,1,0,0
+JNY0000669,2026-10-14,2026,10,14,Wednesday,Weekday,5935_1626,1 122 c a,Bus,8220DB001365,Dolphin's Barn,8220DB001459,Galtymore Rd,10,Daytime,Adult,Leap Card,3.75,Validated,Compliant,1,0,0
+JNY0000670,2026-10-03,2026,10,3,Saturday,Weekend,5901_17700,1 C1 c,Bus,8230DB005056,Hermitage Clinic,8220DB000354,Ringsend Road,9,Morning Peak,Adult,Contactless,2.31,Validated,Compliant,1,0,0
+JNY0000671,2026-10-15,2026,10,15,Thursday,Weekday,5935_16230,1 41B c a,Bus,8240DB003884,Pine Grove,8220DB000044,Home Farm Rd East,12,Daytime,Young Adult,Leap Card,2.11,Validated,Compliant,1,0,0
+JNY0000672,2026-10-19,2026,10,19,Monday,Weekday,5858_4297,10000 RED g a,Luas,8220GA00373,Suir Road,8220GA00399,Smithfield,23,Off Peak,Student,Contactless,1.97,Validated,Compliant,1,0,0
+JNY0000673,2026-10-09,2026,10,9,Friday,Weekday,5828_19395,3 N6,Bus,8220DB001001,Brookville Crescent,8220DB001005,Limewood Pk,9,Morning Peak,Adult,Other Ticket,3.94,Validated,Compliant,1,0,0
+JNY0000674,2026-10-16,2026,10,16,Friday,Weekday,5828_14203,3 L27 a,Bus,8250DB007636,Mackintosh Park,8250DB008294,Ballyogan Ct,6,Morning Peak,Adult,Contactless,3.83,Validated,Compliant,1,0,0
+JNY0000675,2026-10-07,2026,10,7,Wednesday,Weekday,5828_5768,3 33B d a,Bus,8240DB007041,Lanestown,8240DB003726,Portrane Avenue,13,Daytime,Adult,Leap Card,3.6,Validated,Compliant,1,0,0
+JNY0000676,2026-10-13,2026,10,13,Tuesday,Weekday,5913_1170,2 101 d a,Bus,8310B1003601,Painestown,8300B100381,Drogheda Stn,17,Evening Peak,Adult,Leap Card,3.15,Validated,Compliant,1,0,0
+JNY0000677,2026-10-12,2026,10,12,Monday,Weekday,5935_26222,1 E2 a,Bus,8220DB000792,Dawson Street,8220DB000029,Albert College Park,10,Daytime,Adult,Leap Card,2.27,Validated,Compliant,1,0,0
+JNY0000678,2026-10-16,2026,10,16,Friday,Weekday,5935_5196,1 15 c a,Bus,8220DB006316,Clongriffin Village,8220DB007245,Clongriffin Stn,21,Off Peak,Student,Leap Card,1.63,Validated,Compliant,1,0,0
+JNY0000679,2026-10-03,2026,10,3,Saturday,Weekend,5901_6146,1 16 c a,Bus,8220DB001337,Terenure North,8220DB001347,Clanbrassil Upr,16,Evening Peak,Adult,Contactless,3.4,Validated,Compliant,1,0,0
+JNY0000680,2026-10-03,2026,10,3,Saturday,Weekend,5858_1301,10000 GREEN g a,Luas,8220GA00456,Phibsborough,8220GA00480,Cabra,8,Morning Peak,Adult,Leap Card,2.81,Validated,Compliant,1,0,0
+JNY0000681,2026-10-27,2026,10,27,Tuesday,Weekday,5828_23443,3 S4 a,Bus,8230DB002674,Coldcut Rd,8230DB008029,Liffey Valley SC,12,Daytime,Adult,Leap Card,2.51,Validated,Compliant,1,0,0
+JNY0000682,2026-10-20,2026,10,20,Tuesday,Weekday,5828_10349,3 73 a,Bus,8220DB001369,Mayfield Rd,8220DB001414,Benbulbin Rd,21,Off Peak,Young Adult,Contactless,2.45,Validated,Compliant,1,0,0
+JNY0000683,2026-09-30,2026,9,30,Wednesday,Weekday,5901_13301,1 43 c a,Bus,8220DB000519,North Strand FS,8220DB001198,Artane Rnbt,16,Evening Peak,Adult,Leap Card,3.68,Validated,Compliant,1,0,0
+JNY0000684,2026-10-03,2026,10,3,Saturday,Weekend,5901_1149,1 120 c a,Bus,8220DB004936,Newgrange Road,8220DB006071,Parnell Street,16,Evening Peak,Child,Leap Card,1.22,Validated,Compliant,1,0,0
+JNY0000685,2026-10-19,2026,10,19,Monday,Weekday,5828_21495,3 N6,Bus,8240DB006219,Melville Rd,8220DB001514,Finglas,21,Off Peak,Adult,Contactless,2.86,Validated,Compliant,1,0,0
+JNY0000686,2026-10-26,2026,10,26,Monday,Weekday,5935_18817,1 65B c a,Bus,8220DB004521,College Green,8220DB001283,S Great George's St,16,Evening Peak,Adult,Leap Card,2.44,Validated,Compliant,1,0,0
+JNY0000687,2026-10-09,2026,10,9,Friday,Weekday,5935_26341,1 E2 a,Bus,8220DB000199,Munster Street,8220DB000200,Prospect Way,14,Daytime,Adult,Leap Card,3.15,Validated,Compliant,1,0,0
+JNY0000688,2026-10-24,2026,10,24,Saturday,Weekend,5935_23719,1 C3 c,Bus,8260DB003968,Carton House,8260DB005113,Maynooth,0,Off Peak,Adult,Contactless,2.21,Validated,Compliant,1,0,0
+JNY0000689,2026-10-03,2026,10,3,Saturday,Weekend,5901_21330,1 F2 a,Bus,8220DB001558,McKelvey Ave,8220DB007996,St Stephen's Grn S,12,Daytime,Adult,Leap Card,3.44,Validated,Compliant,1,0,0
+JNY0000690,2026-10-08,2026,10,8,Thursday,Weekday,5828_9589,3 73 a,Bus,8220DB001515,Marino Park,8220DB000513,Summerhill,10,Daytime,Adult,Contactless,3.14,Validated,Compliant,1,0,0
+JNY0000691,2026-10-01,2026,10,1,Thursday,Weekday,5901_14711,1 68 c a,Bus,8220DB001948,Tyrconnell Rd N,8230DB006119,Keeloges,15,Daytime,Adult,Leap Card,3.41,Validated,Compliant,1,0,0
+JNY0000692,2026-10-03,2026,10,3,Saturday,Weekend,5901_6492,1 19 a,Bus,8220DB000023,Ferguson Road,8240DB001630,ALSAA Sports Club,22,Off Peak,Student,Contactless,2.85,Validated,Compliant,1,0,0
+JNY0000693,2026-10-27,2026,10,27,Tuesday,Weekday,5828_2411,3 114 d a,Bus,8250DB003176,Leopardstown Rd,8250DB003493,Lambs Cross,16,Evening Peak,Student,Leap Card,2.87,Validated,Compliant,1,0,0
+JNY0000694,2026-10-23,2026,10,23,Friday,Weekday,5935_27917,1 F2 a,Bus,8220DB000793,Dawson Street,8220DB001510,Ballyboggan Rd E,15,Daytime,Adult,Other Ticket,2.88,Validated,Compliant,1,0,0
+JNY0000695,2026-10-26,2026,10,26,Monday,Weekday,5936_10825,DUB-MAYNOOTH-O,Rail,8220IR0027,Drumcondra,8220IR0026,Broombridge,12,Daytime,Student,Leap Card,2.63,Validated,Compliant,1,0,0
+JNY0000696,2026-10-24,2026,10,24,Saturday,Weekend,5930_420,LLKE SD3 a,Bus,8230LL12049,St. Anne's Church,8230LL12042,Balfes Lane,17,Evening Peak,Adult,Leap Card,2.73,Validation Error,Validation Issue,0,0,1
+JNY0000697,2026-10-29,2026,10,29,Thursday,Weekday,5828_20879,3 N6,Bus,8240DB006229,Meakstown Ctr,8240DB006364,Century Business Pk,13,Daytime,Student,Leap Card,2.82,Validated,Compliant,1,0,0
+JNY0000698,2026-10-21,2026,10,21,Wednesday,Weekday,5828_2462,3 114 d a,Bus,8250DB004984,Burton Hall Road,8250DB006199,Rockview,20,Off Peak,Adult,Leap Card,3.29,Validated,Compliant,1,0,0
+JNY0000699,2026-10-07,2026,10,7,Wednesday,Weekday,5935_5575,1 150 c a,Bus,8220DB001402,Sundrive Road,8220DB005099,Saint Luke's Avenue,8,Morning Peak,Young Adult,Cash,2.77,Validated,Compliant,1,0,0
+JNY0000700,2026-10-16,2026,10,16,Friday,Weekday,5935_23570,1 C3 c,Bus,8220DB000397,Pearse Sq,8230DB004401,Palmerstown R148,9,Morning Peak,Child,Contactless,1.26,Validated,Compliant,1,0,0
+JNY0000701,2026-10-25,2026,10,25,Sunday,Weekend,5936_4889,BRAY-HOWTH-I,Rail,8350IR0122,Greystones,8350IR0123,Bray (Daly),21,Off Peak,Adult,Cash,3.32,Validated,Compliant,1,0,0
+JNY0000702,2026-10-29,2026,10,29,Thursday,Weekday,5828_23445,3 S4 a,Bus,8220DB002653,Ballyfermot Cr,8220DB002672,Cleggan Park,12,Daytime,Adult,Leap Card,3.26,Validated,Compliant,1,0,0
+JNY0000703,2026-10-09,2026,10,9,Friday,Weekday,5828_9601,3 73 a,Bus,8220DB001937,High Street,8220DB001938,Cornmarket,10,Daytime,Student,Other Ticket,2.97,Validated,Compliant,1,0,0
+JNY0000704,2026-10-30,2026,10,30,Friday,Weekday,5935_30515,1 H1 c a,Bus,8220DB000527,Ashbrook,8240DB005156,Industrial Estate,23,Off Peak,Adult,Leap Card,2.31,Validated,Compliant,1,0,0
+JNY0000705,2026-10-29,2026,10,29,Thursday,Weekday,5828_23814,3 S4 a,Bus,8220DB001086,Terenure Road West,8220DB002330,Somerville Avenue,16,Evening Peak,Adult,Leap Card,2.05,Validated,Compliant,1,0,0
+JNY0000706,2026-10-23,2026,10,23,Friday,Weekday,5935_28116,1 F3 a,Bus,8220DB002392,Kimmage,8230DB004392,Greenhills Coll,7,Morning Peak,Adult,Cash,3.99,Validated,Compliant,1,0,0
+JNY0000707,2026-10-17,2026,10,17,Saturday,Weekend,5913_1785,2 101 d a,Bus,8310B1006801,Sarsfieldstown,8240B1007101,Balbriggan Comm Sch,15,Daytime,Young Adult,Other Ticket,2.67,Validated,Compliant,1,0,0
+JNY0000708,2026-10-10,2026,10,10,Saturday,Weekend,5828_20534,3 N6,Bus,8220DB000962,Limewood Pk,8220DB000104,Poppintree Parade,7,Morning Peak,Adult,Other Ticket,3.2,Validated,Compliant,1,0,0
+JNY0000709,2026-10-15,2026,10,15,Thursday,Weekday,5828_23681,3 S4 a,Bus,8220DB001088,Parkmore Drive,8220DB002668,Community Centre,14,Daytime,Student,Leap Card,2.0,Validated,Compliant,1,0,0
+JNY0000710,2026-10-28,2026,10,28,Wednesday,Weekday,5828_17104,3 L52 b a,Bus,8240DB007227,Limelawn,8240DB004362,Millennium Park,9,Morning Peak,Adult,Leap Card,3.36,Validated,Compliant,1,0,0
+JNY0000711,2026-10-30,2026,10,30,Friday,Weekday,5935_19140,1 69 c a,Bus,8220DB001950,Oblate Ch,8230DB002163,Saint John's Close,9,Morning Peak,Student,Contactless,1.51,Validated,Compliant,1,0,0
+JNY0000712,2026-10-19,2026,10,19,Monday,Weekday,5935_12200,1 38 c a,Bus,8220DB000057,Dalymount,8240DB004742,Damastown Green,17,Evening Peak,Adult,Leap Card,3.69,Validated,Compliant,1,0,0
+JNY0000713,2026-10-07,2026,10,7,Wednesday,Weekday,5913_1205,2 101 d a,Bus,8220DB001620,Whitehall Church,8240DB006048,Peter & Paul Church,17,Evening Peak,Senior,Leap Card,1.26,Validated,Compliant,1,0,0
+JNY0000714,2026-10-07,2026,10,7,Wednesday,Weekday,5828_23326,3 S4 a,Bus,8250DB003011,Bird Avenue,8220DB001090,Kimmage Road West,9,Morning Peak,Adult,Leap Card,3.52,Validated,Compliant,1,0,0
+JNY0000715,2026-10-23,2026,10,23,Friday,Weekday,5913_1194,2 101 d a,Bus,8240DB005074,Swords Pavilions,8310B0132761,Keenoge,17,Evening Peak,Adult,Leap Card,3.11,Validated,Compliant,1,0,0
+JNY0000716,2026-10-02,2026,10,2,Friday,Weekday,5901_26242,1 L58 b,Bus,8260DB007770,Leixlip Park,8260DB004405,Highfield Park,21,Off Peak,Student,Leap Card,2.17,Validated,Compliant,1,0,0
+JNY0000717,2026-10-30,2026,10,30,Friday,Weekday,5828_10183,3 73 a,Bus,8220DB007888,Winetavern Street,8220DB001418,Mourne Rd W,19,Evening Peak,Child,Leap Card,1.88,Validated,Compliant,1,0,0
+JNY0000718,2026-10-02,2026,10,2,Friday,Weekday,5901_18941,1 C6 c,Bus,8260DB003928,Castletown,8260DB003941,Backweston Park,4,Off Peak,Adult,Leap Card,3.09,Validated,Compliant,1,0,0
+JNY0000719,2026-10-23,2026,10,23,Friday,Weekday,5858_2233,10000 GREEN g a,Luas,8250GA00286,Dundrum,8220GA00479,Grangegorman,20,Off Peak,Student,Leap Card,1.79,Validated,Compliant,1,0,0
+JNY0000720,2026-10-07,2026,10,7,Wednesday,Weekday,5935_26706,1 F1 a,Bus,8220DB000335,D'Olier Street,8220DB002386,New Street South,8,Morning Peak,Adult,Leap Card,3.24,Validated,Compliant,1,0,0
+JNY0000721,2026-10-19,2026,10,19,Monday,Weekday,5828_16613,3 L51 c,Bus,8230DB007986,St. Helen's,8230DB004626,Arthur Griffith Pk,10,Daytime,Adult,Cash,2.75,Validated,Compliant,1,0,0
+JNY0000722,2026-10-30,2026,10,30,Friday,Weekday,5828_26088,3 S6 a,Bus,8230DB002515,Cherryfield Wy,8230DB004347,Tallaght Luas,19,Evening Peak,Adult,Leap Card,3.57,Validated,Compliant,1,0,0
+JNY0000723,2026-10-23,2026,10,23,Friday,Weekday,5913_2088,2 103 c a,Bus,8220B1350301,Beresford Place,8240B1009301,Coolquay,5,Off Peak,Adult,Leap Card,2.56,Validated,Compliant,1,0,0
+JNY0000724,2026-10-07,2026,10,7,Wednesday,Weekday,5913_2483,2 103 c a,Bus,8310B134631,Skryne Road,8310B133611,Steeplechase Green,17,Evening Peak,Student,Leap Card,2.04,Validated,Compliant,1,0,0
+JNY0000725,2026-10-25,2026,10,25,Sunday,Weekend,5935_28738,1 F3 a,Bus,8220DB004937,Clearstream Court,8220DB001548,McKee Ave N,0,Off Peak,Adult,Other Ticket,2.64,Validated,Compliant,1,0,0
+JNY0000726,2026-10-18,2026,10,18,Sunday,Weekend,5828_8221,3 59 d a,Bus,8250DB003103,Ballinaclea Road,8250DB003059,Church Road,23,Off Peak,Adult,Leap Card,2.0,Validated,Compliant,1,0,0
+JNY0000727,2026-09-30,2026,9,30,Wednesday,Weekday,5901_18730,1 C4 c,Bus,8230DB003373,Lucan Heights,8230DB002236,Hermitage Bridge,8,Morning Peak,Student,Contactless,2.5,Validated,Compliant,1,0,0
+JNY0000728,2026-10-27,2026,10,27,Tuesday,Weekday,5828_7885,3 59 d a,Bus,8250DB004830,Barnhill Road,8250DB003095,Ballinaclea Road,18,Evening Peak,Adult,Leap Card,3.65,Validated,Compliant,1,0,0
+JNY0000729,2026-10-01,2026,10,1,Thursday,Weekday,5901_232,1 1 e a,Bus,8220DB000047,Archbishop's House,8220DB000049,Dorset Street Lwr,22,Off Peak,Senior,Leap Card,1.67,Validated,Compliant,1,0,0
+JNY0000730,2026-10-03,2026,10,3,Saturday,Weekend,5901_1627,1 13 c a,Bus,8230DB007782,Monastery Gt,8230DB004552,Pfizer,7,Morning Peak,Student,Other Ticket,2.84,Validated,Compliant,1,0,0
+JNY0000731,2026-10-23,2026,10,23,Friday,Weekday,5935_1527,1 120 c a,Bus,8220DB007028,Royal Canal Centre,8220DB000828,Broombridge Station,19,Evening Peak,Young Adult,Leap Card,2.6,Validated,Compliant,1,0,0
+JNY0000732,2026-10-27,2026,10,27,Tuesday,Weekday,5828_10405,3 73 a,Bus,8220DB004516,St James's Hospital,8220DB001419,Brandon Road,22,Off Peak,Young Adult,Other Ticket,1.87,Validated,Compliant,1,0,0
+JNY0000733,2026-10-02,2026,10,2,Friday,Weekday,5901_2898,1 14 c a,Bus,8250DB004334,Dargle Vw,8250DB002862,Ashlawn,18,Evening Peak,Student,Cash,2.72,Validated,Compliant,1,0,0
+JNY0000734,2026-10-12,2026,10,12,Monday,Weekday,5935_6298,1 15A c a,Bus,8220DB001285,Camden Street Lwr,8220DB001080,Garville Avenue,11,Daytime,Adult,Other Ticket,2.15,Validated,Compliant,1,0,0
+JNY0000735,2026-10-17,2026,10,17,Saturday,Weekend,5935_33120,1 L53 c,Bus,8230DB003368,Finnstown Abbey,8230DB008060,Liffey Valley SC,21,Off Peak,Student,Leap Card,2.18,Validated,Compliant,1,0,0
+JNY0000736,2026-10-17,2026,10,17,Saturday,Weekend,5828_9361,3 73 a,Bus,8220DB004516,St James's Hospital,8220DB001419,Brandon Road,6,Morning Peak,Student,Leap Card,2.41,Validated,Compliant,1,0,0
+JNY0000737,2026-10-27,2026,10,27,Tuesday,Weekday,5936_918,BRAY-HOWTH-I,Rail,8250IR0124,Dun Laoghaire (Mallin),8250IR0021,Killiney,14,Daytime,Adult,Leap Card,6.14,Validated,Compliant,1,0,0
+JNY0000738,2026-10-01,2026,10,1,Thursday,Weekday,5901_1492,1 122 c a,Bus,8220DB001384,National Stadium,8220DB000065,Dingle Road,12,Daytime,Adult,Leap Card,3.1,Validated,Compliant,1,0,0
+JNY0000739,2026-10-29,2026,10,29,Thursday,Weekday,5913_3274,2 103 c a,Bus,8310B1018501,Bourne Avenue,8310B1010101,Bullstown,22,Off Peak,Senior,Leap Card,1.13,Not Validated,Non-Compliant,0,1,0
+JNY0000740,2026-10-24,2026,10,24,Saturday,Weekend,5935_31128,1 H2 c a,Bus,8220DB000596,Shieling Square,8220DB000602,Wade's Avenue,16,Evening Peak,Adult,Leap Card,3.28,Validated,Compliant,1,0,0
+JNY0000741,2026-10-24,2026,10,24,Saturday,Weekend,5935_26159,1 E2 a,Bus,8250DB002042,Smith's Villas,8220DB000091,Ballymun Road NS,7,Morning Peak,Senior,Leap Card,1.56,Validation Error,Validation Issue,0,0,1
+JNY0000742,2026-10-02,2026,10,2,Friday,Weekday,5901_10175,1 39 c a,Bus,8220DB001906,Old Cabra Road,8220DB000315,Bachelors Walk,18,Evening Peak,Senior,Leap Card,1.41,Validated,Compliant,1,0,0
+JNY0000743,2026-10-11,2026,10,11,Sunday,Weekend,5932_545,1178 782,Bus,8240B111911,Terminal 2 Zone 19,8240000551,Terminal 1 Zone 1,23,Off Peak,Adult,Leap Card,3.58,Validated,Compliant,1,0,0
+JNY0000744,2026-10-14,2026,10,14,Wednesday,Weekday,5935_4209,1 14 c a,Bus,8220DB001071,Cathal Brugha Brrks,8220DB000523,Marino Mart,20,Off Peak,Senior,Leap Card,1.9,Validated,Compliant,1,0,0
+JNY0000745,2026-10-30,2026,10,30,Friday,Weekday,5935_7198,1 15B c a,Bus,8230DB007444,The Glen,8220DB001354,Redmond's Hill,17,Evening Peak,Adult,Leap Card,2.86,Validated,Compliant,1,0,0
+JNY0000746,2026-10-12,2026,10,12,Monday,Weekday,5828_23391,3 S4 a,Bus,8220DB002328,Saint Agnes Church,8220DB002672,Cleggan Park,11,Daytime,Child,Leap Card,1.55,Validated,Compliant,1,0,0
+JNY0000747,2026-10-19,2026,10,19,Monday,Weekday,5935_29951,1 G2 a,Bus,8220DB002714,Markievicz Park,8220DB000407,Custom House,12,Daytime,Young Adult,Leap Card,2.03,Validated,Compliant,1,0,0
+JNY0000748,2026-10-11,2026,10,11,Sunday,Weekend,5936_457,BRAY-HOWTH-I,Rail,8220IR0133,Lansdowne Road,8250IR0037,Glenageary,11,Daytime,Adult,Contactless,6.32,Validated,Compliant,1,0,0
+JNY0000749,2026-10-03,2026,10,3,Saturday,Weekend,5901_7235,1 24 a,Bus,8240DB001630,ALSAA Sports Club,8240DB003663,Corballis Pk,14,Daytime,Young Adult,Leap Card,2.53,Validated,Compliant,1,0,0
+JNY0000750,2026-10-02,2026,10,2,Friday,Weekday,5901_15769,1 77A c a,Bus,8230DB002535,Old Bawn Rd,8230DB005008,Belgard Square N,14,Daytime,Adult,Leap Card,3.16,Validated,Compliant,1,0,0
+JNY0000751,2026-10-12,2026,10,12,Monday,Weekday,5935_27707,1 F2 a,Bus,8220DB001290,Clanbrassil Upr,8230DB001095,Perrystown,23,Off Peak,Senior,Contactless,1.96,Validation Error,Validation Issue,0,0,1
+JNY0000752,2026-10-05,2026,10,5,Monday,Weekday,5935_12036,1 37 c a,Bus,8240DB007031,Diswellstown Road,8240DB004897,Luttrellstown Court,17,Evening Peak,Student,Other Ticket,2.3,Validated,Compliant,1,0,0
+JNY0000753,2026-10-03,2026,10,3,Saturday,Weekend,5901_17283,1 82 a,Bus,8230DB002599,Spawell Rnbt,8220DB001072,Richmond St South,17,Evening Peak,Senior,Leap Card,1.82,Validated,Compliant,1,0,0
+JNY0000754,2026-10-30,2026,10,30,Friday,Weekday,5935_13845,1 39A c a,Bus,8220DB001478,Inns Quay,8220DB000755,Wellington Lane,11,Daytime,Adult,Contactless,3.08,Validated,Compliant,1,0,0
+JNY0000755,2026-10-19,2026,10,19,Monday,Weekday,5935_9662,1 24 a,Bus,8220DB001614,Church St Upr,8220DB004681,Merrion Square South,18,Evening Peak,Student,Leap Card,1.54,Validated,Compliant,1,0,0
+JNY0000756,2026-10-26,2026,10,26,Monday,Weekday,5828_5530,3 33A d a,Bus,8240DB003836,Kilbush Lane,8240DB003838,Community Centre,21,Off Peak,Adult,Contactless,3.9,Validated,Compliant,1,0,0
+JNY0000757,2026-10-06,2026,10,6,Tuesday,Weekday,5828_27703,3 S8 a,Bus,8230DB002983,Pearse Brothers Pk,8230DB002349,Alderwood,19,Evening Peak,Adult,Leap Card,2.35,Validated,Compliant,1,0,0
+JNY0000758,2026-10-27,2026,10,27,Tuesday,Weekday,5828_29340,3 W2 a,Bus,8230DB002685,Coldcut Road,8230DB007881,Liffey Valley S,16,Evening Peak,Adult,Cash,3.41,Validated,Compliant,1,0,0
+JNY0000759,2026-10-03,2026,10,3,Saturday,Weekend,5901_25528,1 L25,Bus,8250DB007393,Marsham Court,8250DB002841,Dundrum Centre,20,Off Peak,Young Adult,Leap Card,1.69,Validation Error,Validation Issue,0,0,1
+JNY0000760,2026-10-21,2026,10,21,Wednesday,Weekday,5935_2274,1 13 c a,Bus,8230DB003384,Ballybane East,8230DB004554,Grange Castle,16,Evening Peak,Senior,Leap Card,1.54,Validated,Compliant,1,0,0
+JNY0000761,2026-10-15,2026,10,15,Thursday,Weekday,5828_26721,3 S8 a,Bus,8250DB003189,Silverpark GAA,8250DB003038,Belgrave Square,14,Daytime,Adult,Contactless,2.79,Validated,Compliant,1,0,0
+JNY0000762,2026-10-02,2026,10,2,Friday,Weekday,5828_22439,3 S4 a,Bus,8220DB002787,Walkinstown Ave,8220DB002778,Drimnagh Cstl,16,Evening Peak,Adult,Leap Card,2.17,Not Validated,Non-Compliant,0,1,0
+JNY0000763,2026-10-19,2026,10,19,Monday,Weekday,5828_15129,3 L27 a,Bus,8250DB002033,Knapton Court,8250DB002036,Crofton Avenue,21,Off Peak,Adult,Contactless,2.07,Validated,Compliant,1,0,0
+JNY0000764,2026-10-30,2026,10,30,Friday,Weekday,5828_28390,3 W2 a,Bus,8230DB002619,Belgard Road,8230DB002345,Belgard Retail Park,16,Evening Peak,Adult,Leap Card,3.54,Validated,Compliant,1,0,0
+JNY0000765,2026-10-08,2026,10,8,Thursday,Weekday,5935_22135,1 82 a,Bus,8230DB002595,Bancroft Road,8220DB001072,Richmond St South,6,Morning Peak,Young Adult,Contactless,1.73,Validated,Compliant,1,0,0
+JNY0000766,2026-10-02,2026,10,2,Friday,Weekday,5901_3095,1 14 c a,Bus,8220DB000523,Marino Mart,8220DB000245,Whitethorn Rise,12,Daytime,Adult,Leap Card,2.04,Validated,Compliant,1,0,0
+JNY0000767,2026-10-19,2026,10,19,Monday,Weekday,5913_969,2 101 d a,Bus,8240DB003713,Balheary Park,8240B1002201,Five Roads,9,Morning Peak,Adult,Leap Card,3.34,Validated,Compliant,1,0,0
+JNY0000768,2026-10-06,2026,10,6,Tuesday,Weekday,5935_7037,1 15B c a,Bus,8220DB001168,Leicester Avenue,8220DB000340,Townsend Street,9,Morning Peak,Child,Leap Card,1.55,Validated,Compliant,1,0,0
+JNY0000769,2026-10-19,2026,10,19,Monday,Weekday,5935_34406,1 N4,Bus,8220DB000662,Clanmoyle Rd,8220DB001579,Heathfield Avenue,8,Morning Peak,Student,Contactless,1.97,Validated,Compliant,1,0,0
+JNY0000770,2026-10-24,2026,10,24,Saturday,Weekend,5935_11930,1 37 c a,Bus,8240DB001693,Castleknock Gate,8220DB001694,Old Race Course,10,Daytime,Adult,Contactless,2.58,Validated,Compliant,1,0,0
+JNY0000771,2026-09-30,2026,9,30,Wednesday,Weekday,5901_10919,1 39A c a,Bus,8240DB004747,Blanchardstown SC,8220DB001714,Stoneybatter,19,Evening Peak,Senior,Leap Card,1.95,Validated,Compliant,1,0,0
+JNY0000772,2026-10-10,2026,10,10,Saturday,Weekend,5935_29374,1 G1,Bus,8230DB006153,Riverview BP,8220DB002498,IFSC,19,Evening Peak,Student,Contactless,1.65,Validated,Compliant,1,0,0
+JNY0000773,2026-10-03,2026,10,3,Saturday,Weekend,5901_8129,1 27 c a,Bus,8220DB002380,Weaver Park,8220DB000523,Marino Mart,17,Evening Peak,Adult,Leap Card,2.68,Validated,Compliant,1,0,0
+JNY0000774,2026-10-28,2026,10,28,Wednesday,Weekday,5828_29035,3 W2 a,Bus,8230DB002762,Tallaght Fire Stn,8230DB007881,Liffey Valley S,10,Daytime,Adult,Leap Card,2.52,Validated,Compliant,1,0,0
+JNY0000775,2026-10-09,2026,10,9,Friday,Weekday,5935_32385,1 L25,Bus,8250DB004460,Whately Place,8250DB006100,Monkstown Park,8,Morning Peak,Child,Leap Card,1.27,Validated,Compliant,1,0,0
+JNY0000776,2026-10-03,2026,10,3,Saturday,Weekend,5901_5524,1 15B c a,Bus,8220DB002986,Meadowbank,8220DB001354,Redmond's Hill,15,Daytime,Adult,Leap Card,2.36,Validated,Compliant,1,0,0
+JNY0000777,2026-10-27,2026,10,27,Tuesday,Weekday,5935_8959,1 23 a,Bus,8220DB000202,Fairfield Rd,8240DB006229,Meakstown Ctr,22,Off Peak,Adult,Leap Card,3.48,Validated,Compliant,1,0,0
+JNY0000778,2026-10-16,2026,10,16,Friday,Weekday,5828_24918,3 S6 a,Bus,8250DB007963,UCD Village,8250DB002008,Seafield Road,15,Daytime,Adult,Leap Card,2.29,Validated,Compliant,1,0,0
+JNY0000779,2026-10-03,2026,10,3,Saturday,Weekend,5828_29598,3 W2 a,Bus,8230DB005011,Belgard Road,8230DB007879,Cappaghmore,20,Off Peak,Young Adult,Other Ticket,2.69,Validated,Compliant,1,0,0
+JNY0000780,2026-10-06,2026,10,6,Tuesday,Weekday,5858_1039,10000 GREEN g a,Luas,8250GA00282,Windy Arbour,8250GA00330,Laughanstown,20,Off Peak,Adult,Leap Card,2.19,Validated,Compliant,1,0,0
+JNY0000781,2026-10-27,2026,10,27,Tuesday,Weekday,5935_21525,1 80 a,Bus,8220DB001450,Phoenix Hse,8230DB002202,Kennelsfort Road,8,Morning Peak,Student,Cash,1.55,Validated,Compliant,1,0,0
+JNY0000782,2026-10-22,2026,10,22,Thursday,Weekday,5828_3686,3 220T d a,Bus,8220DB000136,McKee Rd N,8220DB000980,Mellowes Cres,15,Daytime,Senior,Leap Card,1.42,Not Validated,Non-Compliant,0,1,0
+JNY0000783,2026-10-20,2026,10,20,Tuesday,Weekday,5858_1783,10000 GREEN g a,Luas,8220GA00278,Milltown,8220GA00059,St. Stephen's Green,15,Daytime,Adult,Contactless,2.37,Validated,Compliant,1,0,0
+JNY0000784,2026-10-06,2026,10,6,Tuesday,Weekday,5828_7835,3 59 d a,Bus,8250DB003092,Arnold Grove,8250DB003095,Ballinaclea Road,15,Daytime,Adult,Leap Card,2.16,Validated,Compliant,1,0,0
+JNY0000785,2026-10-03,2026,10,3,Saturday,Weekend,5858_2151,10000 GREEN g a,Luas,8250GA00297,Stillorgan,8220GA00470,O'Connell Upr.,19,Evening Peak,Young Adult,Cash,1.51,Validated,Compliant,1,0,0
+JNY0000786,2026-10-02,2026,10,2,Friday,Weekday,5901_7165,1 24 a,Bus,8220DB007391,Merrion Sq South,8220DB000134,Grove Road,7,Morning Peak,Child,Leap Card,1.91,Not Validated,Non-Compliant,0,1,0
+JNY0000787,2026-10-19,2026,10,19,Monday,Weekday,5858_3295,10000 RED g a,Luas,8230GA00412,Citywest,8230GA00418,Saggart,22,Off Peak,Child,Leap Card,1.3,Validated,Compliant,1,0,0
+JNY0000788,2026-10-24,2026,10,24,Saturday,Weekend,5936_11147,DUB-MAYNOOTH-O,Rail,8240IR0030,Hansfield,8310IR0083,M3 Parkway,18,Evening Peak,Adult,Leap Card,6.3,Validated,Compliant,1,0,0
+JNY0000789,2026-10-26,2026,10,26,Monday,Weekday,5935_18916,1 65B c a,Bus,8230DB002567,Knockmore Ave,8230DB006170,S City BP,17,Evening Peak,Student,Leap Card,2.25,Validated,Compliant,1,0,0
+JNY0000790,2026-09-30,2026,9,30,Wednesday,Weekday,5828_17289,3 L52 b a,Bus,8230DB003949,Leixlip Road,8240DB001895,Clonsilla Road,21,Off Peak,Student,Leap Card,1.76,Not Validated,Non-Compliant,0,1,0
+JNY0000791,2026-10-01,2026,10,1,Thursday,Weekday,5901_19645,1 E1 a,Bus,8250DB005127,Cabinteely Bypass,8220DB000005,Parnell Square West,16,Evening Peak,Child,Leap Card,1.69,Validated,Compliant,1,0,0
+JNY0000792,2026-10-29,2026,10,29,Thursday,Weekday,5828_8029,3 59 d a,Bus,8250DB003070,Dun Laoghaire SC,8250DB004983,Dun Laoghaire Stn,11,Daytime,Adult,Leap Card,3.4,Validated,Compliant,1,0,0
+JNY0000793,2026-10-19,2026,10,19,Monday,Weekday,5935_26114,1 E2 a,Bus,8220DB000093,Gateway Avenue,8220DB000102,Balbutcher Lane,6,Morning Peak,Adult,Contactless,2.07,Validated,Compliant,1,0,0
+JNY0000794,2026-10-18,2026,10,18,Sunday,Weekend,5828_29070,3 W2 a,Bus,8230DB002762,Tallaght Fire Stn,8230DB008029,Liffey Valley SC,11,Daytime,Adult,Other Ticket,3.29,Validated,Compliant,1,0,0
+JNY0000795,2026-10-26,2026,10,26,Monday,Weekday,5935_25208,1 E1 a,Bus,8350DB004180,Killarney Road,8220DB000281,O'Connell St Upper,11,Daytime,Adult,Leap Card,3.99,Validated,Compliant,1,0,0
+JNY0000796,2026-10-02,2026,10,2,Friday,Weekday,5901_11461,1 4 c a,Bus,8220DB000490,Haddington Road,8220DB000492,Mount Street Lower,16,Evening Peak,Young Adult,Leap Card,2.95,Validated,Compliant,1,0,0
+JNY0000797,2026-10-01,2026,10,1,Thursday,Weekday,5901_22908,1 G2 a,Bus,8220DB007611,N Wall Quay,8220DB002672,Cleggan Park,10,Daytime,Student,Leap Card,2.41,Validated,Compliant,1,0,0
+JNY0000798,2026-10-03,2026,10,3,Saturday,Weekend,5901_5620,1 15B c a,Bus,8230DB006298,Airpark Avenue,8220DB001072,Richmond St South,22,Off Peak,Adult,Leap Card,2.92,Validated,Compliant,1,0,0
+JNY0000799,2026-10-02,2026,10,2,Friday,Weekday,5901_14110,1 56A c a,Bus,8230DB002765,Sylvan Drive,8220DB000354,Ringsend Road,22,Off Peak,Adult,Contactless,3.45,Validated,Compliant,1,0,0
+JNY0000800,2026-10-16,2026,10,16,Friday,Weekday,5935_33953,1 L59 b,Bus,8260DB007082,Priory Square,8260DB007765,Hazelhatch Road,19,Evening Peak,Adult,Leap Card,2.54,Validated,Compliant,1,0,0
+JNY0000801,2026-10-13,2026,10,13,Tuesday,Weekday,5935_34648,1 N4,Bus,8220DB000527,Ashbrook,8220DB001643,Falcarragh Rd,18,Evening Peak,Senior,Leap Card,1.3,Not Validated,Non-Compliant,0,1,0
+JNY0000802,2026-10-15,2026,10,15,Thursday,Weekday,5828_2134,3 114 d a,Bus,8250DB003191,Foxrock Manor,8250DB003198,Carysfort Avenue,9,Morning Peak,Adult,Leap Card,2.53,Validated,Compliant,1,0,0
+JNY0000803,2026-10-23,2026,10,23,Friday,Weekday,5935_32371,1 L25,Bus,8250DB003344,Coppinger Wood,8250DB007920,Newtownpark Avenue,8,Morning Peak,Senior,Leap Card,1.62,Validated,Compliant,1,0,0
+JNY0000804,2026-09-30,2026,9,30,Wednesday,Weekday,5901_22185,1 F3 a,Bus,8220DB000012,Dorset Street Upr,8220DB001598,Valeview Dr,18,Evening Peak,Adult,Leap Card,2.14,Validated,Compliant,1,0,0
+JNY0000805,2026-10-17,2026,10,17,Saturday,Weekend,5828_3351,3 220 d a,Bus,8240DB007124,Ballycoolin Bus Pk,8240DB002289,Blackcourt Road,17,Evening Peak,Student,Leap Card,1.78,Not Validated,Non-Compliant,0,1,0
+JNY0000806,2026-10-10,2026,10,10,Saturday,Weekend,5935_6871,1 15B c a,Bus,8220DB001285,Camden Street Lwr,8220DB001079,Leicester Avenue,17,Evening Peak,Adult,Leap Card,2.58,Validated,Compliant,1,0,0
+JNY0000807,2026-10-24,2026,10,24,Saturday,Weekend,5828_4885,3 33A d a,Bus,8240DB003781,Skerries Road,8240DB003789,Thomastown Resevoir,7,Morning Peak,Senior,Leap Card,1.96,Not Validated,Non-Compliant,0,1,0
+JNY0000808,2026-10-28,2026,10,28,Wednesday,Weekday,5935_19005,1 68 c a,Bus,8220DB001371,Suir Rd N,8230DB002167,Kilcarbery,19,Evening Peak,Young Adult,Leap Card,1.95,Validated,Compliant,1,0,0
+JNY0000809,2026-10-03,2026,10,3,Saturday,Weekend,5901_18780,1 C4 c,Bus,8230DB002242,The Oval,8220DB007883,Ormond Quay Upr,14,Daytime,Student,Cash,2.42,Validated,Compliant,1,0,0
+JNY0000810,2026-10-17,2026,10,17,Saturday,Weekend,5935_14578,1 4 c a,Bus,8220DB001479,Ormond Quay Upr,8220DB000410,Mount Street Lower,23,Off Peak,Adult,Leap Card,3.61,Validated,Compliant,1,0,0
+JNY0000811,2026-10-15,2026,10,15,Thursday,Weekday,5935_22090,1 82 a,Bus,8220DB002448,Cashel Road,8230DB004347,Tallaght Luas,21,Off Peak,Student,Other Ticket,2.0,Validated,Compliant,1,0,0
+JNY0000812,2026-10-09,2026,10,9,Friday,Weekday,5935_14897,1 4 c a,Bus,8220DB000494,Clare Street,8220DB001445,Usher's Quay,22,Off Peak,Adult,Contactless,3.36,Validated,Compliant,1,0,0
+JNY0000813,2026-10-29,2026,10,29,Thursday,Weekday,5828_26098,3 S6 a,Bus,8230DB002523,Firhouse Coll,8230DB002557,Tallaght Village,19,Evening Peak,Student,Other Ticket,2.8,Validated,Compliant,1,0,0
+JNY0000814,2026-10-21,2026,10,21,Wednesday,Weekday,5828_21897,3 S4 a,Bus,8250DB002819,Millmount Trce,8250DB007950,UCD Newman,10,Daytime,Senior,Cash,1.13,Validated,Compliant,1,0,0
+JNY0000815,2026-10-03,2026,10,3,Saturday,Weekend,5901_11358,1 4 c a,Bus,8220DB000490,Haddington Road,8220DB000494,Clare Street,10,Daytime,Adult,Contactless,2.55,Validation Error,Validation Issue,0,0,1
+JNY0000816,2026-10-01,2026,10,1,Thursday,Weekday,5901_18750,1 C4 c,Bus,8260DB003939,Coneyburrow,8230DB002241,Palmerstown R148,10,Daytime,Adult,Contactless,3.26,Validated,Compliant,1,0,0
+JNY0000817,2026-10-27,2026,10,27,Tuesday,Weekday,5935_25830,1 E2 a,Bus,8250DB002035,Crofton Road,8250DB002036,Crofton Avenue,16,Evening Peak,Adult,Leap Card,3.15,Validated,Compliant,1,0,0
+JNY0000818,2026-10-06,2026,10,6,Tuesday,Weekday,5935_18511,1 60,Bus,8220DB007873,Kylemore College,8220DB002498,IFSC,5,Off Peak,Adult,Contactless,2.64,Validated,Compliant,1,0,0
+JNY0000819,2026-10-29,2026,10,29,Thursday,Weekday,5828_19429,3 N6,Bus,8240DB006366,Century Business Pk,8220DB001012,Naomh Barróg GAA,9,Morning Peak,Senior,Other Ticket,1.24,Validation Error,Validation Issue,0,0,1
+JNY0000820,2026-10-21,2026,10,21,Wednesday,Weekday,5828_14212,3 L27 a,Bus,8250DB002046,Mounttown Rd Lower,8250DB002053,Abbey Park,6,Morning Peak,Student,Leap Card,2.39,Validated,Compliant,1,0,0
+JNY0000821,2026-10-16,2026,10,16,Friday,Weekday,5935_15110,1 40D c a,Bus,8240DB007073,Carlton Hotel,8220DB001529,Finglas Village,6,Morning Peak,Adult,Cash,2.95,Validated,Compliant,1,0,0
+JNY0000822,2026-10-17,2026,10,17,Saturday,Weekend,5936_2983,BRAY-HOWTH-I,Rail,8250IR0014,Dalkey,8240IR0140,Bayside,9,Morning Peak,Adult,Leap Card,2.61,Validated,Compliant,1,0,0
+JNY0000823,2026-10-06,2026,10,6,Tuesday,Weekday,5828_6705,3 45A d a,Bus,8250DB003239,Crosthwaite Park,8250DB003069,Corrig Avenue,14,Daytime,Adult,Leap Card,3.97,Validated,Compliant,1,0,0
+JNY0000824,2026-10-10,2026,10,10,Saturday,Weekend,5935_6717,1 15B c a,Bus,8220DB002917,Meadowbank,8230DB007064,Rosemount SC,8,Morning Peak,Child,Leap Card,1.47,Validated,Compliant,1,0,0
+JNY0000825,2026-10-01,2026,10,1,Thursday,Weekday,5901_8992,1 33X c a,Bus,8240DB003768,Rogerstown Lane,8240DB003773,Carthy's Lane,18,Evening Peak,Student,Leap Card,2.75,Validated,Compliant,1,0,0
+JNY0000826,2026-10-29,2026,10,29,Thursday,Weekday,5935_35763,1 S2,Bus,8220DB007668,Charleston Road,8220DB001999,Cornmarket,14,Daytime,Young Adult,Cash,1.84,Validated,Compliant,1,0,0
+JNY0000827,2026-10-03,2026,10,3,Saturday,Weekend,5901_13696,1 47 c a,Bus,8250DB000768,UCD Stillorgan Rd,8220DB004455,Ailesbury Road,10,Daytime,Senior,Leap Card,1.5,Validated,Compliant,1,0,0
+JNY0000828,2026-10-02,2026,10,2,Friday,Weekday,5660_122,999 836 a,Bus,8220DB000003,Parnell Sq West,8240DB007124,Ballycoolin Bus Pk,8,Morning Peak,Child,Leap Card,1.26,Not Validated,Non-Compliant,0,1,0
+JNY0000829,2026-10-24,2026,10,24,Saturday,Weekend,5828_31720,3 W6 a,Bus,8260DB003906,Celbridge Main St,8260DB003913,M4 Interchange Park,15,Daytime,Child,Leap Card,1.66,Validated,Compliant,1,0,0
+JNY0000830,2026-10-30,2026,10,30,Friday,Weekday,5828_132,3 102 d a,Bus,8240DB007348,Airport Zone 15,8240DB000944,Portmarnock Br,10,Daytime,Senior,Leap Card,1.52,Validated,Compliant,1,0,0
+JNY0000831,2026-10-28,2026,10,28,Wednesday,Weekday,5828_29981,3 W4 a,Bus,8230DB002631,Kilclare Dr,8230DB002360,Alderwood,13,Daytime,Senior,Leap Card,1.2,Validated,Compliant,1,0,0
+JNY0000832,2026-10-30,2026,10,30,Friday,Weekday,5935_17610,1 47 c a,Bus,8220DB000352,Pearse Sq,8220DB002088,St Vincent's Hosp,15,Daytime,Student,Leap Card,2.62,Validated,Compliant,1,0,0
+JNY0000833,2026-10-29,2026,10,29,Thursday,Weekday,5828_25557,3 S6 a,Bus,8230DB002523,Firhouse Coll,8230DB004342,The Square,10,Daytime,Adult,Leap Card,2.81,Validated,Compliant,1,0,0
+JNY0000834,2026-10-30,2026,10,30,Friday,Weekday,5828_27511,3 S8 a,Bus,8230DB007909,The Glen,8230DB002349,Alderwood,15,Daytime,Adult,Other Ticket,3.09,Validated,Compliant,1,0,0
+JNY0000835,2026-10-20,2026,10,20,Tuesday,Weekday,5828_3579,3 220 d a,Bus,8220DB001585,Finglas West,8220DB001606,Valeview Dr,17,Evening Peak,Senior,Leap Card,1.16,Validated,Compliant,1,0,0
+JNY0000836,2026-10-22,2026,10,22,Thursday,Weekday,5935_9377,1 24 a,Bus,8220DB001617,Capuchin Friar,8220DB000197,Monck Place,17,Evening Peak,Adult,Leap Card,3.07,Validated,Compliant,1,0,0
+JNY0000837,2026-10-24,2026,10,24,Saturday,Weekend,5935_27715,1 F2 a,Bus,8240DB007132,Charlestown SC,8220DB007998,Leonard's Corner,23,Off Peak,Adult,Leap Card,2.12,Validated,Compliant,1,0,0
+JNY0000838,2026-10-26,2026,10,26,Monday,Weekday,5828_744,3 102 d a,Bus,8240DB000905,Yellow Walls Rd,8240DB003572,Highfield Grn,13,Daytime,Adult,Leap Card,3.68,Validated,Compliant,1,0,0
+JNY0000839,2026-10-30,2026,10,30,Friday,Weekday,5935_36102,1 X31 c,Bus,8260DB007798,St Mary's Park,8260DB003993,Captain's Hill,18,Evening Peak,Young Adult,Leap Card,1.78,Validated,Compliant,1,0,0
+JNY0000840,2026-10-13,2026,10,13,Tuesday,Weekday,5935_34639,1 N4,Bus,8240DB007237,Stadium Business Pk,8240DB006179,Mill Road,19,Evening Peak,Young Adult,Contactless,2.83,Validated,Compliant,1,0,0
+JNY0000841,2026-10-01,2026,10,1,Thursday,Weekday,5828_25193,3 S6 a,Bus,8230DB002604,Village Grn,8230DB002544,Woodlawn,19,Evening Peak,Adult,Leap Card,2.79,Validated,Compliant,1,0,0
+JNY0000842,2026-10-17,2026,10,17,Saturday,Weekend,5935_30815,1 H1 c a,Bus,8220DB000658,Waterfall Road,8220DB000614,Fairview,20,Off Peak,Adult,Leap Card,2.07,Validated,Compliant,1,0,0
+JNY0000843,2026-10-03,2026,10,3,Saturday,Weekend,5901_25916,1 L54 b,Bus,8230DB002114,The Mill SC,8230DB002217,Esker Lane,16,Evening Peak,Adult,Leap Card,3.69,Validated,Compliant,1,0,0
+JNY0000844,2026-10-24,2026,10,24,Saturday,Weekend,5935_5540,1 150 c a,Bus,8220DB005025,The Coombe,8220DB001388,Clogher Road,23,Off Peak,Adult,Leap Card,3.35,Validated,Compliant,1,0,0
+JNY0000845,2026-10-09,2026,10,9,Friday,Weekday,5935_32860,1 L25,Bus,8250DB003563,Kilmacud Road Lower,8250DB002866,Dundrum Luas,17,Evening Peak,Student,Leap Card,2.06,Validated,Compliant,1,0,0
+JNY0000846,2026-10-19,2026,10,19,Monday,Weekday,5935_7167,1 15B c a,Bus,8230DB001333,Rathfarnham Park,8220DB001167,Garville Avenue,16,Evening Peak,Child,Contactless,1.27,Validated,Compliant,1,0,0
+JNY0000847,2026-10-19,2026,10,19,Monday,Weekday,5935_3356,1 130 c a,Bus,8220DB000620,Talbot St East,8220DB000621,Talbot St West,15,Daytime,Adult,Leap Card,2.16,Validated,Compliant,1,0,0
+JNY0000848,2026-10-28,2026,10,28,Wednesday,Weekday,5913_3091,2 103 c a,Bus,8310B1010501,Tudor Grove,8310B1018501,Bourne Avenue,17,Evening Peak,Adult,Leap Card,3.89,Validated,Compliant,1,0,0
+JNY0000849,2026-10-16,2026,10,16,Friday,Weekday,5935_19646,1 70 c a,Bus,8220DB001664,Ashtown Grove,8240DB007167,Navan Rd Stn,7,Morning Peak,Senior,Leap Card,1.72,Validated,Compliant,1,0,0
+JNY0000850,2026-10-10,2026,10,10,Saturday,Weekend,5935_202,1 1 e a,Bus,8220DB000265,Parnell Square East,8220DB007865,Shaw Street,16,Evening Peak,Adult,Leap Card,3.89,Validated,Compliant,1,0,0
+JNY0000851,2026-10-18,2026,10,18,Sunday,Weekend,5935_23586,1 C3 c,Bus,8220DB000395,Ringsend Road,8230DB002218,Roselawn,10,Daytime,Adult,Leap Card,3.97,Validated,Compliant,1,0,0
+JNY0000852,2026-10-22,2026,10,22,Thursday,Weekday,5828_31618,3 W6 a,Bus,8230DB003402,Graydon Road,8260DB008079,Manor Mills SC,11,Daytime,Adult,Leap Card,2.18,Validated,Compliant,1,0,0
+JNY0000853,2026-10-03,2026,10,3,Saturday,Weekend,5901_8075,1 27 c a,Bus,8220DB004696,Adare Road,8220DB001269,Marigold Road,16,Evening Peak,Student,Leap Card,2.61,Validated,Compliant,1,0,0
+JNY0000854,2026-10-09,2026,10,9,Friday,Weekday,5935_16821,1 42 c a,Bus,8240DB003615,Wendell Avenue,8240DB003616,White Sands Hotel,18,Evening Peak,Adult,Leap Card,3.39,Validated,Compliant,1,0,0
+JNY0000855,2026-10-17,2026,10,17,Saturday,Weekend,5935_30554,1 H1 c a,Bus,8240DB000918,Baldoyle Youth Club,8240DB000919,Laurence O'Toole Ch,6,Morning Peak,Adult,Other Ticket,3.77,Validated,Compliant,1,0,0
+JNY0000856,2026-10-02,2026,10,2,Friday,Weekday,5901_11057,1 4 c a,Bus,8220DB007453,Arran Quay,8220DB000273,O'Connell Br,7,Morning Peak,Adult,Leap Card,3.95,Validated,Compliant,1,0,0
+JNY0000857,2026-10-26,2026,10,26,Monday,Weekday,5935_21028,1 7A c a,Bus,8250DB003239,Crosthwaite Park,8220DB000495,Pearse Stn,20,Off Peak,Child,Leap Card,1.12,Validated,Compliant,1,0,0
+JNY0000858,2026-10-12,2026,10,12,Monday,Weekday,5935_10264,1 27 c a,Bus,8220DB000523,Marino Mart,8220DB001266,Clonshaugh Drive,10,Daytime,Senior,Cash,1.24,Validated,Compliant,1,0,0
+JNY0000859,2026-10-13,2026,10,13,Tuesday,Weekday,5828_24584,3 S6 a,Bus,8250GD10092,Mt Anville School,8250DB002007,Woodbine Road,9,Morning Peak,Adult,Leap Card,2.29,Validated,Compliant,1,0,0
+JNY0000860,2026-10-27,2026,10,27,Tuesday,Weekday,5828_24753,3 S6 a,Bus,8230DB000946,Woodbrook Pk,8230DB005132,Owendore Avenue,12,Daytime,Student,Leap Card,1.7,Validated,Compliant,1,0,0
+JNY0000861,2026-10-29,2026,10,29,Thursday,Weekday,5828_6193,3 33B d a,Bus,8240DB003751,North Street,8240DB003690,Swords Village,13,Daytime,Young Adult,Leap Card,2.03,Validated,Compliant,1,0,0
+JNY0000862,2026-10-19,2026,10,19,Monday,Weekday,5935_30445,1 H1 c a,Bus,8220DB000519,North Strand FS,8220DB000724,Grange Park Road,19,Evening Peak,Young Adult,Leap Card,2.81,Validated,Compliant,1,0,0
+JNY0000863,2026-10-10,2026,10,10,Saturday,Weekend,5935_12867,1 39 c a,Bus,8240DB001813,Blanchardstown Vlge,8240DB001854,Orchard Court,11,Daytime,Adult,Leap Card,3.89,Validation Error,Validation Issue,0,0,1
+JNY0000864,2026-10-23,2026,10,23,Friday,Weekday,5828_25127,3 S6 a,Bus,8250DB001306,Rathfarnham Wood,8250DB001310,Nutgrove Retail Pk,19,Evening Peak,Adult,Cash,3.8,Validated,Compliant,1,0,0
+JNY0000865,2026-10-23,2026,10,23,Friday,Weekday,5935_34192,1 L89 a,Bus,8240DB001551,Balseskin,8240DB001552,Airport Logis Pk,11,Daytime,Adult,Leap Card,2.95,Not Validated,Non-Compliant,0,1,0
+JNY0000866,2026-10-04,2026,10,4,Sunday,Weekend,5935_8072,1 16 c a,Bus,8220DB001338,Whitton Road,8220DB001347,Clanbrassil Upr,22,Off Peak,Student,Leap Card,2.23,Validated,Compliant,1,0,0
+JNY0000867,2026-10-29,2026,10,29,Thursday,Weekday,5828_3591,3 220 d a,Bus,8240DB001829,Parslickstown Ave,8240DB002960,Retail Park,17,Evening Peak,Adult,Leap Card,2.39,Validated,Compliant,1,0,0
+JNY0000868,2026-10-01,2026,10,1,Thursday,Weekday,5901_5354,1 15B c a,Bus,8230DB007066,Butterfield Park,8230DB006325,Airpark Avenue,20,Off Peak,Senior,Leap Card,1.84,Validated,Compliant,1,0,0
+JNY0000869,2026-10-15,2026,10,15,Thursday,Weekday,5828_785,3 102 d a,Bus,8240DB003623,The Old Golf Lnks,8240DB000905,Yellow Walls Rd,15,Daytime,Adult,Leap Card,3.83,Validated,Compliant,1,0,0
+JNY0000870,2026-10-26,2026,10,26,Monday,Weekday,5828_29621,3 W2 a,Bus,8230DB007881,Liffey Valley S,8230DB007976,Liffey Valley W,21,Off Peak,Adult,Cash,2.75,Validated,Compliant,1,0,0
+JNY0000871,2026-10-09,2026,10,9,Friday,Weekday,5935_11903,1 37 c a,Bus,8240DB001686,Parklands,8220DB000404,Nassau Street,8,Morning Peak,Adult,Contactless,2.02,Validated,Compliant,1,0,0
+JNY0000872,2026-10-02,2026,10,2,Friday,Weekday,5901_17913,1 C2 c,Bus,8230DB007763,Haydens Lane,8230DB007894,Shackleton Park,15,Daytime,Senior,Leap Card,1.17,Validated,Compliant,1,0,0
+JNY0000873,2026-10-15,2026,10,15,Thursday,Weekday,5935_19796,1 70 c a,Bus,8220DB001907,Glenbeigh Road,8220DB000753,Waterloo Road,9,Morning Peak,Adult,Leap Card,2.55,Validated,Compliant,1,0,0
+JNY0000874,2026-10-12,2026,10,12,Monday,Weekday,5828_20780,3 N6,Bus,8220GD007829,Shangan Road,8220DB004365,Poppintree Park,11,Daytime,Adult,Leap Card,3.58,Validated,Compliant,1,0,0
+JNY0000875,2026-10-27,2026,10,27,Tuesday,Weekday,5828_6469,3 45A d a,Bus,8350DB004156,Seymour Road,8250DB004202,Woodbrook Coll,7,Morning Peak,Adult,Leap Card,2.03,Validated,Compliant,1,0,0
+JNY0000876,2026-10-03,2026,10,3,Saturday,Weekend,5901_12877,1 41C c a,Bus,8220DB000044,Home Farm Rd East,8220DB000277,O'Connell St Upper,20,Off Peak,Adult,Leap Card,3.32,Validated,Compliant,1,0,0
+JNY0000877,2026-10-26,2026,10,26,Monday,Weekday,5828_19163,3 N2 a,Bus,8220DB004319,Heuston Train Stn,8220DB008299,Lagan Road,22,Off Peak,Adult,Leap Card,3.1,Validated,Compliant,1,0,0
+JNY0000878,2026-10-16,2026,10,16,Friday,Weekday,5935_16910,1 42 c a,Bus,8240DB003646,Streamstown Lane,8220DB000666,Mt Temple School,7,Morning Peak,Young Adult,Contactless,2.74,Validated,Compliant,1,0,0
+JNY0000879,2026-10-20,2026,10,20,Tuesday,Weekday,5828_9546,3 73 a,Bus,8220DB001482,Marino Institute,8220DB002102,Balfe Road,9,Morning Peak,Adult,Leap Card,3.55,Validation Error,Validation Issue,0,0,1
+JNY0000880,2026-10-12,2026,10,12,Monday,Weekday,5935_6849,1 15B c a,Bus,8230DB001301,Dodder Park Road,8230DB002924,Everton Hall,16,Evening Peak,Adult,Contactless,2.93,Validated,Compliant,1,0,0
+JNY0000881,2026-10-02,2026,10,2,Friday,Weekday,5901_15773,1 77A c a,Bus,8230DB004347,Tallaght Luas,8230DB002352,Jobstown House,15,Daytime,Adult,Leap Card,3.77,Validated,Compliant,1,0,0
+JNY0000882,2026-10-29,2026,10,29,Thursday,Weekday,5828_23948,3 S4 a,Bus,8220DB002727,Drimnagh Cstl,8220DB002672,Cleggan Park,18,Evening Peak,Student,Leap Card,1.85,Not Validated,Non-Compliant,0,1,0
+JNY0000883,2026-10-16,2026,10,16,Friday,Weekday,5935_2049,1 122 c a,Bus,8220DB000063,Fassaugh Avenue,8220DB000064,Cabra West Ch,20,Off Peak,Adult,Leap Card,2.41,Validated,Compliant,1,0,0
+JNY0000884,2026-10-03,2026,10,3,Saturday,Weekend,5901_12119,1 41 c a,Bus,8240DB003676,Airside,8240DB005074,Swords Pavilions,9,Morning Peak,Senior,Leap Card,1.9,Validated,Compliant,1,0,0
+JNY0000885,2026-10-27,2026,10,27,Tuesday,Weekday,5828_22692,3 S4 a,Bus,8220DB002434,Ashleaf,8220DB001165,Rathgar West,19,Evening Peak,Adult,Leap Card,2.95,Validated,Compliant,1,0,0
+JNY0000886,2026-10-02,2026,10,2,Friday,Weekday,5901_2779,1 14 c a,Bus,8220DB001192,Celtic Pk Rd,8250DB001043,Braemore Drive,9,Morning Peak,Senior,Leap Card,1.11,Validated,Compliant,1,0,0
+JNY0000887,2026-10-13,2026,10,13,Tuesday,Weekday,5828_1155,3 104 d a,Bus,8220DB000218,Shantalla Road,8240DB000222,Shanliss Road,10,Daytime,Adult,Leap Card,2.89,Validated,Compliant,1,0,0
+JNY0000888,2026-10-16,2026,10,16,Friday,Weekday,5935_27777,1 F2 a,Bus,8220DB000834,St Patrick's Road,8220DB001560,Finglas North,8,Morning Peak,Adult,Contactless,2.05,Validation Error,Validation Issue,0,0,1
+JNY0000889,2026-10-12,2026,10,12,Monday,Weekday,5935_15986,1 41 c a,Bus,8240DB003669,Aircraft Hangars,8220DB000044,Home Farm Rd East,12,Daytime,Senior,Leap Card,1.53,Validated,Compliant,1,0,0
+JNY0000890,2026-10-09,2026,10,9,Friday,Weekday,5858_3332,10000 RED g a,Luas,8230GA00347,Belgard,8230GA00344,Tallaght,23,Off Peak,Child,Other Ticket,1.82,Validated,Compliant,1,0,0
+JNY0000891,2026-10-29,2026,10,29,Thursday,Weekday,5828_5506,3 33A d a,Bus,8240DB006048,Peter & Paul Church,8240DB003751,North Street,20,Off Peak,Senior,Leap Card,1.83,Validated,Compliant,1,0,0
+JNY0000892,2026-10-26,2026,10,26,Monday,Weekday,5828_1620,3 111 e a,Bus,8250DB003229,Churchview Road,8250DB002039,Dun Laoghaire Stn,11,Daytime,Adult,Contactless,3.02,Validated,Compliant,1,0,0
+JNY0000893,2026-10-10,2026,10,10,Saturday,Weekend,5935_4517,1 15 c a,Bus,8220DB006319,Grange Ldg Ave,8220DB001080,Garville Avenue,13,Daytime,Adult,Leap Card,3.12,Validated,Compliant,1,0,0
+JNY0000894,2026-10-07,2026,10,7,Wednesday,Weekday,5935_7037,1 15B c a,Bus,8220DB003001,Orwell Mews,8220DB001072,Richmond St South,9,Morning Peak,Adult,Contactless,3.92,Validated,Compliant,1,0,0
+JNY0000895,2026-10-19,2026,10,19,Monday,Weekday,5858_975,10000 GREEN g a,Luas,8250GA00294,Sandyford,8250GA00320,Leopardstown,20,Off Peak,Adult,Contactless,2.53,Validated,Compliant,1,0,0
+JNY0000896,2026-10-29,2026,10,29,Thursday,Weekday,5935_19309,1 7 c a,Bus,8220DB000405,Nassau Street,8220DB000417,Merrion Road,5,Off Peak,Student,Leap Card,1.66,Validated,Compliant,1,0,0
+JNY0000897,2026-10-03,2026,10,3,Saturday,Weekend,5901_20347,1 E2 a,Bus,8250DB002056,Kill Lane,8250DB002062,Newtownpark Avenue,10,Daytime,Adult,Leap Card,2.11,Validation Error,Validation Issue,0,0,1
+JNY0000898,2026-10-17,2026,10,17,Saturday,Weekend,5935_2258,1 13 c a,Bus,8230DB002142,Kilmahuddrick,8230DB004554,Grange Castle,15,Daytime,Student,Leap Card,1.86,Validated,Compliant,1,0,0
+JNY0000899,2026-10-26,2026,10,26,Monday,Weekday,5935_15340,1 40E c a,Bus,8240DB007104,Mount Garrett,8240DB007105,Mount Eustace,12,Daytime,Adult,Contactless,2.31,Validated,Compliant,1,0,0
+JNY0000900,2026-10-23,2026,10,23,Friday,Weekday,5828_26432,3 S8 a,Bus,8250DB007971,Newtown Park,8250DB007973,National School,8,Morning Peak,Adult,Leap Card,2.05,Validated,Compliant,1,0,0
+JNY0000901,2026-10-30,2026,10,30,Friday,Weekday,5828_23513,3 S4 a,Bus,8220DB002105,Long Mile Rd,8220DB002781,Kylemore Road,12,Daytime,Adult,Contactless,3.19,Validated,Compliant,1,0,0
+JNY0000902,2026-10-12,2026,10,12,Monday,Weekday,5935_7643,1 16 c a,Bus,8220DB000234,Beaumont Grove,8220DB000052,Dorset Street Upr,22,Off Peak,Adult,Leap Card,2.13,Validated,Compliant,1,0,0
+JNY0000903,2026-10-03,2026,10,3,Saturday,Weekend,5901_17623,1 C1 c,Bus,8220DB007855,Usher's Quay,8230DB004612,Arthur Griffith Pk,0,Off Peak,Young Adult,Contactless,2.8,Not Validated,Non-Compliant,0,1,0
+JNY0000904,2026-09-30,2026,9,30,Wednesday,Weekday,5901_26447,1 L59 b,Bus,8260DB003911,Crodaun Forest Park,8260DB006159,Easton Road,14,Daytime,Young Adult,Leap Card,1.72,Validated,Compliant,1,0,0
+JNY0000905,2026-10-02,2026,10,2,Friday,Weekday,5828_23492,3 S4 a,Bus,8220DB001064,Dartry Road,8220DB001088,Parkmore Drive,11,Daytime,Student,Other Ticket,1.69,Validated,Compliant,1,0,0
+JNY0000906,2026-10-21,2026,10,21,Wednesday,Weekday,5828_6197,3 33B d a,Bus,8240DB003738,Portane Avenue,8240DB003780,Chapel View,13,Daytime,Adult,Other Ticket,3.29,Validated,Compliant,1,0,0
+JNY0000907,2026-10-05,2026,10,5,Monday,Weekday,5935_16236,1 41B c a,Bus,8240DB001631,ALSAA Sports Club,8220DB000214,Plunket College,18,Evening Peak,Adult,Leap Card,2.88,Validated,Compliant,1,0,0
+JNY0000908,2026-10-25,2026,10,25,Sunday,Weekend,5935_24487,1 E1 a,Bus,8250DB002010,Booterstown Avenue,8250DB003130,Shrewsbury Lawn,8,Morning Peak,Adult,Contactless,3.92,Validated,Compliant,1,0,0
+JNY0000909,2026-10-03,2026,10,3,Saturday,Weekend,5901_2452,1 130 c a,Bus,8220DB001760,Seapark Aparts,8220DB001763,Seafield Rd W,23,Off Peak,Child,Cash,1.91,Validated,Compliant,1,0,0
+JNY0000910,2026-10-13,2026,10,13,Tuesday,Weekday,5828_25709,3 S6 a,Bus,8250DB002070,St Thomas Road,8230DB002557,Tallaght Village,12,Daytime,Senior,Leap Card,1.17,Validated,Compliant,1,0,0
+JNY0000911,2026-10-17,2026,10,17,Saturday,Weekend,5935_33131,1 L53 c,Bus,8230DB007120,Stratton Grove,8230DB007137,Griffeen Avenue,22,Off Peak,Adult,Leap Card,2.19,Validated,Compliant,1,0,0
+JNY0000912,2026-10-11,2026,10,11,Sunday,Weekend,5828_5185,3 33A d a,Bus,8240DB003757,Newhaggard,8240DB003801,North Cliff Heights,22,Off Peak,Child,Leap Card,1.11,Validated,Compliant,1,0,0
+JNY0000913,2026-10-03,2026,10,3,Saturday,Weekend,5901_6687,1 19 a,Bus,8220DB000039,The Rise,8220DB004681,Merrion Square South,17,Evening Peak,Young Adult,Contactless,2.22,Validated,Compliant,1,0,0
+JNY0000914,2026-10-16,2026,10,16,Friday,Weekday,5935_9382,1 24 a,Bus,8220DB000202,Fairfield Rd,8220DB000164,Beneavin Ct,18,Evening Peak,Adult,Leap Card,2.46,Validated,Compliant,1,0,0
+JNY0000915,2026-10-30,2026,10,30,Friday,Weekday,5828_1732,3 111 e a,Bus,8250DB007554,Park Pointe SC,8250DB003052,Elton Park,19,Evening Peak,Adult,Contactless,3.44,Validated,Compliant,1,0,0
+JNY0000916,2026-10-05,2026,10,5,Monday,Weekday,5828_26319,3 S6 a,Bus,8250DB001281,Ely House,8230DB005130,Charleville Square,23,Off Peak,Young Adult,Cash,2.28,Validated,Compliant,1,0,0
+JNY0000917,2026-10-29,2026,10,29,Thursday,Weekday,5828_30102,3 W4 a,Bus,8240DB004747,Blanchardstown SC,8230DB002213,Liffey Valley SC,16,Evening Peak,Senior,Contactless,1.15,Validated,Compliant,1,0,0
+JNY0000918,2026-10-29,2026,10,29,Thursday,Weekday,5828_31439,3 W6 a,Bus,8260DB003922,Crodaun Forest Park,8230DB007432,Millrace Wk,22,Off Peak,Adult,Leap Card,2.89,Validated,Compliant,1,0,0
+JNY0000919,2026-10-28,2026,10,28,Wednesday,Weekday,5936_1747,BRAY-HOWTH-I,Rail,8250IR0124,Dun Laoghaire (Mallin),8250IR0037,Glenageary,19,Evening Peak,Adult,Leap Card,3.44,Validated,Compliant,1,0,0
+JNY0000920,2026-10-09,2026,10,9,Friday,Weekday,5935_30407,1 H1 c a,Bus,8220DB000649,All Saints Road,8220DB004472,St Anne's Avenue,17,Evening Peak,Student,Other Ticket,2.37,Validated,Compliant,1,0,0
+JNY0000921,2026-10-21,2026,10,21,Wednesday,Weekday,5828_22057,3 S4 a,Bus,8220DB002700,Kylemore Road,8250DB04558,UCD Sports Centre,11,Daytime,Adult,Leap Card,3.03,Validated,Compliant,1,0,0
+JNY0000922,2026-10-30,2026,10,30,Friday,Weekday,5828_31155,3 W6 a,Bus,8260DB003918,Old Greenfield,8230DB004340,Tallaght Square,12,Daytime,Adult,Leap Card,3.91,Validated,Compliant,1,0,0
+JNY0000923,2026-09-30,2026,9,30,Wednesday,Weekday,5828_30256,3 W4 a,Bus,8240DB001545,Westend Office Park,8230DB004576,Grange Cstl Gt,20,Off Peak,Student,Leap Card,2.88,Validated,Compliant,1,0,0
+JNY0000924,2026-10-28,2026,10,28,Wednesday,Weekday,5828_7998,3 59 d a,Bus,8250DB003064,Brudett Avenue,8250DB003068,George's St Upper,9,Morning Peak,Adult,Leap Card,3.26,Validated,Compliant,1,0,0
+JNY0000925,2026-10-19,2026,10,19,Monday,Weekday,5935_19793,1 70 c a,Bus,8310DB003334,Dunboyne NS,8220DB001703,Cabra Garda Station,8,Morning Peak,Young Adult,Leap Card,2.29,Validated,Compliant,1,0,0
+JNY0000926,2026-10-11,2026,10,11,Sunday,Weekend,5935_1159,1 11B a,Bus,8220DB000906,Leeson Street Upr,8220DB000797,Phibsborough PO,12,Daytime,Adult,Leap Card,2.34,Validated,Compliant,1,0,0
+JNY0000927,2026-10-24,2026,10,24,Saturday,Weekend,5858_2168,10000 GREEN g a,Luas,8250GA00310,Central Park,8220GA00083,Beechwood,19,Evening Peak,Child,Leap Card,1.5,Validated,Compliant,1,0,0
+JNY0000928,2026-10-29,2026,10,29,Thursday,Weekday,5828_5228,3 33A d a,Bus,8240DB003566,Selskar Court,8240DB003859,Balleally West,6,Morning Peak,Adult,Leap Card,3.01,Validated,Compliant,1,0,0
+JNY0000929,2026-10-20,2026,10,20,Tuesday,Weekday,5935_5855,1 151 c a,Bus,8220DB001409,Crumlin Road,8230DB004619,Foxborough Pl,13,Daytime,Senior,Leap Card,1.68,Validated,Compliant,1,0,0
+JNY0000930,2026-10-07,2026,10,7,Wednesday,Weekday,5935_26228,1 E2 a,Bus,8220DB004680,DCU,8220DB000091,Ballymun Road NS,11,Daytime,Student,Contactless,1.6,Validated,Compliant,1,0,0
+JNY0000931,2026-10-02,2026,10,2,Friday,Weekday,5901_20338,1 E2 a,Bus,8220DB000196,Phibsborough Road,8220DB000201,Wayfinding Centre,11,Daytime,Adult,Leap Card,2.8,Validated,Compliant,1,0,0
+JNY0000932,2026-10-26,2026,10,26,Monday,Weekday,5858_3839,10000 RED g a,Luas,8220GA00409,Abbey St.,8220GA00437,The Point,16,Evening Peak,Adult,Other Ticket,3.6,Validated,Compliant,1,0,0
+JNY0000933,2026-10-30,2026,10,30,Friday,Weekday,5935_3905,1 14 c a,Bus,8220DB000245,Whitethorn Rise,8220DB000246,Artaine Castle,8,Morning Peak,Senior,Contactless,1.02,Not Validated,Non-Compliant,0,1,0
+JNY0000934,2026-10-03,2026,10,3,Saturday,Weekend,5901_7176,1 24 a,Bus,8220DB000139,Grove Park Road,8240B111921,Airport Zone 11,8,Morning Peak,Young Adult,Other Ticket,2.53,Validated,Compliant,1,0,0
+JNY0000935,2026-10-25,2026,10,25,Sunday,Weekend,5935_27995,1 F2 a,Bus,8220DB001280,McKelvey Ave,8240DB006348,Lanesborough Pk,20,Off Peak,Adult,Leap Card,2.65,Validated,Compliant,1,0,0
+JNY0000936,2026-10-01,2026,10,1,Thursday,Weekday,5901_19031,1 E1 a,Bus,8220DB000264,Parnell Square East,8220DB000747,Kildare Street,10,Daytime,Young Adult,Leap Card,1.94,Validation Error,Validation Issue,0,0,1
+JNY0000937,2026-10-14,2026,10,14,Wednesday,Weekday,5935_32401,1 L25,Bus,8250DB002874,Eden Park Avenue,8250DB002877,Hazel Villas,9,Morning Peak,Adult,Leap Card,3.93,Not Validated,Non-Compliant,0,1,0
+JNY0000938,2026-10-26,2026,10,26,Monday,Weekday,5828_21228,3 N6,Bus,8220DB000127,Nursing Home,8220DB001514,Finglas,17,Evening Peak,Adult,Leap Card,3.66,Validated,Compliant,1,0,0
+JNY0000939,2026-10-07,2026,10,7,Wednesday,Weekday,5935_30156,1 G2 a,Bus,8230DB002685,Coldcut Road,8220DB002714,Markievicz Park,22,Off Peak,Young Adult,Contactless,2.79,Validated,Compliant,1,0,0
+JNY0000940,2026-09-30,2026,9,30,Wednesday,Weekday,5901_15713,1 77A c a,Bus,8230DB002336,Keadeen Avenue,8230DB002617,Village Grn,9,Morning Peak,Adult,Leap Card,3.99,Validated,Compliant,1,0,0
+JNY0000941,2026-10-01,2026,10,1,Thursday,Weekday,5901_11588,1 40D c a,Bus,8240DB004978,Corporate Park,8240DB007106,Bellgree Avenue,8,Morning Peak,Student,Leap Card,2.98,Validated,Compliant,1,0,0
+JNY0000942,2026-10-27,2026,10,27,Tuesday,Weekday,5828_8813,3 73 a,Bus,8220DB001430,Benbulbin Rd,8220DB001995,James's Luas,15,Daytime,Adult,Leap Card,3.37,Validation Error,Validation Issue,0,0,1
+JNY0000943,2026-09-30,2026,9,30,Wednesday,Weekday,5901_7127,1 23 a,Bus,8240DB006366,Century Business Pk,8220DB000187,Munster Street,21,Off Peak,Child,Cash,1.78,Validated,Compliant,1,0,0
+JNY0000944,2026-10-30,2026,10,30,Friday,Weekday,5935_27694,1 F2 a,Bus,8230DB004861,Rossmore Crescent,8230DB004862,Orwell Park Grn,22,Off Peak,Senior,Leap Card,1.52,Validated,Compliant,1,0,0
+JNY0000945,2026-10-21,2026,10,21,Wednesday,Weekday,5935_25218,1 E1 a,Bus,8250DB004728,Oatlands College,8220DB000774,Donnybrook,12,Daytime,Senior,Leap Card,1.07,Validation Error,Validation Issue,0,0,1
+JNY0000946,2026-10-11,2026,10,11,Sunday,Weekend,5828_183,3 102 d a,Bus,8240DB003087,Ridgewood,8240DB003706,Forest Crescent,12,Daytime,Adult,Other Ticket,2.5,Not Validated,Non-Compliant,0,1,0
+JNY0000947,2026-10-26,2026,10,26,Monday,Weekday,5935_32939,1 L25,Bus,8250DB003345,Stillorgan Park,8250DB007918,Patrician Villas,21,Off Peak,Adult,Leap Card,3.39,Validated,Compliant,1,0,0
+JNY0000948,2026-10-16,2026,10,16,Friday,Weekday,5935_17644,1 47 c a,Bus,8220DB007564,Poolbeg St,8250DB002007,Woodbine Road,19,Evening Peak,Adult,Leap Card,3.87,Validated,Compliant,1,0,0
+JNY0000949,2026-10-17,2026,10,17,Saturday,Weekend,5828_31401,3 W6 a,Bus,8260DB007805,Willow Avenue,8230DB006188,Tay Lane,21,Off Peak,Adult,Leap Card,2.74,Validated,Compliant,1,0,0
+JNY0000950,2026-10-09,2026,10,9,Friday,Weekday,5828_21367,3 N6,Bus,8240DB000957,Howth Junction,8220DB000966,Oscar Traynor Road,19,Evening Peak,Adult,Other Ticket,3.6,Validated,Compliant,1,0,0
+JNY0000951,2026-10-06,2026,10,6,Tuesday,Weekday,5828_28612,3 W2 a,Bus,8230DB007880,Main Street,8230DB002620,Belgard,19,Evening Peak,Adult,Contactless,2.83,Validated,Compliant,1,0,0
+JNY0000952,2026-10-03,2026,10,3,Saturday,Weekend,5901_9233,1 37 c a,Bus,8220DB001714,Stoneybatter,8220DB007340,Wilton Terrace,10,Daytime,Young Adult,Other Ticket,2.35,Validated,Compliant,1,0,0
+JNY0000953,2026-10-12,2026,10,12,Monday,Weekday,5935_30396,1 H1 c a,Bus,8220DB000523,Marino Mart,8220DB000728,Holy Trinity Church,16,Evening Peak,Student,Leap Card,1.74,Validated,Compliant,1,0,0
+JNY0000954,2026-10-03,2026,10,3,Saturday,Weekend,5901_2712,1 130 c a,Bus,8220DB001756,Dollymount Ave,8220DB001726,Dollymount Pk,22,Off Peak,Senior,Leap Card,1.01,Validated,Compliant,1,0,0
+JNY0000955,2026-10-15,2026,10,15,Thursday,Weekday,5935_4909,1 15 c a,Bus,8220DB006316,Clongriffin Village,8220DB006317,Clongriffin Stn,10,Daytime,Young Adult,Contactless,1.74,Validated,Compliant,1,0,0
+JNY0000956,2026-10-20,2026,10,20,Tuesday,Weekday,5828_8885,3 73 a,Bus,8220DB001481,Melrose Avenue,8220DB001490,Griffith Ave E,17,Evening Peak,Senior,Leap Card,1.18,Validated,Compliant,1,0,0
+JNY0000957,2026-09-30,2026,9,30,Wednesday,Weekday,5901_6845,1 23 a,Bus,8220DB000197,Monck Place,8220DB004890,Sycamore Rd,13,Daytime,Student,Leap Card,2.11,Validated,Compliant,1,0,0
+JNY0000958,2026-10-02,2026,10,2,Friday,Weekday,5901_9946,1 39 c a,Bus,8240DB007025,Blanchardstown SC,8240DB007011,Phibblestown Road,8,Morning Peak,Adult,Contactless,2.7,Validated,Compliant,1,0,0
+JNY0000959,2026-10-04,2026,10,4,Sunday,Weekend,5828_30948,3 W4 a,Bus,8230DB002623,Whitebrook,8240DB007389,Junction 6,22,Off Peak,Senior,Contactless,1.57,Validated,Compliant,1,0,0
+JNY0000960,2026-10-10,2026,10,10,Saturday,Weekend,5935_28841,1 G1,Bus,8220DB002710,Ballyfermot Road,8230DB004551,Woodford Walk,11,Daytime,Student,Contactless,1.96,Not Validated,Non-Compliant,0,1,0
+JNY0000961,2026-10-07,2026,10,7,Wednesday,Weekday,5828_9990,3 73 a,Bus,8220DB002102,Balfe Road,8220DB007153,Walkinstown Dr,17,Evening Peak,Student,Leap Card,2.14,Validated,Compliant,1,0,0
+JNY0000962,2026-10-05,2026,10,5,Monday,Weekday,5935_4954,1 15 c a,Bus,8230DB001158,Springfield Rd,8220DB000671,Mt Temple School,11,Daytime,Adult,Leap Card,2.33,Validated,Compliant,1,0,0
+JNY0000963,2026-10-01,2026,10,1,Thursday,Weekday,5901_3119,1 14 c a,Bus,8250DB002847,Ballinteer Ct,8250DB001037,Milltown Drive,12,Daytime,Adult,Leap Card,3.91,Validated,Compliant,1,0,0
+JNY0000964,2026-10-02,2026,10,2,Friday,Weekday,5901_26670,1 N4,Bus,8220DB000529,Collins Avenue,8240DB006179,Mill Road,6,Morning Peak,Adult,Cash,3.76,Validated,Compliant,1,0,0
+JNY0000965,2026-10-25,2026,10,25,Sunday,Weekend,5935_8538,1 19 a,Bus,8220DB000273,O'Connell Br,8220DB004681,Merrion Square South,12,Daytime,Adult,Leap Card,2.71,Validated,Compliant,1,0,0
+JNY0000966,2026-10-11,2026,10,11,Sunday,Weekend,5828_13501,3 L26 a,Bus,8250DB004771,Sycamore Drive,8250DB003155,Beech Park Road,17,Evening Peak,Adult,Leap Card,2.09,Validated,Compliant,1,0,0
+JNY0000967,2026-10-18,2026,10,18,Sunday,Weekend,5936_591,BRAY-HOWTH-I,Rail,8240IR0140,Bayside,8220IR0028,Sandymount,11,Daytime,Adult,Leap Card,2.58,Validated,Compliant,1,0,0
+JNY0000968,2026-10-04,2026,10,4,Sunday,Weekend,5828_28199,3 W2 a,Bus,8230DB002345,Belgard Retail Park,8230DB005008,Belgard Square N,12,Daytime,Young Adult,Leap Card,1.61,Validated,Compliant,1,0,0
+JNY0000969,2026-10-29,2026,10,29,Thursday,Weekday,5913_2194,2 103 c a,Bus,8310B106521,Hickey's Lane,8310B134271,Woodlands,9,Morning Peak,Adult,Other Ticket,3.11,Validation Error,Validation Issue,0,0,1
+JNY0000970,2026-10-12,2026,10,12,Monday,Weekday,5828_7759,3 59 d a,Bus,8250DB004830,Barnhill Road,8250DB003098,Killiney Hill Park,10,Daytime,Adult,Leap Card,3.09,Validated,Compliant,1,0,0
+JNY0000971,2026-10-02,2026,10,2,Friday,Weekday,5901_6006,1 16 c a,Bus,8220DB000021,Drumcondra Village,8220DB000204,Plunket College,10,Daytime,Adult,Leap Card,3.75,Validated,Compliant,1,0,0
+JNY0000972,2026-10-10,2026,10,10,Saturday,Weekend,5935_29457,1 G1,Bus,8220DB002498,IFSC,8220DB002500,Samuel Beckett Br,3,Off Peak,Student,Leap Card,1.83,Validated,Compliant,1,0,0
+JNY0000973,2026-10-14,2026,10,14,Wednesday,Weekday,5935_14495,1 4 c a,Bus,8220DB001479,Ormond Quay Upr,8220DB000405,Nassau Street,18,Evening Peak,Child,Leap Card,1.58,Validated,Compliant,1,0,0
+JNY0000974,2026-10-06,2026,10,6,Tuesday,Weekday,5828_14764,3 L27 a,Bus,8250DB003262,Cornelscourt SC,8250DB002025,Abbey Park,8,Morning Peak,Senior,Leap Card,1.12,Validated,Compliant,1,0,0
+JNY0000975,2026-10-24,2026,10,24,Saturday,Weekend,5828_23422,3 S4 a,Bus,8220DB001088,Parkmore Drive,8220DB002101,Drimnagh Rd,11,Daytime,Adult,Leap Card,2.09,Validated,Compliant,1,0,0
+JNY0000976,2026-09-30,2026,9,30,Wednesday,Weekday,5828_6981,3 45A d a,Bus,8250DB003231,Granitefield,8250DB003247,Garden Centre,21,Off Peak,Adult,Leap Card,2.11,Validated,Compliant,1,0,0
+JNY0000977,2026-10-01,2026,10,1,Thursday,Weekday,5901_4102,1 15 c a,Bus,8220DB006315,Hole in the Wall Rd,8220DB006316,Clongriffin Village,5,Off Peak,Adult,Leap Card,2.47,Validated,Compliant,1,0,0
+JNY0000978,2026-10-17,2026,10,17,Saturday,Weekend,5935_6604,1 15A c a,Bus,8220DB002437,Kimmage Road West,8220DB001354,Redmond's Hill,16,Evening Peak,Student,Leap Card,1.85,Validated,Compliant,1,0,0
+JNY0000979,2026-10-12,2026,10,12,Monday,Weekday,5828_6441,3 45A d a,Bus,8350DB004178,Ballywaltrim Hts,8350DB004148,O'Byrne Road,6,Morning Peak,Adult,Contactless,3.13,Validated,Compliant,1,0,0
+JNY0000980,2026-10-22,2026,10,22,Thursday,Weekday,5877_204,870 750 b,Bus,8230DB002950,Pearse Brothers Pk,8250DB002841,Dundrum Centre,4,Off Peak,Adult,Leap Card,3.15,Validation Error,Validation Issue,0,0,1
+JNY0000981,2026-10-18,2026,10,18,Sunday,Weekend,5935_26632,1 E2 a,Bus,8220DB000104,Poppintree Parade,8220DB007698,IKEA Ballymun,3,Off Peak,Senior,Leap Card,1.4,Validated,Compliant,1,0,0
+JNY0000982,2026-10-02,2026,10,2,Friday,Weekday,5901_22865,1 G2 a,Bus,8220DB001942,St James Hospital,8220DB002643,Sarsfield Road,8,Morning Peak,Adult,Leap Card,3.81,Validated,Compliant,1,0,0
+JNY0000983,2026-10-13,2026,10,13,Tuesday,Weekday,5913_3270,2 103 c a,Bus,8240B1011001,Ward Cross,8220DB000263,Parnell Sq East,22,Off Peak,Young Adult,Leap Card,2.68,Validated,Compliant,1,0,0
+JNY0000984,2026-10-28,2026,10,28,Wednesday,Weekday,5828_5939,3 33B d a,Bus,8240DB003679,Swords Castle,8240DB005069,Somerton,21,Off Peak,Student,Leap Card,2.27,Validated,Compliant,1,0,0
+JNY0000985,2026-10-28,2026,10,28,Wednesday,Weekday,5935_11700,1 37 c a,Bus,8220DB007586,National Gallery,8220DB001660,Nephin Road,13,Daytime,Adult,Leap Card,3.51,Validated,Compliant,1,0,0
+JNY0000986,2026-10-13,2026,10,13,Tuesday,Weekday,5935_35701,1 S2,Bus,8220DB004515,St Luke's Radiation,8220DB004407,Victoria Quay,11,Daytime,Adult,Leap Card,2.78,Validated,Compliant,1,0,0
+JNY0000987,2026-10-26,2026,10,26,Monday,Weekday,5828_26630,3 S8 a,Bus,8230DB004714,Castle Drive,8230DB004886,Woodstown Crescent,11,Daytime,Adult,Leap Card,3.97,Not Validated,Non-Compliant,0,1,0
+JNY0000988,2026-10-25,2026,10,25,Sunday,Weekend,5935_4782,1 15 c a,Bus,8220DB001018,Cathal Brugha Brrks,8220DB001076,Swan Shop Cntr,3,Off Peak,Young Adult,Leap Card,2.25,Validated,Compliant,1,0,0
+JNY0000989,2026-10-30,2026,10,30,Friday,Weekday,5828_29261,3 W2 a,Bus,8230DB007979,Newlands Golf Club,8230DB002123,St Mark's Avenue,14,Daytime,Senior,Other Ticket,1.26,Not Validated,Non-Compliant,0,1,0
+JNY0000990,2026-10-26,2026,10,26,Monday,Weekday,5935_18963,1 68 c a,Bus,8230DB001957,Robinhood Road,8230DB001968,Monastery Hth,10,Daytime,Adult,Leap Card,3.11,Validated,Compliant,1,0,0
+JNY0000991,2026-10-28,2026,10,28,Wednesday,Weekday,5913_2439,2 103 c a,Bus,8220DB004543,Finglas Place,8310B1524201,Ashbourne,15,Daytime,Adult,Leap Card,2.04,Validated,Compliant,1,0,0
+JNY0000992,2026-10-03,2026,10,3,Saturday,Weekend,5901_8649,1 27B c a,Bus,8220DB001231,Castletimon Road,8220DB001277,Artane Rnbt,8,Morning Peak,Young Adult,Leap Card,2.91,Not Validated,Non-Compliant,0,1,0
+JNY0000993,2026-10-01,2026,10,1,Thursday,Weekday,5901_17961,1 C2 c,Bus,8230DB004605,Foxborough Hall,8230DB003370,Finnstown Abbey,18,Evening Peak,Senior,Contactless,1.28,Validated,Compliant,1,0,0
+JNY0000994,2026-10-02,2026,10,2,Friday,Weekday,5901_12569,1 41B c a,Bus,8240DB007134,Rathbeale Cottages,8240DB007136,Oakhill,23,Off Peak,Adult,Leap Card,3.08,Validated,Compliant,1,0,0
+JNY0000995,2026-10-02,2026,10,2,Friday,Weekday,5828_5587,3 33B d a,Bus,8240DB003730,Beach Lane,8240DB003732,Marsh Lane,6,Morning Peak,Adult,Contactless,2.53,Validated,Compliant,1,0,0
+JNY0000996,2026-10-16,2026,10,16,Friday,Weekday,5935_8315,1 19 a,Bus,8220DB000024,Walsh Road,8220DB000032,Stormanstown Road,18,Evening Peak,Adult,Leap Card,3.28,Validated,Compliant,1,0,0
+JNY0000997,2026-10-30,2026,10,30,Friday,Weekday,5935_26572,1 E2 a,Bus,8250DB002046,Mounttown Rd Lower,8220DB000150,Na Fianna GAA Club,21,Off Peak,Adult,Leap Card,3.75,Validated,Compliant,1,0,0
+JNY0000998,2026-10-05,2026,10,5,Monday,Weekday,5935_24438,1 E1 a,Bus,8250DB003131,Kilbogget Grove,8350DB004171,Kilmantain Park,7,Morning Peak,Adult,Leap Card,2.83,Validated,Compliant,1,0,0
+JNY0000999,2026-10-17,2026,10,17,Saturday,Weekend,5935_17440,1 44 c a,Bus,8220DB002816,Glenmalure Square,8250DB002823,Sommerville,21,Off Peak,Adult,Leap Card,2.58,Validated,Compliant,1,0,0
+JNY0001000,2026-10-19,2026,10,19,Monday,Weekday,5828_17843,3 N2 a,Bus,8220DB001714,Stoneybatter,8220DB007939,Heuston Station,8,Morning Peak,Adult,Leap Card,3.49,Validated,Compliant,1,0,0

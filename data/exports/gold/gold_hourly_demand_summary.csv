@@ -1,0 +1,25 @@
+departure_hour,time_period,total_journeys,total_fare_value,compliant_journeys,non_compliant_journeys,compliance_rate_pct
+16,Evening Peak,74,192.17,72,2,97.30
+10,Daytime,57,140.55,49,5,85.96
+13,Daytime,54,141.06,52,1,96.30
+11,Daytime,50,131.04,42,5,84.00
+20,Off Peak,51,125.4,46,3,90.20
+22,Off Peak,56,133.88,53,2,94.64
+14,Daytime,51,131.13,45,3,88.24
+4,Off Peak,6,18.36,5,0,83.33
+0,Off Peak,11,27.04,10,1,90.91
+23,Off Peak,41,111.53,39,0,95.12
+18,Evening Peak,52,133.52,50,2,96.15
+8,Morning Peak,61,153.18,52,8,85.25
+17,Evening Peak,66,166.67,60,3,90.91
+19,Evening Peak,78,208.33,67,8,85.90
+5,Off Peak,9,20.57,8,0,88.89
+21,Off Peak,37,95.69,36,1,97.30
+3,Off Peak,7,17.45,7,0,100.00
+15,Daytime,48,112.46,46,1,95.83
+12,Daytime,58,139.21,54,2,93.10
+1,Off Peak,3,8.84,2,0,66.67
+2,Off Peak,2,7.01,2,0,100.00
+7,Morning Peak,41,107.78,36,4,87.80
+6,Morning Peak,34,91.2,32,2,94.12
+9,Morning Peak,53,138.69,49,1,92.45
