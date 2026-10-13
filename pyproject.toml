@@ -26,18 +26,3 @@ namespaces = true
 testpaths = ["tests"]
 python_files = ["test_*.py"]
 addopts = "-ra"
-
-# Exclude large GTFS datasets
-/data/gtfs/stop_times.txt
-/data/gtfs/shapes.txt
-/data/processed/dublin/stop_times.csv
-
-# Large GTFS datasets - keep locally, exclude from GitHub
-/data/gtfs/stop_times.txt
-/data/gtfs/shapes.txt
-/data/processed/dublin/stop_times.csv
-
-# Large GTFS files excluded from GitHub
-/data/gtfs/stop_times.txt
-/data/gtfs/shapes.txt
-/data/processed/dublin/stop_times.csv
